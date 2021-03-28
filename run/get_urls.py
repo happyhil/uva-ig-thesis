@@ -30,7 +30,6 @@ def main():
 
     headers = {
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
-        "Accept-Encoding": "gzip, deflate, br",
         "Accept-Language": "en-US,en;q=0.9,en;q=0.8",
       }
 
@@ -57,7 +56,7 @@ def main():
                 headers["User-Agent"] = useragents[next_agent_row]
 
             urlbase = urlparse(u).netloc.split('.', 1)[1]
-            searchurl = f'https://www.google.dz/search?q=privacy+policy+{urlbase}'
+            searchurl = f'https://www.google.com/search?gl=us&hl=en&pws=0&sxsrf=ALeKk02w32S0h5Nl8tYiz8b9QRlTcZ7qCw%3A1615923792378&ei=UApRYL-7FuSAhbIPkpCjmAk&q=privacy+policy+{urlbase}'
 
             response = requests.get(searchurl, headers=headers)
             if response.status_code != 200:
