@@ -1,0 +1,367 @@
+ 
+Internal Use 
+-
+ 
+Confidential
+ 
+CUSTOMER DATA TERMS AND CONDITIONS
+ 
+From time to time, 
+Dell Technologies
+ 
+may, in its sole discretion, provide Partner with access to contacts 
+
+Customer Data
+
+Dell Technologies
+ 
+customers, including 
+
+Customers
+
+Dell 
+Technologies
+ 
+ 
+products and services to such Customers.  Partner acknowledges that Customer Data are 
+confidential and valuable to 
+Dell Tech
+nologies
+, and Partner agrees to comply with the terms and conditions 
+
+Customer Data Terms and Conditions
+
+The Customer Data Terms and Conditions are 
+supplemental and subject to the 
+Dell Technologies
+ 
+Partner Program Terms and Conditions, and together 
+
+Agreement
+
+Dell Technologies
+ 
+and 
+Distributor with respect to the incentives.
+ 
+1.
+ 
+Customer Data
+.  Customer Data include (a) any non
+-
+public or pr
+oprietary information or data related to 
+Customers and (b) any information or data provided by 
+Dell Technologies
+ 
+to Partner that, alone or together 
+with any other information that Partner may access, identifies or is capable of identifying an individual, s
+uch 
+as name, telephone number, and email address.  Partner agrees that all Customer Data are considered 
+Dell Technologies
+ 
+confidential information, regardless of form or whether such information is marked or 
+
+ 
+shall keep all Customer Data confidential, and shall not 
+disclose any Customer Data to any third party without 
+Dell Technologies
+ 
+prior written consent.  Partner will 
+
+ject to 
+legally binding obligations to keep such information confidential.  As between Partner and 
+Dell 
+Technologies
+, 
+Dell Technologies
+ 
+is the exclusive owner of the Customer Data.  Upon 
+Dell Technologies
+ 
+request, Partner will promptly return to 
+Dell Techn
+ologies
+ 
+all Customer Data, together with all copies, or 
+certify in writing that all Customer Data and copies thereof have been destroyed.
+ 
+2.
+ 
+Permitted Use
+.  Partner shall access, retain, and use all Customer Data solely for the purpose of 
+marketing and sellin
+g 
+Dell Technologies
+ 
+products and services in 
+the territory of 
+the 
+Ordering Agreements
+,
+ 
+as defined 
+in
+ 
+the
+ 
+Agreement
+, 
+to Customers.  All other use of Customer Data is prohibited.  Partner shall not 
+sell, rent, transfer, distribute, or otherwise disclose or make available any Customer Data to any third party 
+(including subcontractors, agents, outsourcers, or auditors), wit
+hout prior written permission from 
+Dell 
+Technologies
+, unless and to the extent required by law.  In the event 
+Dell Technologies
+ 
+provides such 
+
+ 
+3.
+ 
+Privacy Obligat
+ions
+.  
+Where permitted to 
+contact
+, solicit, or target any Customer using any Customer 
+
+laws and regulations related to privacy and 
+data protection
+, including but not limited to telemarketing laws 
+as applicable
+, and shall include a simple 
+method for recipients to unsubscribe from further contact by Partner.
+ 
+4.
+ 
+Information Security Obligations
+.  Partner will implement commercially reasonable physical, 
+te
+chnical, administrative and organizational safeguards to protect Customer Data that are no less rigorous 
+than accepted industry security practices.  Partner will ensure that all Customer Data are processed in 
+
+l applicable 
+laws and regulations, including but not limited 
+to data protection and privacy laws and regulations.
+ 
+5.
+ 
+Compliance
+
+Dell 
+Technologies
+ 
+ 
+may (or may designate a third pa
+
+
+limited to those related to Customer Data.  To facilitate such audit or assessment, Partner will p
+rovide 
+access to relevant personnel, physical premises, documentation, infrastructure, records, and application 
+software.  If, as a result of such audit or assessment, 
+Dell Technologies
+ 
+determines additional or different 
+security measures are necessary to 
+protect Customer Data, Partner agrees to cooperate with 
+Dell 
+Technologies
+ 
+in implementing reasonable measures.
+ 
+6.
+ 
+Security Breach
+.  Partner will provide 
+Dell Technologies
+ 
+
+
+or unauthorized access, whether actual or suspected, that (a) involves any Customer Data or (b) relates 
+to 
+
+including (i) physical trespass on a secure facility, (ii) electronic systems intrusion/hacking, (iii) loss/theft of 
+
+ 
+Internal Use 
+-
+ 
+Confidential
+ 
+a notebook, desktop, or other el
+ectronic or mobile device, hard drive, or any information
+-
+storage device, 
+(iv) loss/theft of printed materials, (v) exploitation of a vulnerability, or (vi) receipt of a substantiated 
+
+-
+protection practices
+ 
+or policies or an alleged breach of 
+this Agreement.  Partner will notify 
+Dell Technologies
+ 
+of a Security Breach within 24 hours of becoming 
+aware of it, by e
+-
+mailing 
+Dell Technologies
+ 
+
+primary 
+Del
+l Technologies
+ 
+business contact.  Except as required by law, Partner will not inform any third 
+party of a Security Breach without first obtaining 
+Dell Technologies
+ 
+prior written consent.  Partner will 
+cooperate with 
+Dell Technologies
+ 
+in any resulting investigation, reporting, or other obligations required by 
+applicable law or regulation, or as otherwise required by 
+Dell Technologies
+.  Partner will take immediate 
+steps to remedy any Security Breach in accordance with local privacy laws
+ 
+
+sole expense.  Partner will reimburse 
+Dell Technologies
+ 
+for actual and reasonable costs, including but not 
+
+ 
+a 
+Security Breac
+h.
+ 
+7.
+ 
+Inquiry
+.  Except where expressly prohibited by law, Partner will immediately notify 
+Dell Technologies
+ 
+of 
+
+-
+request from a court, or executive, 
+government, or administrative agency, that re
+
+practices applicable to the Customer Data.  In addition, Partner will promptly provide 
+Dell Technologies
+ 
+with 
+information and assistance required to timely respond to any inquiry, demand, complaint, e
+nforcement 
+notice, claim, or other request received by 
+Dell Technologies
+ 
+that relates to any portion of the Customer 
+
+-
+practices applicable to the Customer Data.
+ 
+8.
+ 
+Indemnity
+.  Partner agrees to defend, indemnify, and hold 
+Dell Technologies
+ 
+harmless against any and 
+all third
+-
+
+ 
+9.
+ 
+Remedies.
+  
+Partner acknowledges that damages for improper disclosure of 
+Dell Technologies
+ 
+confidential information may b
+e irreparable and that 
+Dell Technologies
+ 
+shall be entitled to equitable relief, 
+including injunction and preliminary injunction, in addition to all other remedies available at law or in equity.
+ 
+10.
+ 
+Disclaimer.
+ 
+ 
+
+Dell T
+echnologies
+ 
+has no responsibility or liability 
+as to the accuracy or completeness of Customer Data.  
+DELL TECHNOLOGIES
+ 
+DISCLAIMS ALL 
+EXPRESS, IMPLIED AND STATUTORY WARRANTIES AND CONDITIONS WITH RESPECT TO 
+CUSTOMER DATA, INCLUDING WARRANTIES OR CONDITIONS 
+OF NONINFRINGEMENT, 
+MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE.
+ 
+11.
+ 
+Term
+
+acceptance of 
+the 
+Dell Technologies
+ 
+Partner 
+Program Terms and Conditions
+ 
+
+ 
+Unless terminated as 
+permitted herein, 
+these Customer Data Terms and Conditions
+ 
+shall auto
+-
+renew for an additional 12
+-
+month 
+period on each anniversary date of the Effective Date.  
+Dell Technologies
+ 
+may terminate 
+these Customer 
+Data Terms and Conditions
+ 
+and/or cease providing Customer Data to Partner at any time.  Upon the 
+termination 
+of 
+these Customer Data Terms and Conditions
+, Partner must
+ 
+cease use of Customer Data.
+ 
+ 
+By clicking to accept the 
+Dell Technologies
+ 
+Partner Program Terms and Conditions
+, you agree to 
+be bound by all terms, conditions, and restrictions contained in the 
+Customer Data Terms and 
+Conditions.
+ 
+Please print a copy of the 
+Customer Data Terms and Conditions
+ 
+for your records.
+ 
+Rev. October 23, 2020
+ 
+

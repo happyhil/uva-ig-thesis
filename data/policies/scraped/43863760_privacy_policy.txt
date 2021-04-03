@@ -1,0 +1,753 @@
+1 Visa Global Privacy Notice
+ Effective date: 
+June 3,
+ 2020
+ At Visa, our mission is to provide you with the best way to pay and be paid. We operate one 
+of 
+the world™s 
+largest payment networks, and we know we must provide the most secure and seamless payment 
+experience possible. Respecting your privacy is central to
+ our mission. Visa has a Global Privacy Program 
+to help ensure your information is handled properly, 
+and 
+your personal information is protected. Our 
+Privacy Program reflects the sensitivity of the personal, financial, 
+and 
+other information we handle. It al
+so 
+reflects the requirements of the privacy laws in 
+all 
+the countries 
+and 
+states where Visa
+ operates.
+ As a global payments technology company, Visa fulfills many roles. When we act as a service provider for 
+Visa card issuers and merchants, we only collect 
+and use personal information as authorized by our 
+contracts with our clients. If you have questions about how these companies handle your personal 
+
+information, or wish to exercise your rights, please contact them directly. For example, if you have signed 
+up for cash
+-back or loyalty offers with your financial institution or a merchant, please contact that 
+company for more information.
+ This Privacy Notice explains how Visa Inc. and its Affiliates
+1 collect, use, and disclose personal information. 
+Some Visa com
+panies and services have different privacy notices that are provided when you use them. 
+We also have some supplemental privacy notices that provide additional information as required by law. 
+
+You can learn more and exercise your privacy choices at our
+ Privacy Center
+. 1 Visa™s Affiliates are companies that are directly or indirectly controlled by Visa U.S.A. Inc. or its parent company Visa 
+Inc. through ownersh
+ipŠfor example, Visa International Service Association, Visa Worldwide Pte. Limited, Visa Canada 
+Corporation, Visa International Servicios de Pago España, S.R.L.,Visa Europe Limited, Visa do Brasil Empreendimentos 
+Ltda, CardinalCommerce Corporation, CyberSource Corporation and Verifi, Inc.
+ Personal Information
+ Personal 
+Information 
+is any information that we can use to identify, locate, or contact you, along with 
+other associated information. It also includes other information that may be associated with your personal 
+information. We collect several types of personal information, including:
+ Card Transaction Data
+ that allows us to operate VisaNet, our electronic payments networks, andprovide payment services. When you use a Visa card (or other payment product), we receive thedate, time, location, and amount of the transaction and information about the merchant. We mayreceive other financial information when processing transactions and providing services to ourclients. For example, when you sign up to use the a Visa secure checkout solution (such as ), wemay also collect additional information about the payment card you are shopping with, such asthe expiration date and security code (e.g., CVV2 of your payment card) and your billing address.
+Contact Information that allows us to communicate with you, such as your nameusername,mailing address, telephone number, email address, or social media profile names.Relationship Information 
+that helps us do business with you, such as your shopping andpayment preferences and other information that can help us understand you and offer youpersonalized content.Information about your Interactions with Visa
+, such as data collected when you:
+2 oUse our products, s
+ervices, websites or apps, including information collected
+ using
+Cookies
+ and other
+ technologies
+, which may include geolocation information, browsing
+history and other information available via digital interactions
+oCommunicate with us, such as if you contact our customer service centers, including
+recording calls for quality and training 
+purposes
+oParticipate in promotions or
+ programs
+oAttend Visa sponsored events, such as travel
+-related information for you and any
+companions and information gathered at the events, such as photos or vide
+osoOpt in or out of marketing or exercise your other
+ c
+hoices
+How We Collect Personal Information
+ We receive Card Transaction Data and other financial information from your payment card issuer and 
+from merchants, 
+acquirers, 
+and other third parties whenever you use a Visa
+-branded payment product. 
+We may receiv
+e additional information from third
+-party digital wallets and merchants when you make an 
+online purchase, or from our clients, when we provide services to them.
+ We collect personal information when you sign up for offers or loyalty programs with our Affili
+ates or 
+clients. For example, if you opt
+-in to receiving cash
+-back or card
+-linked offers, we will process Card 
+Transaction Data and other personal information to enable you to receive the credits and rewards.
+ We may collect personal information directly fr
+om you
+, or third parties may collect personal information 
+from you on our behalf. For example, you may contact us, register for a promotion, sign up to r
+eceive 
+messages from us, 
+participate in a Visa
+-sponsored event, 
+or enroll in secure checkout programs
+ (such 
+as Visa Checkout or click to pay with Visa (
+)2 or biometric payment
+ programs.
+ We collect information when you visit our websites, use our apps or engage with our emails or ads. You 
+
+can learn more by reading our 
+Cookie Notice
+. 
+We may also capture device characteristics like keystroke 
+timing to help us recognize valid transactions and authenticate you. We may collect information that you 
+post publicly on social media.
+ We may also obtain information about you from data brokers who help us enhance our records with 
+demographic data and public records. For example, we may receive personal or household characteristics, 
+such as your estimated age or household income.
+ In all cases, the information we collect is subject to applicable laws and the choices that you may have 
+exercised.
+ How We Use Personal Information
+ We use personal information to:
+ Operate 
+Visa
+™s 
+electronic
+ payments networks
+,3  enable your payment
+ transactions,
+ and 
+for related
+purposes, such as authentication, dispute resolution, fraud prevention, and
+ security.
+Provide you with the products, services, programs, 
+offers
+, 
+or information you request from Visa,
+and for related purposes such as determinin
+g eligibility and customer service.
+2 The
+  icon
+ is a trademark owned by and used with permission of EMVCo, LLC
+. 3 This includes our core processing activities, such as authorization, clearing, and settlement of transactions and 
+tokenization.
+ 
+3 Provide services to our clients. For example, if you enroll in a card issuer or merchant loyalty
+program, we will process Card Transaction Data to calculate your rewards and provide
+ targete
+doffers to you from the
+ client
+.Operate 
+Visa Checkout or click to pay with Visa 
+() including to enroll you in the solution, to
+enable you to stay signed in on your device (if you have chosen this), to enable you to check out
+using the solution, to integrate with other digital wallets 
+(if you have chosen to do this), and to
+participate in programs related to your use of the
+ solution.
+Admi
+nister surveys, loyalty programs, sweepstakes, 
+contests
+, and 
+events.
+Based on your choices, deliver marketing communications, personalized offers and i
+nterest
+-bas
+edads to
+ you.
+Understand how you and others use our products, for analytics and modeling and to
+ creat
+ebusiness intelligence and insights and to understand economic trends.
+Generate de
+-personalized, de
+-identified, anonymized, or 
+aggregated datasets, which are used for
+product development and delivery of consulting services to
+ clients.
+Support our everyday business purposes, such as for account management, quality control,
+website administration, business continuity and disaster re
+covery, security and fraud
+ prevention,
+corporate governance, reporting and legal
+ compliance.
+Please note that we may also use and disclose information that it is not personally identifiable. For 
+
+example, we may publish reports that contain aggregated or st
+atistical data, such as reports showing 
+general payment card usage trends. These reports do not contain any personal information.
+ Visa Advertising Solutions (VAS)
+ In 
+the United States, 
+Visa enhances 
+and uses 
+Card Transaction Data 
+for VAS, a suite of aggregated 
+data 
+products that 
+enable our clients 
+to improve their marketing 
+efforts, 
+such as to measure the effectiveness 
+of their 
+advertising campaigns
+, 
+or identify audiences for their campaigns
+. The
+ VAS 
+products do not 
+disclose person
+al information
+. For example, a VAS marketing report may show our clients that consumers 
+in a geographic area tend to spend more at auto parts stores than consumers in another geographic area. 
+U.S. cardholders can 
+opt out of Visa using their card transaction data for VAS
+. This opt out will not limit 
+our use of data in other aspects of Visa's business, including where the use is necessary to operate our 
+business, required by law, or in d
+esigning and operating other products and services unrelated to VAS.
+ Why Personal Information Is Disclosed 
+To Others
+ We may disclose your personal information to:
+ Your Visa card (or payment product) issuer
+Merchants, financial institutions, 
+and 
+third parties as needed to enable your payments, operat
+eour payment network, support the Visa secure checkout solution experience (if
+ applicable),
+manage fraud, compliance and complaints, and for similar purposes (su
+ch as investigating
+disputed charges)
+Our Affiliates, which may only use your information for the purposes described in this Notice,
+ and
+Our service providers, who use your information to provide services to us and are required to
+protect
+ it
+4 With
+ your
+ cons
+ent,
+ we ma
+y disclose
+ your
+ information
+ to merchants,
+ reward
+s networks,
+ and
+ other
+ partners,
+ such
+ as when
+ you
+ opt
+-in to
+ a co
+-branded or promotional program. In some cases, Vis
+a operates as a 
+service provider to companies that offer cash
+-bac
+k and rewards progr
+ams,
+ and
+ we
+ may disclose
+ information
+ about
+ you
+ and
+ your
+ payment
+ transactions
+ based
+ on the
+ consent
+ that
+ you
+ provided
+ the
+ rewards
+ company
+ to
+ enabl
+e it to
+ provi
+de the
+ rewards
+. For
+ example, i
+f you
+ sign
+ up
+ to
+ receiv
+e offers
+ from
+ a travel partner through Visa, w
+e may
+ share
+ your
+ personal
+ informatio
+n with
+ that
+ partner
+ as
+ needed
+ to
+ operate the program, validate referrals, and measure success of the promotions. 
+We
+ may
+ share
+ your
+ informatio
+n wit
+h other
+ third
+ parties
+ as permitted
+ by
+ law,
+ such
+ as
+ when
+ we
+ se
+ll or
+ transfe
+r busine
+ss assets,
+ enforce
+ our
+ contracts,
+ protect
+ our
+ propert
+y or the
+ rights,
+ property
+ or safet
+y of others, or
+ as needed for
+ audits, complianc
+e, an
+d corporat
+e governance.
+ We
+ wil
+l also
+ disclose
+ personal
+ information
+ whe
+n required
+ to
+ do
+ so
+ by
+ law,
+ such
+ as
+ in response
+ to
+ a subpoena,
+ including
+ to
+ law
+ enforcement
+ agencies,
+ regulators
+ and
+ courts
+ in the
+ United
+ States
+ and
+ other
+ countries
+ wher
+e we operate.
+ Online Privacy 
+When
+ yo
+u visit
+ our
+ website,
+ use
+ our
+ mobile
+ applications,
+ or
+ engage
+ with
+ our
+ emails
+ and
+ online
+ ads,
+ we 
+may collect
+ information
+ by automated
+ means,
+ using
+ technologie
+s such
+ as cookies,
+ pixel
+ tags,
+ browser
+ analysis
+ tools,
+ server
+ logs,
+ and
+ web
+ beacons.
+ In
+ some
+ cases,
+ the
+ information
+ we collect
+ is onl
+y used
+ in
+ a non
+-identifiabl
+e way. For
+ example, w
+e use 
+information
+ we collect
+ about
+ all
+ websit
+e users
+ to
+ optimiz
+e our
+ websites
+ an
+d to
+ understan
+d websit
+e traffic
+ patterns.
+ We do
+ not
+ use
+ this
+ informatio
+n to
+ profile
+ you
+ or
+ target
+ our
+ ads.
+ In other
+ cases
+, we may
+ us
+e th
+e information
+ in
+ an
+ identifiabl
+e way. For
+ exampl
+e,
+ we
+ may
+ authenticate
+ you 
+or
+ your
+ device,
+ deliver
+ personaliz
+ed content
+ or
+ us
+e th
+e information
+ for
+ analytics,
+ frau
+d detection, and 
+security.
+ We may
+ also
+ use
+ the
+ informatio
+n for
+ online
+ ad targeting.
+ Our
+ Cookie
+ Notice
+ provide
+s more
+ informatio
+n about
+ our
+ online
+ data
+ collectio
+n technologies
+ and
+ your
+ choices.
+ As
+ describ
+ed in our
+ Cookie
+ Notice
+, we
+ have relationships
+ with
+ third
+-party
+ advertisin
+g companies
+. These 
+third parties may track you, your browser or your device across different websites and applications. 
+Subject
+ to
+ your
+ settings,
+ we
+ may place
+ cookie
+s or tag
+s on
+ your
+ computer
+ when
+ you
+ visit
+ our
+ website
+ so
+ that
+ they
+ ca
+n display
+ targeted
+ advertisements
+ to
+ yo
+u on other
+ websites.
+ The
+ use
+ of
+ your
+ data
+ by
+ these
+ companies
+ is subject
+ to
+ their
+ own
+ privacy
+ policies.
+ Many Visa websites only place marketing, personalization, and advertising cookies
+ if you explicitly accept 
+these cookies by clicking ﬁAccept All Cookiesﬂ when you first visit the website. Our 
+Cookie Notice
+ explains 
+how to manage your preferences and 
+how to disable previously accepted cookies.
+ Our websites may enable you to interact with us and others via social media platforms. We collect information from these platforms as permitted by the sites™ legal terms. We may also display interesbased ads to you when you are using these platforms. The platforms allow us to personalize the ads that 
+we display to you, and they may gain insights about individuals who respond to the ads we serve. Mobile
+ Applications
+ When
+ you
+ download
+ our
+ mobile
+ applications,
+ you
+ may
+ allow
+ us to
+ obtain
+ your
+ precise
+ location
+ fr
+om your
+ mobile
+ device.
+ We use
+ this
+ information
+ to
+ deliver
+ personalized
+ content
+ and
+ for
+ analytics.
+ We
+ may
+ also
+ offer
+ automatic
+ ("push"
+) notifications.
+ We
+ will provide
+ push
+ notifications
+ only
+ if you
+ opt
+-in to
+ receive 
+them.
+ Yo
+u do
+ not
+ have to
+ provide
+ locatio
+n informatio
+n or
+ enable
+ pus
+h notifications
+ to
+ use
+ our
+ mobile
+ apps
+. 
+ 5 Your Choices and Privacy Rights
+  Privacy Center
+: Visa offers you different choices about how we use your information. We also
+ offer you 
+choices about how we communicate with you. Our 
+Privacy Center
+ explains how to exercise these choices.
+ We respect your rights to access and correct your information and to request that we delete your 
+information if we no longer need it for a business purpose. If you have an online account with Visa, you 
+can log into your account to access, update and delete
+ your information. You can also submit requests to 
+us via the 
+Privacy 
+Portal
+ or 
+Contact Us
+ for assistance.
+ For security reasons and to prevent unauthorized disclosure of p
+ersonal information, cardholders should 
+contact their payment card issuers to access their Card Transaction Data. This helps ensure that access to 
+the information is only provided to the authorized individuals, subject to the issuer™s verification 
+processe
+s. Additionally, if you have questions about how your issuer, any merchants or rewards networks handles 
+your personal information, please check the privacy notices provided by these companies and contact 
+them directly for assistance with any privacy reques
+ts. When Visa acts as a service provider (also called a 
+data processor) for our clients, we only process your information as instructed by our client to provide the 
+services and for other appropriate purposes, such as recordkeeping and compliance. We rely 
+on our 
+clients to provide you with appropriate privacy notices and to manage your privacy rights.
+  
+Visa Advertising Solutions
+ (VAS)
+: In the United States, Visa enhances and uses card transaction data for 
+VAS, a suite of aggregated data products that enable
+ our clients to improve their marketing efforts, such 
+as to measure the effectiveness of their advertising campaigns or identify audiences for their campaigns.
+ The VAS products do not disclose personal information. For example, a VAS marketing report may s
+how 
+our clients that consumers in a geographic area tend to spend more at auto parts stores than consumers 
+in another geographic area.
+    U.S. cardholders can 
+opt out of Visa using 
+their
+ card transaction data for VAS
+. This opt 
+out will not limit 
+our use of data in other aspects of Visa's business, including where the use is necessary to operate
+ our 
+business, required by law, or in designing and operating other products and services unrelated to VAS.
+  Supplemental Privacy Notice
+: Residents of some states and countries have additional privacy rights. 
+Information on these rights is provided in the 
+supplemental privacy notices posted in the 
+Privacy Center
+.  International Transfers
+ Visa is based in the United States and has Affiliates and service providers around the world. Your persona
+l information may be transferred to other countries, which may not have similar privacy or data protection 
+
+laws. However, we will always protect your information as described in the Privacy Notice, no matter 
+where it is stored.
+  Information Security and Da
+ta Retention
+ We use physical, technical, organizational, and administrative safeguards to help protect your personal 
+information from unauthorized access or loss. For example, we use encryption and other tools to protect 
+sensitive information. We retain yo
+ur personal information as needed for the purposes listed above and as 
+permitted by law.
+  
+ 6 Privacy Policies of Third Parties
+ This Privacy Notice explains how Visa Inc. and its Affiliates handle your personal information. Please also 
+read the privacy 
+notice provided by your Visa card issuer to learn how that company handles your 
+information. Additionally, if you are participating in offers or promotions, please read the privacy notices 
+provided by the merchant or the rewards network before you sign up.
+ Social media platforms and other websites that may be accessed through Visa™s websites also have their 
+
+own privacy policies. We encourage you to read the privacy notices provided by these sites before you 
+
+give them your information.
+  Job 
+Applicants 
+If you have applied for a job at Visa, the personal information in your application will be used and 
+
+retained for recruiting, compliance and other customary human resources purposes. For more information 
+
+about our HR Privacy Program, please 
+Contact Us
+. 
+ Children™s Data
+ Visa™s platforms are not directed to children, and Visa only collects information from children as permitted 
+by law. For example, we may collect data from children over 16 who are allowed by 
+law to interact with 
+Visa or if we have appropriate consent, such as if children attend Visa sponsored events with adult 
+caregivers. If you believe that we are processing a child™s information inappropriately, please 
+Contact Us
+.   
+ Changes to this Privacy Notice
+ We may update this Privacy Notice from time to time. We will post an alert online if the changes are 
+
+material. If the changes will materially affect the way we use identifiable information that we have already
+ collected, we will notify you.
+  How to Contact the Visa Privacy Office
+ If you have questions or comments about our privacy practices, or if you would like help exercising your 
+
+privacy rights, please contact us. You can:
+  Email
+ us:
+ privacy@visa.com
+ Please do not include sensitive information, such as your account number, in emails.
+  Mail us a
+ letter:
+ Visa Global Privacy Office 
+ 900 Metro Center Blvd.
+ Foster City, CA, 94404 USA
+  
