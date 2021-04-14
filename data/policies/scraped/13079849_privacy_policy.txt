@@ -1,1 +1,530 @@
-Search for:Search ButtonMobile Search for:Mobile Search ButtonMain ContentUHS Privacy PoliciesCode of Conduct & Compliance ManualUHS has developed a number of policies regarding the use and disclosure of protected health information (PHI), and for compliance with the HIPAA Privacy Rule. Copies of the UHS privacy policies and procedures are available on this website, or by contacting the applicable Facility Compliance Officer or the UHS Compliance Office. Below is a summary of UHS privacy policies. UHS has developed written compliance policies and procedures that are designed to establish bright-line rules that help personnel carry out their job functions in compliance with federal healthcare program requirements, and to further the mission and objectives of UHS and its facilities. Copies of the UHS compliance policies and procedures are available on this website, or by contacting the applicable Facility Compliance Officer or the UHS Compliance Office. Below is a summary of UHS compliance policies.1.0 - Facility Privacy OfficerRequires that Facilities designate a Privacy Officer responsible for developing, implementing and maintaining the Facility's privacy policies and procedures regarding the use and disclosure of protected health information (PHI) and for compliance with the HIPAA Privacy Rule. Provides a description and overview of the Facility Privacy Officer's role and responsibilities..2.0 - Breach NotificationEstablishes procedures for the notification of individuals, prominent media, and the Secretary of the U.S. Department of Health and Human Services, as appropriate, following the discovery of a breach of unsecured protected health information (PHI) by a Facility or its Business Associate(s), and to identify when the unauthorized acquisition, access, use or disclosure of unsecured PHI is a breach for notification purposes..3.0 - Use and Disclosure Requiring AuthorizationIdentifies when Facilities may use and disclose PHI of patients pursuant to an Authorization..4.0 - Notice of Privacy PracticesOutlines the policy and process for each Facility to distribute the Notices of Privacy Practices ("Notices") and obtain patient acknowledgment..5.0 -- Use And Disclosure For Treatment, Payment And Health Care OperationsIdentifies the uses and disclosure of PHI for treatment, payment and health care operations..6.0 - Minimum Necessary PolicyEstablishes a policy and procedure for compliance with the "minimum necessary" requirements of HIPAA, in order to limit unnecessary or inappropriate access, use and disclosure of PHI..7.0 -- Limited Data Sets And Data Use AgreementsDescribes limited data sets and data use agreements, explains their use, and outlines the contents and requirements for limited data sets and data use agreements..8.0 -- De-Identification Of Protected Health Information (PHI)Provides a specific policy and procedures for the de-identification of PHI and the uses and disclosures of de-identified health information, in accordance with HIPAA..9.0 -- Disclosures For Armed Services, National Security And Other Specialized Government FunctionsIdentifies when Facilities may use and disclose PHI for Armed Services, national security and other specialized government functions..10.0 -- Disclosures To ClergyIdentifies when PHI may be disclosed to members of the clergy ("Clergy")..11.0 - Disclosure Of Alcohol And Substance/Drug Abuse RecordsDescribes permissible disclosures of Alcohol and Substance/Drug Abuse Records..12.0 -- Patient Directory PolicyDescribes the PHI that may be used to create patient directories at Facilities and who will have access to which particular information contained in the patient directories. Information on patients in behavioral health Facilities, in behavioral health or psychiatric departments, or in alcohol or substance/drug abuse programs will not be included in a patient directory..13.0 -- Photographs, Videotapes And Other Recordings Of PatientsDescribes when photographs, videotapes and other recordings are allowed to be taken of patients and the purposes and manner in which these may be used or disclosed..14.0 -- Use And Disclosure For Research And Reviews Preparatory To ResearchAssures that when research is conducted or reviews preparatory to research are performed involving the use or disclosure of PHI this is done in accordance with applicable HIPAA requirements..15.0 -- Use And Disclosure Of PHI For MarketingIdentifies when Facilities may use and disclose PHI for marketing purposes..16.0 -- Disclosures For Law Enforcement PurposesIdentifies and establishes guidelines for when Facilities may use and disclose PHI for law enforcement purposes without a patient authorization or providing an opportunity for the patient to object..17.0 -- Disclosures To Correctional Institutions Or Law Enforcement With Lawful CustodyIdentifies when Facilities may use and disclose PHI of patients in a correctional institution and in the custody of law enforcement..18.0 -- Patient Rights Under The HIPAA Privacy RuleProvides an overview of patient rights under the HIPAA Privacy Rule..19.0 -- Patient Requests To Access PHIIdentifies and establishes guidelines for when a patient (or authorized personal representative, as applicable) has the right to access his or her PHI that is maintained as medical records and billing records used, in whole or in part, by or for a Facility to make decisions about patients, known as the "designated record set.".20.0 -- Patient's Request To Amend PHIIdentifies and establishes guidelines for when a patient has the right to amend his or her PHI that is maintained as medical records and billing records used, in whole or in part, by or for a Facility tomake decisions about patients, known as the "designated record set.".21.0 -- Patient's Rights To Request Use Or Disclosure Restrictions And Alternative CommunicationsEstablishes guidelines for handling: (1) patient requests for a restriction on the use or disclosure of PHI; and (2) patient requests to receive communications of PHI by alternative means..22.0 -- Responding To Patient Complaints And Other Privacy-Related ComplaintsIdentifies and establishes the process for patients to submit complaints if they believe their privacy has been violated or concerning the Facility's privacy policies and procedures, including breach notification issues, and how they are notified about the complaint process..23.0 -- Accounting Of DisclosuresIdentifies and establishes procedures for providing, upon request of a patient or authorized personal representative, as applicable, an accounting of disclosures of PHI made by a Facility..24.0 -- Overview Of The Uses and Disclosures of PHIProvides an overview of permissible uses and disclosures of PHI and to cross reference applicable UHS privacy policies addressing uses and disclosures in these situations..25.0 -- Uses And Disclosures Requiring An Opportunity To Agree/ObjectIdentifies and establishes guidelines for when Facilities may use and disclose PHI that require an opportunity for the individual to agree or object..26.0 -- Uses And Disclosures Not Requiring Authorization Or Opportunity For Patient To Agree/ObjectIdentifies and establishes guidelines for when Facilities may use and disclose PHI without a patient authorization or providing an opportunity for the patient to agree or object..27.0 -- Business Associates and Business Associate AgreementsEstablishes a policy on disclosing PHI to business associates of the Facility..28.0 -- Personal RepresentativesProvides information to Facilities on requirements relating to personal representatives, who must be treated as the patient for the purposes of using or disclosing PHI under HIPAA..29.0 -- Facility Sanctions PolicyEstablishes a sanctions policy under which Facilities will apply appropriate counseling and sanctions against members of their workforce who fail to comply with policies and procedures..30.0 -- HIPAA Privacy Training PolicyDescribes the HIPAA privacy training requirements for all Facility workforce members..Stock QuoteOct 30, 2017 | 1:39PM102.00  -1.49UHS is a registered trademark of UHS of Delaware, Inc., the management company for Universal Health Services, Inc. and a wholly-owned subsidiary of Universal Health Services. Universal Health Services, Inc. is a holding company and operates through its subsidiaries including its management company, UHS of Delaware, Inc. All healthcare and management operations are conducted by subsidiaries of Universal Health Services, Inc. To the extent any reference to "UHS" or "UHS facilities" on this website including any statements, articles or other publications contained herein relates to our healthcare or management operations it is referring to Universal Health Services' subsidiaries including UHS of Delaware. Further, the terms "we," "us," "our" or "the company" in such context similarly refer to the operations of Universal Health Services' subsidiaries including UHS of Delaware. Any employment referenced in this website is not with Universal Health Services, Inc. but solely with one of its subsidiaries including UHS of Delaware, Inc.© 2021 Universal Health Services, Inc.  All Rights Reserved.
+PRIVACY 26.0
+ USES 
+AND DISCLOSURES NOT REQUIRING
+ AUTHORIZATION OR OPPORTUNITY 
+FOR PATIENT 
+TO 
+AGREE/
+OBJECT
+ Scope
+:   All workforce 
+members (employees and non
+-employees), including 
+employed 
+medical staff, management, and others who have direct or indirect 
+access to 
+patient 
+protected health information (
+PHI) of any subsidiaries of Universal Health 
+Services, Inc., including facilities and UHS of Delaware Inc. (collectively, 
+ÒUHSÓ)
+, including UHS 
+covered entities
+ (ÒFacilitiesÓ)
+. Purpose:
+   Identifies 
+and establishes guidelines for 
+when 
+Facilities may 
+use
+ and 
+disclose
+ PHI without 
+a patient 
+authorization
+ or providing an opportunity for the patient to 
+agree 
+or object.
+  Definitions:
+  Terms not defined in this Policy 
+or the 
+HIPAA Terms and
+ Definitions 
+maintained by the UHS 
+Compliance Office will 
+have the meaning as defined in any related State or Federal privacy law 
+including 
+the Health Insurance Portability and Accountability Act of 1996, Public Law 104
+-191 (ÒHIPAAÓ) and regulations promulgated thereun
+der by the U.S. Department of Health and 
+Human Services (ÒHHSÓ) at 45 CFR Part 160 and 164, Subparts A and E (ÒPrivacy RegulationsÓ 
+or ÒPrivacy RuleÓ) and Subparts A and C (ÒSecurity RegulationsÓ or ÒSecurity RuleÓ), the 
+Health Information Technology for E
+conomic and Clinical Health Act (ÒHITECHÓ) privacy and 
+security provisions of the American Recovery and Reinvestment Act (Stimulus Act) for Long 
+Term Care, Public Law 111
+-5, the American Recovery and Reinvestment Act of 2009 
+(ÒARRAÓ), Title XIII and relate
+d regulations.
+ Policy:
+ A Facility may 
+use
+ or disclose
+ PHI without the written 
+authorization
+ of the individual
+, or without 
+an opportunity for th
+e individual to agree or object,
+ in the situations described in this Policy
+ and 
+using the procedure outlined belo
+w.  State law may impose additional requirements 
+and 
+restrictions 
+Ð Facilities will contact the UHS Legal Department if they have any questions 
+regarding the state laws applicable to them.   
+  Procedure:
+ As describ
+ed below, Facilities may 
+use
+ or disclose
+ PHI without the written 
+authorization
+ of the 
+individual, or without an opportunity for the individual to agree or object, as described below.
+ Uses and Disclosures for Public Health Activities
+ Facilities may 
+use or 
+disclose
+ PHI for public health activities 
+and purposes to:
+ 
+¥ A public health authority that is authorized by law to collect or receive such information 
+for the purpose of preventing or controlling disease, injury or disability;
+ ¥ At the direction of a public health authority, to an official of a forei
+gn government agency 
+that is acting in collaboration with a public health authority;
+ ¥ A public health authority or other appropriate government authority authorized by law to 
+receive reports of child ab
+use
+ or neglect;
+ ¥ A person subject to the Food and Drug 
+Administration (FDA) with respect to an FDA
+-regulated product or activity for which the person has responsibility, for the purpose of 
+activities related to q
+uality, safety or effectiveness;
+ ¥ A person who may have been exposed to a communicable disease or ma
+y be at risk of 
+contracting or spreading a disease or condition, if the Facility or public health authority is 
+authorized by law to notify the person as necessary in the conduct of a public health 
+intervention or investigation;
+ ¥ An employer about a member o
+f the employerÕs workforce if the Facility is a covered 
+health care provider who provides health care to the individual at the request of the 
+employer:  (1) to conduct an evaluation relating to medical surveillance of the workplace, 
+or (2) to evaluate whet
+her the individual has a work
+-related illness or injury.  The 
+PHI disclose
+d must be limited to findings concerning a work
+-related illness or injury or a 
+workplace
+-related medical surveillance. The employer must need the findings to comply 
+with legal obliga
+tions to record the illness or injury to carry out responsibilities for 
+workplace medical surveillance.  The Facility must provide written notice to the 
+individual that 
+PHI relating to the medical surveillance of the workplace and work
+-related 
+illnesses an
+d injuries is 
+disclose
+d to the employer, either by giving written notice when 
+the health care is provided or if the health care is provided at the work site, by posting the 
+notice in a prominent place where the health care is provided.
+ ¥ A school about an individual who is a student or prospective student of the school if:  (1)  
+the PHI that is disclosed is limited to proof of immunization; (2) the school is required by 
+state or other law to have such proof prior to admitting the individua
+l; and (3) the Facility 
+obtains and documents 
+the 
+agreement to the disclosure from the individual (if the student 
+is an adult or emancipated minor) or, where the individual is an unemancipated minor, 
+from a parent, guardian or other person acting 
+in loco p
+arentis 
+of the individual.
+  The 
+agreement may be an oral agreement to disclose the immunization records.  
+Documentation will make clear that agreement was obtained for the disclosure.  For 
+example, if the parent of an unemancipated minor called to request 
+the Facility forward 
+their childÕs immunization records to the school, a notation would be made in the childÕs 
+medical record or elsewhere of the phone call.  The agreement to permit disclosure of 
+immunization records is considered effective until it is re
+voked.
+  
+Uses and Disclosures for Health Oversight Activities
+ A Facility may 
+disclose
+ PHI to a health oversight agency for oversight activities authorized by 
+law, including audits; civil, administrative or criminal investigations; inspections; licensure or 
+disciplinary actions; civil, administrative or criminal investigations; inspections; licensure or 
+disciplinary actions; civil, 
+administrative or criminal proce
+edings or actions; or other activities 
+necessary for the appropriate oversight of:
+ ¥ The health car
+e system
+; ¥ Government benefit programs for which health information is relevant to beneficiary 
+eligibility;
+ ¥ Entities subject to government regulatory programs for which health information is 
+necessary for determining compliance with program standards; or
+ ¥ Entities subject to civil rights laws for which health information is necessary for 
+determining compliance.
+ The health oversight activities described above do 
+not include investigations or activities in 
+which the individual is the subject of the investigatio
+n or activity, and the investigation or 
+activity does not arise out of and is not directly related to:
+ ¥ The receipt of health care;
+ ¥ A claim for public benefits related to health; or
+ ¥ Qualification for, or receipt of public benefits or services when a patient
+Õs health is 
+integral to the claim.
+  Disclosures Required by Law
+ Facilities may 
+use
+ or disclose
+ PHI to the extent that the 
+use
+ or disclosure
+ is required by law and 
+complies with 
+Ð and is limited by 
+Ð the 
+relevant requirements of the 
+law.  Specific requirem
+ents 
+must 
+also 
+be met as described 
+in the sections 
+below for:  
+(i) 
+disclosures
+ about victims of ab
+use
+, neglect or domestic violence; 
+(ii) 
+disclosures
+ for judicial and administrative pleadings; and 
+(iii) 
+disclosures
+ for law enforcement purposes.
+  Disclosures about victims of ab
+use
+, neglect or domestic violence
+ Facilities may 
+disclose
+ PHI for public health activities and purposes to a public health authority 
+or other appropriate government authority authorized by law to receive reports of child ab
+use or neglect.  For other victims of ab
+use
+, neglect or domestic violence, Facilities may 
+disclose
+ PHI about an individual whom the Facility reasonably believes to be a victim of ab
+use
+, neglect or 
+domestic violence to a government authority, including a soci
+al service or protective services 
+agency, that is authorized by law to receive such reports 
+if: 
+¥ the 
+disclosure
+ is required by law and the 
+disclosure
+ complies with and is limited to 
+only the rele
+vant requirements of the law; 
+ ¥ the individ
+ual agrees to the 
+disclosure
+;  ¥ the 
+disclosure
+ is expressly authorized by a statute or regulation and 
+the 
+disclosure
+ is necessary to prevent serious harm to the individual or other potential victims
+; or
+ ¥ the 
+disclosure
+ is expressly authorized by a statute or regulation and the 
+individual is 
+unable to agre
+e beca
+use
+ of incapacity, and a law enforcement 
+or other public official 
+authorized to receive the report represents that:  a) the 
+PHI being sought is not 
+intended to be 
+use
+d against the individual and b) that an immediate enforc
+ement 
+activity that depends upon the 
+disclosure
+ would materially and adversely affected by 
+waiting until the 
+individual is able to agree to the 
+disclosure
+. The Facility making a 
+disclosure
+ about victims of ab
+use
+, neglect or domesti
+c violence under this 
+Section 
+of the Policy must promptly inform the individual that the report has or will be made, 
+unless
+: ¥ Informing the individual would place him or her at risk of serious harm; or
+ ¥ The Facility would be informing a personal representati
+ve who the Facility believes 
+(using professional judgment) is responsible for the ab
+use
+, neglect or other injury, and the 
+Facility determines (using professional judgment) that informing the representative 
+would not be in the best interests of the individu
+al.  Disclosures for Judicial and Administrative Proceedings
+ A Facility may 
+disclose
+ PHI in the course of any judicial or administrative proceeding in the 
+following situations and with the limitations described:
+  1. Order of a Court or Administrative Tribunal
+ A Facility may 
+disclose
+ PHI in response to an order of the court or administrative tribunal, but 
+the 
+disclosure
+ must be limited to the 
+PHI expressly authorized by the order.
+  2. Subpoena, discovery request or other lawful process that is not accompanied by a
+ court 
+order
+ A Facility may 
+disclose
+ the 
+PHI sought if the Facility has received a written statement and 
+accompanying documentation from the party demonstrating that:
+ ¥ The party has made a good faith attempt to provide written notice to the individual at 
+his/her last known address;
+ 
+¥ The notice included sufficient information about the litigation or proceeding to permit the 
+individual to raise an objection to the court or tribunal; and
+ ¥ The time for objections has elapsed and no objections were filed or all obj
+ections filed by 
+the individual have been resolved and the 
+disclosures
+ are consistent with the resolution.
+ Alternatively, the Facility may 
+disclose
+ the 
+PHI sought if the Facility has received a written 
+statement and accompanying documentation from the part
+y demonstrating that:
+ ¥ The parties to the dispute giving rise to the request for information have agreed to a 
+Òqualified protective orderÓ and have presented it to the court or administrative tribunal 
+having jurisdiction; or
+ ¥ The party seeking the 
+PHI has re
+quested a Òqualified protective orderÓ from the court or 
+administrative tribunal.
+ ÒQualified protective orderÓ means an order of the court or administrative tribunal or a 
+stipulation by the parties to the litigation or proceeding that:
+ ¥ Prohibits the partie
+s from using or disclosing the 
+PHI for any purpose other than the 
+litigation or proceeding; and
+ ¥ Requires the 
+PHI to be returned to the Facility or destroyed at the end of the litigation or 
+proceeding.
+ Alternatively, the Facility may 
+disclose
+ PHI in respons
+e to s
+ubpoena, discovery request or other 
+lawful process that is not accompanied by a court order if the Facility makes reasonable efforts to 
+provide notice to the individual as described above or seeks a qualified protective order meeting 
+the requirements
+ above.
+  Disclosures for Law Enforcement Purposes
+ Facilities may 
+disclose
+ PHI to 
+law enforcement officials 
+for 
+law enforcement purposes 
+if and to 
+the extent required by law.  Depending on the state in which the Facility resides, for example, the 
+required 
+disclosures
+ may include 
+the reporting of certain types of wounds or othe
+r physical 
+injuries.  
+The requirements 
+and limitations 
+for 
+disclosures
+ made for law enforcement purposes 
+are described in UHS 
+Privacy 16.0
+ Disclosur
+es for Law Enforcement Purposes 
+and 
+UHS Privacy 
+17.0 Disclosure to Correctional Institutions or Law Enforcement with Lawful Custody.
+  Uses and Disclosures to Avert a Serious Threat to Health or Safety
+ A Facility may, consistent with applicable law and ethical standards, 
+use
+ or disclose
+ PHI if the 
+Facility, in good faith, believes 
+(based on actual knowledge or in reliance on a credible 
+representation by a person with apparent knowledge or authority) that 
+the 
+use
+ or disclosure
+: 
+¥ Is necessary to prevent or lessen a serious and imminent threat to 
+the health or safety of a 
+person or the public, and is made to a person or persons reasonably able to prevent or 
+lessen the threat, including the target of the threat; or
+ ¥ Is necessary for law enforcement authorities to identify or apprehend an individual
+ as set 
+forth in 
+UHS Privacy 16.0
+ Disclosures for Law Enforcement Purposes.
+  Uses and Disclosures 
+of PHI of 
+Decedents
+ With respect to deceased individuals, an authorized 
+personal representative
+ is an executor, 
+administrator, or other person who has authority to act on behalf of the deceased individual or of 
+the individualÕs estate
+ and 
+can authorize the disclosure of PHI as described in UHS Privacy 3.0 
+Use and Disclosure Requiring Authorization.
+  The following uses and disclosures may be made 
+without such authorization
+, subject to applicable state laws
+: 1. Disclosure to 
+Family Members or Persons Involved with Care
+ A Facility may disclose to a family member or other persons who were involved in the ca
+re or 
+payment for care of the decedent prior to death,
+ the PHI of a deceased individual that is relevant 
+to such personÕs involvement, unless the disclosure would be inconsistent with any prior 
+expressed preference of the individual that is known to the Fa
+cility, as described in UHS Privacy 
+25.0 Uses And Disclosures Requiring An Opportunity To Agree Or Object.
+   2. Disclosures to and Use by Coroners and Medical Examiners
+ A Facility may 
+disclose
+ PHI to a coroner or medical examiner for the purpose if identifying a 
+deceased person, determining a ca
+use
+ of death, or other duties authorized by law.  A Facility 
+functioning as a coroner or medical examiner may 
+use
+ PHI for these purposes.
+ 3. Funeral Directors
+ A Facility may 
+disclose
+ PHI to funeral directors, consistent with the law, as necessary to carry 
+out their duties.  If necessary for the funeral directors to carry out their duties the Facility may 
+disclose
+ the 
+PHI prior to, and in reasonable anticipation of, the individualÕs death.
+ 4. Research 
+Involving DecedentsÕ PHI
+ Use or disclosure of PHI of decedents for research purposes is subject to the restrictions in UHS 
+Privacy 14.0 
+Use and Disclosure of 
+PHI for Research an
+d Reviews Preparatory to Research.
+  Uses and Disclosures for Cadaveric Organ, Eye or Tissue Donation
+ A Facility may 
+use
+ or disclose
+ PHI to organ procurement organizations or other entities engaged 
+in the procurement, banking, or transplantation of cadaveri
+c organs, eyes, or tissue for the 
+purpose of facilitating organ, eye or tissu
+e donation and transplantation.
+  
+Uses and Disclosures for Research Purposes
+ A Facility may 
+use
+ or disclose
+ PHI for research purposes only as described and 
+subject to the 
+restricti
+ons in 
+UHS Privacy 14.0
+ Use and Disclosure of 
+PHI for Research and Reviews 
+Preparatory to Research.
+ Uses and Disclosures for Specialized Government Functions
+ A F
+acility may 
+use
+ and 
+disclose
+ PHI for 
+the 
+specialized government functions as described in 
+and subject to the restrictions in UHS 
+Privacy 9.0
+ Use and Disclosure of Protected Health 
+Information for Armed Services
+, Military and other Specialized Government Functions
+, and
+ UHS Privacy 17.0
+ Disclosure
+ to Correctional Institutions or Law Enforcement with Lawful 
+Custody
+. Disclosures for WorkersÕ Compensation
+ A facility may 
+disclose
+ PHI as authorized by and to the extent necessary to comply with laws 
+relating to workersÕ compensation or other similar prog
+rams, established by law, that provide 
+benefits for work
+-related injuries or illness without fault.
+ State Law
+ State law may impose additional 
+restrictions and 
+requirements 
+Ð Facilities will contact the UHS 
+Legal Department if they have any questions regarding the state laws applicable to them.   
+ References
+: 45 C.F.R. ¤ 164.512
+ Related UHS Policies:
+ UHS Privacy 3.0 
+Use and Disclosure Requiring Authorization 
+ UHS Privacy 9.0 
+Use and Disclosure of Protected Health Information for Armed Services, 
+Military and other Specialized Government Functions, 
+ UHS Privacy 14.0 
+Use and Disclosure of 
+PHI for Research and Reviews Preparatory to 
+Research
+  UHS Privacy 16.0
+ Disclosures for Law Enforcement Purposes
+ UHS Privacy 17.0
+ Disclosure to Correctional Institutions or Law
+ Enforcement with Lawful 
+Custody
+ UHS Privacy 25.0 
+Uses And Disclosures Requiring An Opportunity To Agree Or Object
+  
+     Revision Date
+s:  10-12-2017; 
+11-16-2015; 
+07-22-2013 Implementation Date:
+ 07-25-2011 Reviewed and Approved by:
+ UHS Compliance Committee
+  

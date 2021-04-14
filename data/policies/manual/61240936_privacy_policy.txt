@@ -1,0 +1,175 @@
+This Privacy Notice (this “Notice”) explains how DISH Network L.L.C. and its affiliates collect, use and share information about DISH subscribers and others who visit DISH websites, view DISH advertisements, or interact with DISH products or services. In this Notice, the terms “DISH”, “DISH Network”, “we”, “us”, and “our” refer to DISH Network L.L.C. and its affiliates, which collectively own and/or operate the DISH® direct broadcast satellite television service and all other services that are available now or in the future from DISH (whether subscription, pay-per-view or otherwise). The term “you” refers to you as a subscriber to or user of our services. Your use of our services constitutes your acceptance of this Notice.
+
+This Notice does not apply to EchoStar Corporation or its subsidiaries or the Sling TV service, the dishNET satellite service, the dishNET wireline service, or any other product or service provided by DISH that is covered by a separate privacy notice.
+
+Quick Guide to Contents
+What Information Do We Collect About You?
+How Do We Use Information About You?
+What Information Do We Share with Others?
+How Is Your Information Used for Advertising Purposes?
+What Choices Do You Have?
+Your California Consumer Privacy Act ("CCPA") Rights
+Your Nevada Privacy Rights
+How Do We Protect Your Personal Information?
+How Long Do We Maintain Your Personal Information?
+What Access Do You Have to Your Personal Information?
+Who Can You Contact with Any Questions or Concerns?
+What about Changes to This Notice?
+1. What Information Do We Collect About You?
+A. Account Information
+We collect and keep personal information you give to us when you sign up for an account, including: your name, service address, billing address, e-mail address, telephone number, social security number, bank account and/or credit card number, logins and passwords to our websites and apps, security questions and codes, and other account information. We may also collect and keep other information about your account with us, such as billing and payment history, customer service interactions, and equipment and programming options.
+
+B. Usage Information
+When you use our services, our devices and apps automatically collect usage information. Usage information may include application usage data and logs, including device type and ID, IP address, and location information. This usage information may be in various formats (electronic, audio, and other), and may be collected through the set top box or satellite receiver, through related equipment such as a remote control or voice control device, or other devices such as third-party streaming devices or applications provided through or used to access our services. Please see Third-Party Services and Websites below for more information.
+
+C. Viewership
+When you or someone in your household watches a video program, whether using your set-top box or the DISH Anywhere® App, we may collect a record of your viewing activity. This applies to live television programming as well as video on demand, pay per view, and DVR services.
+
+D. Third-Party Information
+We also may receive information about you and your household from third parties such as programmers, business partners, consumer reporting agencies, and other data companies to enhance or supplement our records, products, or service offerings. This information may allow us to send you promotions that interest you or serve advertisements to you that match your interests and concerns.
+
+E. Third-Party Services and Websites
+When you use a third-party streaming device or voice assistant with DISH equipment, including the Voice Remote with Google Integration, you should review the privacy statements of the third party to understand what information they may collect and keep. We are not responsible for the practices of such third parties. DISH may also collect usage information related to those third-party products, services, applications, or websites if they are accessed through DISH equipment, websites or applications.
+
+When you access a third-party service, application, or website, even when doing so through DISH equipment or applications, you should review the privacy statements of those third parties to understand what information they may collect and keep. We are not responsible for the practices of such third parties. DISH may also collect usage information related to those third-party products, services, applications, or websites if they are accessed through DISH equipment, websites or applications.
+
+You may also choose, when available, to connect your account with third party accounts, including with third-party social networks. If you share information about your usage of or activities on our services with such third-party accounts, then the collection, use, and disclosure of such information will be subject to that third party’s privacy policies, which may differ from our own. We are not responsible for the practices of such third parties.
+
+F. Cookies and Other Technologies
+We and/or other companies we work with may use cookies, web beacons, tags, and similar technologies on websites, platforms, and in electronic communications to track users online and to collect certain information, including statistics about website and platform usage, broad demographic information, IP addresses, browser type, device type, Internet Service Provider, referring/exit pages, platform type, date/time stamp, number of clicks, and other similar information. You can access our services even when you’ve disabled certain cookies, but you may not be automatically recognized upon revisiting.
+
+Please visit the "What Choices Do You Have?" section for further information, including about Do Not Track and how to disable cookies.
+
+G. Children's Information
+Protecting children’s privacy is important to us. We do not direct the services to, nor do we knowingly collect any personal information from, children under the age of sixteen. If we learn that a child under the age of sixteen has provided personal information through the services, we will use reasonable efforts to remove such information from our files.
+
+2. How Do We Use Information About You?
+We use information we’ve collected and received from and about you and your account (“Information About You”) primarily for business or commercial activities, which may include:
+
+providing, operating, and maintaining our services;
+billing and collections;
+confirming that you are receiving the level(s) of service requested and are properly billed;
+identifying when changes are made to your account or services;
+informing you of products, programming, or services that may be of interest to you;
+making programming recommendations;
+understanding your use of our services in order to consider improving them;
+obtaining user surveys, recommendations and reviews;
+marketing our services and those of select business partners;
+delivering addressable or customized advertising, offers, and other services to you within the services, via email, or through other web sites and platforms (for more information see Section 4 below);
+detecting fraud and unauthorized reception of our services;
+determining whether applicable policies and terms of service are being violated;
+configuring satellite television service-related devices;
+performing statistical or qualitative research and analysis;
+maintaining our do not contact lists;
+complying with law; and
+other uses as necessary to provide our services.
+Personal information and usage information may be aggregated and/or de-identified for other business and marketing uses by us. This aggregated and/or de-identified data may be used to improve our products and services, to measure and analyze use of our products and services, to provide more relevant marketing and advertising, to measure advertising effectiveness, to conduct market research, to report ratings and viewer measurement, and for other analytical and reporting purposes.
+
+We may combine the various information we collect and receive from and about you, including account information, personal information, usage information, as well as information collected offline, across other computers or devices that you may use, and from third-party sources.
+
+3. What Information Do We Share with Others?
+DISH treats information about you (including personal information) contained in our business records as confidential. We may share information about you with select partners in order to provide you with the best products and services. Our agreements with business partners and service providers that collect information limit the types and use of information shared with these companies.
+
+A. When May DISH Share Information about You?
+1. With service providers in order to provide products and services to you
+We may share information about you to companies that work for or provide services to us (but only as much as is necessary for them to perform the service), such as our:
+
+Billing processors;
+Subcontractors;
+Software providers;
+Marketing companies;
+Outside auditors and professional advisors;
+Potential business merger, acquisition, or sale partners;
+Regulators, government agencies; and
+Credit bureaus and collection agencies.
+2. As necessary to protect DISH and its employees
+We may also share information about you (including personal information) to protect our customers, employees, or property; in emergency situations; and to enforce our rights under our terms of service and policies, in court or elsewhere.
+
+3. For "mailing list" purposes
+We may share your name and address with others, such as charities, marketing organizations, or other businesses for satellite or non-satellite “mailing list” purposes. Any such disclosure for “mailing list” purposes would be limited to subscriber names and addresses, and the disclosure does not reveal, directly or indirectly, (i) the extent of any subscriber’s viewing or use of a satellite service or other service provided by us; or (ii) the nature of any transaction made by the subscriber over any facilities used by us.
+
+B. When DISH Must Disclose Personal Information
+We may be required by law to comply with a valid legal process, such as a subpoena, court order, or search warrant, or where there is a lawful request, to disclose information about you (including personal information) without your consent or notice. We may also be required to disclose personal information to a third party or governmental entity in response to a court order. If the court order is sought by a governmental entity, you should be afforded the opportunity to appear and contest in a court proceeding relevant to the court order any claims made in support of the court order.
+
+C. Sharing of Information that Is Not Personally Identifiable
+1. Aggregated and de-identified information
+We may share information collected or received from or about you in de-identified and/or aggregate formats. We may share this with companies that collect and compile consumer data, including those that create reports about what programs people watch.
+
+2. To companies and networks that provide programming
+We may share information with networks and other providers of programming about what packages our subscribers have purchased and what programs our subscribers watch. We may also share some demographic or usage information. This information is de-identified and/or aggregated, and DISH will not tell the programmer which individuals or households watched the program.
+
+3. To advertisers and companies that provide advertising services
+We may also share information with our advertisers and our advertising service providers about when, where, and how (TV, mobile device, or computer) an advertisement was viewed. We may also tell them certain pieces of demographic information about your household. This information is de-identified, and DISH will not tell the advertiser which individuals or households watched the advertisement. Advertisers, advertising technology companies, and service providers that perform advertising-related services for us and our business partners may use cookies, web beacons, tags, and other technologies to collect information from or about you to tailor advertisements, measure advertising effectiveness, and enable other enhancements. For more information about advertising, see “How Is Your Information Used for Advertising Purposes?” below.
+
+4. How Is Your Information Used for Advertising Purposes?
+DISH may use information about you for marketing or advertising purposes in the following ways:
+
+To provide you with more relevant TV advertising. We may use information we have collected or received from or about you through your use of the services or from third parties to show you advertisements that match your interests. We use information such as service packages purchased, video-on-demand purchases, and program viewing data. We may also use demographic and interest information (such as gender, family size, and hobbies) you provide or that we obtain from other companies. You may be able to opt out of this addressable advertising, as described below in the "What Choices Do You Have?" section.
+To provide you with advertising for DISH products and services. We may use information we have collected or received from or about you through use of the service or from third parties to provide you with marketing information, offers and advertisements for DISH products and services or to exclude you from receiving certain marketing information, offers or advertisements. Our activities with respect to such marketing information, offers and advertisements may occur on DISH websites and platforms or websites and platforms operated by third parties.
+To provide you with more relevant online advertising. We and our advertising partners may also use information obtained about you through your use of our website(s) or from third parties, or gathered through cookies and similar technologies, to deliver more relevant online advertising to you across other computers, devices, websites, and online services that you may use (“interest-based advertising”). Advertisers, advertising technology companies, and service providers that perform advertising-related services for us and our business partners may use cookies, web beacons, tags, and other technologies to collect information from or about you to tailor advertisements, measure advertising effectiveness, and enable other enhancements. You may be able to opt out of certain types of interest-based advertising as described below in the “What Choices Do You Have?” section.
+To provide others with more relevant advertising. We and our advertising partners may also use information collected from or about you by us or our advertising partners and information we obtain about you from third parties to deliver advertising that is targeted for individuals with similar interests. We may combine aggregated and/or de-identified information to create groups based on actual or assumed shared interests and/or factual characteristics. We also combine information about the programming that our customers watch on the Service with their common interests to help us figure out what advertising may be most relevant.
+5. What Choices Do You Have?
+A. Cookies and Do Not Track
+Certain parts of our services require cookies. You may adjust your device or Internet browser settings to limit certain tracking or to decline cookies, but by doing so, you may not be automatically recognized upon revisiting and may not be able to use certain features of the Service or take full advantage of all of our offerings. Please refer to your device’s settings or your Internet browser’s “Help” section for more information on how to delete and/or disable your device or browser from receiving cookies or controlling your tracking preferences.
+
+DISH might not recognize “Do Not Track” requests or headers from some or all Internet browsers. We may use cookies or other technologies to deliver more relevant advertising and to link data collected across other computers or devices that you may use.
+
+B. Interest-Based Advertising/Addressable Advertising Choices
+You may ask DISH to stop using cookies on Dish.com that help us deliver more relevant advertising to you. To make this choice, please visit https://www.dish.com/ad-preferences.
+
+To understand your choices for receiving more relevant online advertising, please review the information below:
+
+To learn more about interest-based advertising, and to opt out of collection and use of information about your online activities for interest-based advertising by the Digital Advertising Alliance (DAA) participating companies, please visit http://www.aboutads.info/choices/. To opt out of targeted advertising through mobile applications, please visit https://youradchoices.com/appchoices.
+To opt out of collection and use of information about your online activities for interest-based advertising by Network Advertising Initiative (NAI) member companies, please visit http://www.networkadvertising.org/choices/.
+Even if you opt out, you will still receive advertising from DISH and third parties. You may also still receive TV advertising from DISH or third parties that is customized based on information we’ve collected or received from or about you or on information about your online activities from third parties that are not DAA or NAI participating companies.
+
+C. Addressable TV Advertising
+You may limit DISH's delivery to your set-top box of addressable advertisements that were selected for you using your information (including personal information) by visiting our Privacy Portal, logging into your MyDISH account or contacting us in writing at the mailing address listed in the contact section below.
+
+D. Other Choices Concerning the Use and Disclosure of Your Information
+You also may choose to limit certain collection or disclosure of your information as follows:
+
+You may limit our disclosure of your personal information for "mailing list" purposes by contacting us in writing at the mailing address listed in the contact section below.
+You may limit our collection of viewer measurement data from your set-top box by contacting us in writing at the mailing address listed in the contact section below.
+Please click here (PDF) for more information provided by some of our service providers and business partners.
+In any written request to DISH, be sure to include your name, address, telephone number, and your DISH account number. The written request should be signed by the person who is identified in our billing records as the subscriber. If you have a joint account, a request by one party will apply to the entire account. If you have multiple accounts, your notice must separately identify each account covered by the request.
+
+6. Your California Consumer Privacy Act ("CCPA") Rights
+California residents may also take advantage of the following rights:
+
+You may request, up to two times each year, that we disclose to you the categories and specific pieces of personal information that we have collected about you, the categories of sources from which your personal information is collected, the business or commercial purpose for collecting your personal information, the categories of personal information that we disclosed for a business or commercial purpose, any categories of personal information that we sold about you, the categories of third parties with whom we have shared your personal information, and the business or commercial purpose for selling your personal information, if applicable.
+You may request that we delete any personal information that we have collected from or about you. Note that there are some reasons we will not be able to fully address your request, such as if we need to complete a transaction for you, to detect and protect against fraudulent and illegal activity, for an internal business purpose, to exercise our rights, or to comply with a legal obligation.
+To take advantage of any of these rights, please contact us at +1 (866) 986-0068 or visit our Privacy Portal. We value your privacy and will not discriminate in response to your exercise of your privacy rights. We will respond to your access and deletion requests within 45 days of receipt of your request, after proper verification, unless we need additional time, in which case we will let you know. We will respond to your opt out of sale requests promptly.
+For purposes of compliance with the CCPA, in addition to the further details as described throughout this Privacy Policy, we make the following disclosures:
+
+We collect the following categories of personal information: Identifiers/Contact Information, Commercial information, Internet or other electronic network activity information, geolocation, visual and audio information, and inferences drawn from the above.
+We sell the following categories of personal information: Identifiers/Contact Information, Internet or other electronic network activity information, and inferences drawn from the above.
+We disclose the following categories of personal information for a business or commercial purpose: Identifiers/Contact Information, Commercial information, Internet or other electronic network activity information, geolocation, visual and audio information, and inferences drawn from the above.
+7. Your Nevada Privacy Rights
+Nevada law permits Nevada residents to make certain requests about how their personal information is shared with third parties or affiliated companies. To make such a request, please visit our Privacy Portal.
+
+8. How Do We Protect Your Personal Information?
+DISH takes information security seriously. We use commercially reasonable efforts to prevent unauthorized third-party access to information about you. However, we cannot guarantee that these practices will prevent every unauthorized attempt to access, use, or information about you.
+
+9. How Long Do We Maintain Your Personal Information?
+DISH maintains personal information about you in our regular business records while you are a subscriber to any of our products or services. DISH also maintains personal information about you for a period of time after you are no longer a subscriber to satisfy legal or tax requirements, for fraud prevention, or for business purposes.
+
+10. What Access Do You Have to Your Personal Information?
+You can obtain access to the personal information that we collect and maintain from and about you that is held in our regular business records (generally, billing and account information).
+
+If you wish to obtain a copy of this information, please mail a written notarized request for a copy of your personal information to DISH Network L.L.C., Attn: PRIVACY, P.O. Box 6655, Englewood, CO 80155-6655, giving us a reasonable period of time to locate and prepare the information for your review. All requests must include your DISH account number. We will mail the information to you at your current billing address. You will be permitted to request only records that contain personal information about you and no one else. To protect you and ensure that the request is being made by the true person to whom the information pertains, we will process only notarized requests. You will be provided a reasonable opportunity to correct errors if any of the personal information is inaccurate.
+
+11. Who Can You Contact with Any Questions or Concerns?
+If you have any questions or concerns regarding this Notice, or our privacy practices, please contact us at the following address:
+
+DISH Network L.L.C.
+Attn: PRIVACY
+P.O. Box 6655
+Englewood, CO 80155-6655
+
+If you believe that you have been aggrieved by any act of ours in violation of your privacy rights with respect to the collection or disclosure of your personal information, you may bring an action seeking damages, attorney’s fees, and litigation costs reasonably incurred. If you are a subscriber to our Services or have otherwise agreed to our Residential Customer Agreement, then any dispute relating to your privacy rights or arising out of this Notice or the Service is subject to any dispute resolution procedures or provisions provided in your Residential Customer Agreement.
+
+12. What about Changes to This Notice?
+We may modify this Notice at any time. We will notify you of any material changes through written, electronic, or other means as permitted by law.
+
+Version: March 18, 2021

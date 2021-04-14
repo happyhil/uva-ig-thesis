@@ -1,0 +1,226 @@
+Industry,Sector,Firm,Number of Reviews,Overall employer rating,Culture & values,Diversity & Inclusion,Work/Life balance,Senior Management,Compensation & Benefits ,Career Opportunities ,Female / Male
+Consumer Credit Card and Related Services,Business Services,Visa,3900,4.10,4.10,4.10,4.00,3.70,4.00,3.70,1
+Temporary Help,Business Services,ManpowerGroup,1400,3.80,3.50,4.00,3.80,3.20,3.30,3.20,1
+Consumer Credit Card and Related Services,Business Services,PayPal Holdings,4600,4.00,4.00,4.10,3.80,3.50,4.10,3.60,1
+Consumer Credit Card and Related Services,Business Services,Mastercard,3000,4.40,4.50,4.40,4.30,4.10,4.50,4.20,1
+Diversified Outsourcing Services,Business Services,Aramark,7400,3.30,3.00,3.60,3.20,2.80,3.10,3.20,1
+Diversified Outsourcing Services,Business Services,Waste Management,2200,3.50,3.20,3.40,3.20,3.00,3.60,3.10,1
+"Advertising, marketing",Business Services,Omnicom Group,185,4.20,3.70,4.10,3.20,3.40,3.50,3.50,1
+Financial Data Services,Business Services,Automatic Data Processing,12000,3.90,4.00,4.20,3.80,3.50,3.80,3.80,1
+Petroleum Refining,Energy,Exxon Mobil,5500,3.20,2.70,3.10,3.10,2.40,4.00,3.30,1
+Petroleum Refining,Energy,Chevron,4000,4.00,4.00,4.10,4.00,3.50,4.10,3.70,1
+Petroleum Refining,Energy,Marathon Petroleum,886,3.80,3.40,3.50,3.30,3.20,4.30,3.60,1
+Petroleum Refining,Energy,Phillips 66,6800,3.80,3.60,4.10,3.70,3.30,4.00,3.50,1
+Petroleum Refining,Energy,Valero Energy,551,3.90,3.30,3.10,3.30,3.20,3.80,3.30,1
+Pipelines,Energy,Energy Transfer,346,3.80,3.80,3.60,3.50,3.40,4.00,3.80,1
+Energy,Energy,World Fuel Services,345,3.40,3.40,4.60,3.50,3.20,3.80,3.40,1
+"Mining, Crude-Oil Production",Energy,ConocoPhillips,1200,3.90,3.80,3.50,3.80,3.40,4.30,3.20,1
+Electric and Gas Utilities,Energy,Exelon,883,4.00,3.90,4.30,3.50,3.60,4.40,3.90,1
+Pipelines,Energy,Plains GP Holdings,191,3.90,3.60,3.20,3.70,3.40,3.90,3.40,1
+Pipelines,Energy,Enterprise Products Partners,283,4.30,4.00,4.20,4.00,3.80,4.30,4.10,1
+Electric and Gas Utilities,Energy,Duke Energy,1200,4.10,4.10,4.10,3.90,3.50,4.10,3.90,0
+Petroleum Refining,Energy,PBF Energy,111,3.70,3.30,3.40,2.90,2.70,4.30,3.00,1
+Pipelines,Energy,NGL Energy Partners,55,1.90,1.50,3.00,2.00,1.80,2.30,1.80,1
+"Oil and Gas Equipment, Services",Energy,Baker Hughes,2300,3.70,3.50,3.90,3.40,3.00,3.90,3.30,1
+"Oil and Gas Equipment, Services",Energy,Halliburton,4500,3.50,3.20,3.80,2.90,2.80,3.70,3.40,1
+"Mining, Crude-Oil Production",Energy,Occidental Petroleum,679,3.30,2.90,2.90,3.20,2.50,3.60,2.90,0
+Electric and Gas Utilities,Energy,Southern Company,692,4.30,3.90,4.40,3.90,3.60,4.40,3.80,1
+Electric and Gas Utilities,Energy,NextEra Energy,687,3.90,3.50,4.10,3.00,3.20,3.70,3.70,1
+Petroleum Refining,Energy,HollyFrontier,117,3.80,3.50,3.50,3.70,3.00,4.50,3.30,1
+"Mining, Crude-Oil Production",Energy,EOG Resources,208,4.50,4.30,4.60,4.30,4.20,4.60,4.20,1
+Utilities: Gas and Electric,Energy,PG&E,1600,4.00,3.70,4.30,3.80,3.30,4.30,4.00,0
+Electric and Gas Utilities,Energy,Dominion Energy,525,4.00,4.00,3.90,3.80,3.60,3.90,3.80,1
+Electric and Gas Utilities,Energy,American Electric Power,510,3.80,3.60,4.00,3.70,3.10,4.00,3.60,1
+"Mining, Crude-Oil Production",Energy,Freeport-McMoRan,750,4.00,3.70,3.60,3.40,3.30,4.30,3.60,1
+Pipelines,Energy,Kinder Morgan,579,3.50,3.20,3.60,3.40,3.20,3.70,3.30,1
+Utilities: Gas and Electric,Energy,DTE Energy,638,4.20,4.10,4.10,3.90,3.50,4.30,3.90,1
+Utilities: Gas and Electric,Energy,Consolidated Edison,825,4.10,3.90,4.20,3.90,3.60,4.00,4.00,1
+Electric and Gas Utilities,Energy,Sempra Energy,188,3.60,3.60,4.30,3.60,3.30,4.00,3.40,1
+Utilities: Gas and Electric,Energy,Edison International,31,3.30,2.60,1.00,3.40,2.80,3.60,2.90,1
+Utilities: Gas and Electric,Energy,CenterPoint Energy,7,3.00,3.40,N/A,3.60,3.00,3.60,2.90,1
+Energy,Energy,Vistra Energy,49,3.60,3.20,3.80,2.80,3.10,3.50,3.10,1
+Electric and Gas Utilities,Energy,Xcel Energy,587,3.90,3.80,3.80,3.60,3.60,3.90,3.60,1
+Utilities: Gas and Electric,Energy,Entergy,283,4.10,4.00,4.30,4.00,3.60,4.10,3.80,1
+Utilities: Gas and Electric,Energy,FirstEnergy,366,3.70,3.70,3.90,3.70,3.30,4.10,3.60,1
+Insurance: Property and Casualty,Financials,Berkshire Hathaway,732,4.10,4.10,3.70,3.90,3.90,3.30,3.70,1
+Megabanks,Financials,JPMorgan Chase,26000,3.90,3.80,4.00,3.60,3.50,3.80,3.80,1
+Diversified Financials,Financials,Fannie Mae,1700,4.00,3.80,4.20,4.10,3.50,4.10,3.40,1
+Megabanks,Financials,Bank of America,27000,4.00,4.00,4.30,3.80,3.60,4.10,3.90,1
+Banks: Commercial and Savings,Financials,Wells Fargo,30000,3.60,3.40,3.80,3.60,3.00,3.80,3.50,1
+Megabanks,Financials,Citigroup,20000,3.90,3.80,4.10,3.70,3.40,3.80,3.70,1
+Insurance: Property and Casualty (Mutual),Financials,State Farm Insurance,11000,3.60,3.70,4.00,3.50,3.20,3.50,3.40,1
+Diversified Financials,Financials,Freddie Mac,1300,4.10,4.00,4.30,4.00,3.50,4.10,3.70,1/0
+Insurance: Life and Health,Financials,MetLife,4600,3.60,3.50,3.80,3.50,3.10,3.80,3.20,1
+Insurance: Life and Health,Financials,Prudential Financial (U.S.),3500,3.80,3.80,3.90,4.00,3.40,3.80,3.50,1
+Megabanks,Financials,Goldman Sachs Group,10000,4.00,3.80,4.00,3.10,3.60,3.70,4.00,1
+Megabanks,Financials,Morgan Stanley,11000,4.00,4.00,4.00,3.60,3.70,3.70,3.80,1
+Insurance: Property and Casualty (Stock),Financials,American International Group,5600,3.60,3.40,3.70,3.80,3.00,3.70,3.10,1
+Consumer Credit Card and Related Services,Financials,American Express,10000,4.20,4.20,4.40,4.20,3.80,3.90,3.90,1
+Insurance: Property and Casualty,Financials,Allstate,6700,3.50,3.40,3.90,3.60,3.10,3.20,3.20,1
+Insurance: Life and Health,Financials,New York Life Insurance,3600,4.00,4.10,4.50,4.00,3.90,3.80,3.90,1
+Insurance: Property and Casualty (Mutual),Financials,Nationwide,3800,3.80,3.90,4.30,3.90,3.40,3.70,3.50,1
+Insurance: Property and Casualty (Stock),Financials,Liberty Mutual Insurance Group,5900,3.80,3.70,4.10,3.70,3.30,4.00,3.60,1
+Insurance: Life and Health,Financials,TIAA,2200,3.90,3.90,4.40,4.00,3.40,4.30,3.40,0
+Insurance: Property and Casualty,Financials,Progressive,3400,4.10,4.30,4.40,3.70,3.90,4.10,4.10,0
+Insurance: Life and Health,Financials,Massachusetts Mutual Life,1700,3.80,3.90,4.00,3.80,3.40,3.60,3.50,1
+Insurance: Property and Casualty,Financials,USAA,3900,3.90,4.00,4.10,3.70,3.30,4.00,3.40,1
+Consumer Credit Card and Related Services,Financials,Capital One Financial | INTL FCStone ,9800,4.20,4.20,4.30,4.20,3.70,4.20,3.80,1
+Diversified Financials,Financials,StoneX Group,214,3.60,3.30,3.10,3.20,3.30,3.70,3.00,1
+Insurance: Life and Health,Financials,Northwestern Mutual,7100,4.10,4.20,4.20,4.00,4.10,3.80,4.10,1
+Insurance: Property and Casualty,Financials,Travelers Cos.,3400,4.10,4.10,4.20,4.00,3.80,4.10,4.00,1
+Superregional Banks,Financials,U.S. Bancorp,6700,3.70,3.70,4.00,3.60,3.20,3.40,3.40,1
+Real Estate,Financials,CBRE Group,5800,4.00,3.90,4.00,3.70,3.60,3.70,3.80,1
+Insurance: Life and Health,Financials,Aflac,3200,3.90,4.10,4.30,3.90,3.60,3.50,3.80,1
+Superregional Banks,Financials,PNC Financial Services Group,6300,3.70,3.90,4.20,3.70,3.40,3.50,3.60,1
+Commercial Banks,Financials,Bank of New York Mellon,6900,3.10,3.00,3.70,3.30,2.60,2.90,2.80,1
+Insurance: Property and Casualty (Stock),Financials,Hartford Financial Services Group,2400,4.00,4.00,4.10,3.80,3.70,3.80,3.80,1
+Diversified Financials,Financials,Synchrony Financial,1100,4.10,4.30,4.60,3.90,3.80,4.10,3.70,0
+Real Estate,Financials,Jones Lang LaSalle (JLL),5200,3.70,3.70,3.70,3.60,3.30,3.50,3.60,1
+"Insurance: Life, Health (stock)",Financials,Lincoln National,1200,3.80,3.80,4.30,3.70,3.50,3.80,3.50,1
+Diversified Financials,Financials,Marsh & McLennan,1400,4.10,4.20,4.50,3.90,3.80,4.00,3.90,1
+Insurance: Life and Health,Financials,Principal Financial,1200,4.10,4.10,4.10,4.00,3.80,3.80,3.60,1
+Insurance: Property and Casualty (Stock),Financials,Loews,41,3.40,3.30,2.00,4.00,3.00,4.10,3.10,1
+Superregional Banks,Financials,Truist Financial,337,3.70,3.80,4.00,3.60,3.40,3.60,3.30,1
+Securities and Asset Management,Financials,BlackRock,3300,4.10,4.20,4.20,3.80,4.00,3.70,4.00,1
+"Insurance: Life, Health (stock)",Financials,Reinsurance Group of America,251,4.10,3.80,3.80,3.60,3.60,4.10,3.90,0
+Commercial Banks,Financials,Discover Financial Services,2600,3.90,4.10,4.30,3.80,3.60,4.00,3.60,1
+"Insurance: Life, Health (Mutual)",Financials,Guardian Life Ins. Co. of America,844,3.80,3.70,4.00,3.90,3.20,3.80,3.40,1
+Superregional Banks,Financials,State Street,6100,3.10,2.90,3.50,3.40,2.70,2.90,2.80,1
+Diversified Financials,Financials,Ameriprise Financial,2200,3.90,4.00,4.30,4.00,3.70,3.50,3.70,1
+Insurance: Property and Casualty (Stock),Financials,American Family Insurance Group,1300,3.60,3.70,3.80,3.70,3.10,4.00,3.20,1
+Insurance: Property and Casualty (Mutual),Financials,Farmers Insurance Exchange,3900,3.70,3.70,4.10,3.60,3.40,3.60,3.60,1
+"Insurance: Life, Health (stock)",Financials,Unum Group,1000,3.80,3.90,4.20,3.70,3.70,4.00,3.80,1
+"Insurance: Life, Health (stock)",Financials,Pacific Life,428,3.80,3.80,3.60,3.90,3.40,4.20,3.20,1
+Securities and Asset Management,Financials,Charles Schwab,3300,3.90,4.10,4.10,3.90,3.50,3.70,3.60,1
+Diversified Financials,Financials,Ally Financial,1200,4.00,4.20,4.30,4.00,3.50,4.00,3.60,1
+"Insurance: Life, Health (stock)",Financials,Mutual of Omaha Insurance,691,4.00,4.10,4.20,4.10,4.00,3.90,3.90,1
+Health Care: Pharmacy and Other Services,Health Care,CVS Health,22000,3.10,2.90,3.60,2.80,2.70,3.00,3.00,0
+Health Care: Insurance and Managed Care,Health Care,UnitedHealth Group,12000,3.50,3.50,3.80,3.50,3.00,3.40,3.40,1
+Wholesalers: Health Care,Health Care,McKesson,3800,3.80,3.80,4.00,3.60,3.40,3.80,3.60,1
+Wholesalers: Health Care,Health Care,AmerisourceBergen,1200,3.40,3.40,3.80,3.30,3.00,3.80,3.30,1
+Health Care: Pharmacy and Other Services,Health Care,Cigna,3300,3.80,3.70,4.00,3.80,3.40,3.70,3.50,1
+Wholesalers: Health Care,Health Care,Cardinal Health,2700,3.60,3.60,4.00,3.40,3.20,3.60,3.40,1
+Health Care: Insurance and Managed Care,Health Care,Anthem,2800,3.60,3.40,3.80,3.40,3.00,3.80,3.40,0
+Pharmaceuticals,Health Care,Johnson & Johnson,9000,4.30,4.30,4.30,4.10,3.90,4.10,3.90,1
+Health Care: Insurance and Managed Care,Health Care,Centene,2200,3.50,3.40,3.90,3.40,3.00,3.90,3.50,1
+Health Care: Insurance and Managed Care,Health Care,Humana,4200,4.10,4.10,4.30,3.90,3.60,4.10,3.80,1
+Pharmaceuticals,Health Care,Pfizer,5300,4.30,4.10,4.10,3.90,3.70,4.20,3.80,1
+Health Care: Medical Facilities,Health Care,HCA Healthcare,3000,3.60,3.60,3.80,3.40,3.20,3.50,3.60,1
+Pharmaceuticals,Health Care,Merck,4500,4.20,4.10,4.30,3.90,3.70,4.10,3.80,1
+Pharmaceuticals,Health Care,AbbVie,2100,4.00,3.80,3.90,3.60,3.50,4.10,3.70,1
+Medical Products and Equipment,Health Care,Abbott Laboratories,5200,3.90,3.60,3.80,3.30,3.20,4.00,3.60,1
+Pharmaceuticals,Health Care,Bristol-Myers Squibb,2600,4.10,4.10,4.10,3.90,3.60,4.10,3.70,1
+Pharmaceuticals,Health Care,Amgen,2700,4.10,3.90,4.10,3.70,3.60,4.10,3.70,1
+Pharmaceuticals,Health Care,Gilead Sciences,1200,3.70,3.50,3.60,3.10,3.20,4.10,3.40,1
+Pharmaceuticals,Health Care,Eli Lilly,2800,4.20,4.10,4.10,4.00,3.70,4.00,3.70,1
+Medical Products and Equipment,Health Care,Danaher,483,4.40,4.30,4.70,3.80,3.90,4.20,4.30,1
+Health Care: Medical Facilities,Health Care,Tenet Healthcare,890,3.20,3.00,3.50,3.10,2.60,3.30,3.20,1
+Medical Products and Equipment,Health Care,BD,2900,3.80,3.60,4.00,3.50,3.20,3.80,3.50,1
+Health Care: Insurance and Managed Care,Health Care,Molina Healthcare,1400,3.40,3.50,3.90,3.40,3.00,3.50,3.30,1
+Medical Products and Equipment,Health Care,Stryker,3500,4.30,4.20,4.10,3.70,3.80,4.10,4.10,1
+Pharmaceuticals,Health Care,Biogen,1300,4.30,4.20,4.50,4.00,3.70,4.40,3.90,1
+Health Care: Medical Facilities,Health Care,DaVita,3800,3.50,3.70,3.90,3.20,3.10,3.20,3.50,1
+Health Care: Medical Facilities,Health Care,Community Health Systems,1100,3.20,2.80,3.30,3.00,2.60,3.10,3.00,1
+Health Care: Pharmacy and Other Services,Health Care,Laboratory Corp. of America (Labcorp),2500,3.40,3.00,3.70,3.10,2.80,3.30,3.20,1
+Health Care: Medical Facilities,Health Care,Universal Health Services,664,3.40,3.10,3.60,2.90,2.90,3.40,3.60,1
+Medical Products and Equipment,Health Care,Baxter International,2500,3.70,3.50,4.00,3.50,3.10,3.80,3.20,1
+Health Care: Pharmacy and Other Services,Health Care,IQVIA Holdings,6700,3.70,3.70,3.90,3.50,3.40,3.50,3.70,1
+Medical Products and Equipment,Health Care,Boston Scientific,2700,4.40,4.40,4.40,4.10,4.20,4.10,4.20,1
+Soaps and Cosmetics,Household Products,Procter & Gamble,10000,4.20,4.30,4.40,3.40,3.90,4.20,4.00,1
+Soaps and Cosmetics,Household Products,Kimberly-Clark,2500,4.00,4.00,4.00,3.70,3.50,3.90,3.50,1
+Soaps and Cosmetics,Household Products,Colgate-Palmolive,2100,3.90,3.80,3.80,3.30,3.30,3.80,3.60,1
+Soaps and Cosmetics,Household Products,Estée Lauder,2500,4.10,4.20,4.00,3.70,3.60,3.90,3.80,1
+"Home Equipment, Furnishings",Household Products,Stanley Black & Decker,1700,3.70,3.40,3.80,3.40,3.20,3.50,3.50,1
+Industrial Machinery,Industrials,General Electric,14000,3.70,3.60,3.80,3.60,3.20,3.60,3.40,1
+Construction and Farm Machinery,Industrials,Caterpillar,5100,3.90,3.60,3.80,3.60,3.20,4.00,3.40,1
+Construction and Farm Machinery,Industrials,Deere,3600,3.90,3.80,3.60,3.70,3.40,4.00,3.60,1
+Electronics,Industrials,Honeywell International,12000,3.50,3.20,3.80,3.20,3.00,3.50,3.60,1
+Construction and Farm Machinery,Industrials,Paccar,642,3.20,3.00,2.80,3.50,2.60,3.20,3.10,1
+Industrial Machinery,Industrials,Cummins,5000,4.00,4.00,4.30,4.00,3.40,3.70,3.60,1
+"Home Equipment, Furnishings",Industrials,Whirlpool,3900,3.90,3.80,3.90,3.70,3.40,3.90,3.70,1
+Industrial Machinery,Industrials,Emerson Electric,4100,3.60,3.30,3.50,3.50,3.00,3.20,3.30,1
+Industrial Machinery,Industrials,Parker-Hannifin,1900,3.50,3.20,3.20,3.20,2.80,3.50,3.20,1
+Industrial Machinery,Industrials,Illinois Tool Works,805,3.90,3.90,4.30,3.70,3.50,3.90,3.80,1
+"Electronics, Electrical Equip.",Industrials,Corning,1300,3.70,3.50,3.80,3.20,3.30,3.90,3.60,1
+Construction and Farm Machinery,Industrials,Navistar International,1000,3.60,3.20,3.80,3.60,3.10,3.60,3.30,1
+Entertainment,Media,Walt Disney,8000,4.10,4.10,4.10,3.50,3.40,3.80,3.70,1
+Entertainment,Media,ViacomCBS,2500,3.70,3.70,3.90,3.70,3.20,3.50,3.30,1
+Entertainment,Media,Netflix,1400,4.30,4.00,4.20,3.30,3.60,4.60,3.70,1
+Entertainment,Media,Live Nation Entertainment,1300,4.00,4.20,4.20,3.70,3.60,3.60,3.60,1
+Entertainment,Media,Fox,31,3.70,3.90,4.10,3.80,3.70,4.00,3.60,1
+Entertainment,Media,Discovery,1500,3.90,3.60,4.00,3.70,3.30,4.10,3.30,1
+General Merchandisers,Retailing,Walmart,67000,3.30,3.00,3.60,3.00,2.80,3.30,3.30,1
+Internet Services and Retailing,Retailing,Amazon,72000,3.70,3.50,4.00,3.20,3.20,3.80,3.70,1
+General Merchandisers,Retailing,Costco Wholesale,8700,4.20,4.00,4.20,3.70,3.70,4.40,4.00,1
+Specialty Retailers,Retailing,Home Depot,28000,3.90,3.90,4.10,3.60,3.50,3.60,3.60,1
+General Merchandisers,Retailing,Target,46000,3.70,3.70,4.10,3.40,3.20,3.60,3.30,1
+Specialty Retailers,Retailing,Lowe’s,33,3.30,2.80,5.00,3.60,2.90,2.50,2.60,1
+Specialty Retailers,Retailing,Best Buy,25000,3.80,3.70,4.10,3.40,3.30,3.60,3.40,1
+Specialty Retailers,Retailing,TJX,2900,3.80,3.80,4.00,3.50,3.40,3.30,3.60,1
+Specialty Retailers,Retailing,Dollar General,8000,2.90,2.80,3.40,2.50,2.60,2.70,3.20,1
+General Merchandisers,Retailing,Macy’s,22000,3.40,3.30,3.80,3.30,3.00,3.00,3.10,1
+Specialty Retailers: Other,Retailing,Dollar Tree,4700,3.20,2.90,3.50,3.00,2.90,2.50,3.00,1
+Specialty Retailers,Retailing,Penske Automotive Group,450,4.40,4.40,4.70,4.20,4.20,4.40,4.40,1
+Specialty Retailers,Retailing,AutoNation,1300,3.40,3.20,3.50,2.90,3.10,3.30,3.40,1
+General Merchandisers,Retailing,Kohl’s,13000,3.60,3.70,4.00,3.50,3.30,3.10,3.20,0
+"Automotive Retailing, Services",Retailing,CarMax,3900,3.70,3.90,4.10,3.30,3.30,3.50,3.60,1
+Specialty Retailers: Apparel,Retailing,Gap,6700,3.70,3.80,4.10,3.50,3.30,3.30,3.30,1
+Specialty Retailers: Apparel,Retailing,Ross Stores,6200,3.40,3.30,3.80,3.20,3.00,3.10,3.20,0
+General Merchandisers,Retailing,Nordstrom,17000,3.70,3.80,4.00,3.30,3.20,3.60,3.40,1
+Internet Services and Retailing,Retailing,Qurate Retail,33,3.50,4.00,4.30,4.00,3.80,3.60,3.20,1
+General Merchandisers,Retailing,BJ's Wholesale Club,1900,3.20,3.00,3.50,3.10,2.90,3.10,3.10,1
+Specialty Retailers: Apparel,Retailing,L Brands,1100,4.00,3.90,4.20,3.50,3.30,4.00,3.70,1
+"Automotive Retailing, Services",Retailing,Lithia Motors,395,3.70,3.80,4.10,3.50,3.60,3.60,3.80,1
+Specialty Retailers,Retailing,Murphy USA,53,3.80,3.50,3.70,3.20,3.50,3.30,3.60,1
+Internet Services and Retailing,Retailing,Expedia Group,4500,4.00,4.10,4.20,4.20,3.40,3.80,3.50,1
+"Automotive Retailing, Services",Retailing,Group 1 Automotive,350,3.2,3.3,4.4,2.8,2.8,3,3.1,1
+Specialty Retailers: Other,Retailing,Bed Bath & Beyond,4400,3.1,3.1,3.5,3,2.8,2.7,2.6,1
+Specialty Retailers: Other,Retailing,AutoZone,3600,3.3,3.2,3.7,2.8,2.9,2.8,3.2,1
+General Merchandisers,Retailing,J.C. Penney,9400,3.4,3.4,3.9,3.4,3,3.1,3,0
+Specialty Retailers: Other,Retailing,ODP,5700,3.1,2.9,3.7,3.2,2.7,2.8,2.8,1
+Computers,Technology,Apple,22000,4.3,4.3,4.4,3.6,3.8,4.3,3.9,1
+Internet Services and Retailing,Technology,Alphabet,20000,4.5,4.4,4.3,4.3,4.1,4.6,4.3,1
+Computer Software,Technology,Microsoft,31000,4.4,4.3,4.3,4.1,4,4.1,4.2,1
+Computers,Technology,Dell Technologies,21000,4.1,4.1,4.2,4.2,3.7,3.9,3.8,1
+Information Technology Services,Technology,IBM,68000,3.7,3.7,4.2,3.8,3.2,3.6,3.6,1
+Semiconductors and Other Electronic Components,Technology,Intel,19000,4,3.9,4.3,3.9,3.3,3.9,3.8,1
+Interactive Media and Services,Technology,Facebook,6900,4.3,4.2,4.2,3.7,4,4.7,4.4,1
+Computers,Technology,HP,5200,4,4.2,4.3,4,3.5,3.6,3.6,1
+Network and Other Communications Equipment,Technology,Cisco Systems,23000,4.1,4.2,4.1,4.1,3.7,4,3.8,1
+Computer Software,Technology,Oracle,33000,3.6,3.2,3.6,3.8,3,3.5,3.4,0
+Computers,Technology,Hewlett Packard Enterprise,13000,3.7,3.8,4.3,3.9,3.3,3.5,3.3,1
+Medical Products and Equipment,Technology,Thermo Fisher Scientific,4900,3.7,3.6,3.8,3.4,3.3,3.5,3.6,1
+Semiconductors and Other Electronic Components,Technology,Jabil,1800,3.4,3.2,3.4,3,3,3.3,3.2,1
+Semiconductors,Technology,Qualcomm,7200,4.1,3.7,3.8,3.4,3.4,3.9,3.8,1
+Semiconductors and Other Electronic Components,Technology,Micron Technology,3100,3.7,3.6,3.9,3,3.3,3.9,3.7,1
+Semiconductors and Other Electronic Components,Technology,Broadcom,3100,3.4,2.7,3.3,3.2,2.9,3.9,2.8,1
+Information Technology Services,Technology,DXC Technology,13000,2.8,2.7,3.5,3.3,2.6,2.7,2.6,1
+Information Technology Services,Technology,CDW,2500,4.2,4.3,4.3,3.9,3.8,3.7,4.1,0
+Computer Software,Technology,Salesforce,8700,4.4,4.5,4.4,4.2,4.2,4.5,4.3,1
+Information Technology Services,Technology,Cognizant Technology Solutions,52000,3.5,3.3,3.5,3.2,2.9,3.2,3.4,1
+Computers,Technology,Western Digital,2300,3.4,3.4,3.6,3.6,3,3.2,3.1,1
+Internet Services and Retailing,Technology,Booking Holdings,4700,3.8,4.1,4.6,3.6,3.3,3.7,3.1,1
+Semiconductors,Technology,Applied Materials,2100,4,3.7,4.1,3.4,3.4,3.7,3.8,1
+Semiconductors,Technology,Texas Instruments,3400,4.2,4.1,4.2,3.8,3.7,4,3.9,1
+Internet Services and Retailing,Technology,Uber Technologies,14000,3.8,3.5,4,3.9,3.2,3.5,3.5,1
+Computer Software,Technology,Adobe,5600,4.4,4.4,4.5,4.3,4,4.4,3.9,1
+Information Technology Services,Technology,Leidos Holdings,2300,3.9,3.8,4,3.9,3.5,3.7,3.7,1
+Semiconductors,Technology,Nvidia,3200,4.8,4.7,4.5,4.3,4.6,4.6,4.6,1
+Internet Services and Retailing,Technology,eBay,3900,4,4.1,4,4.1,3.5,4.1,3.9,1
+Telecommunications,Telecommunications,AT&T,28000,3.6,3.3,4.1,3.2,2.9,4,3.4,1
+Telecommunications,Telecommunications,Verizon Communications,23000,4,3.8,4.3,3.5,3.5,4.3,3.7,1
+Entertainment,Telecommunications,Comcast,11000,3.9,3.8,4.2,3.7,3.5,4.1,3.7,1
+Telecommunications,Telecommunications,Charter Communications,7700,3.3,2.9,3.8,2.9,2.8,3.8,3.3,1
+Telecommunications,Telecommunications,Lumen Technologies,4900,3.2,3.1,3.6,3.5,2.8,3.3,3,1
+Telecommunications,Telecommunications,DISH Network,5300,3.1,2.9,3.4,2.9,2.8,3,3.2,1
+Delivery,Transportation,UPS,19000,3.6,3.2,3.9,3.2,3.1,4,3.6,0
+Delivery,Transportation,FedEx,6600,3.7,3.6,4,3.5,3.3,3.6,3.7,1
+Airlines,Transportation,Delta Air Lines,4000,4.5,4.4,4.5,4.1,4,4.4,4.2,1
+Airlines,Transportation,American Airlines Group,41000,3.9,3.6,4.1,3.7,3.1,3.9,3.6,1
+Airlines,Transportation,United Airlines Holdings,4200,4.1,3.9,4.3,3.8,3.5,4.2,3.9,1
+Airlines,Transportation,Southwest Airlines,2700,4.6,4.6,4.5,4.2,4.1,4.5,4.3,1
+"Trucking, Transportation, Logistics",Transportation,Union Pacific,2000,2,1.8,2.6,1.7,1.6,3.4,2,1
+"Trucking, Transportation, Logistics",Transportation,XPO Logistics,3900,3.6,3.5,4,3.2,3.3,3.7,3.6,1
+"Trucking, Transportation, Logistics",Transportation,C.H. Robinson Worldwide,2000,3.6,3.7,3.8,3.7,3.3,3.4,3.1,1
+Railroads,Transportation,CSX,946,2.5,1.9,2.5,1.9,1.9,3.6,2.4,1
+Railroads,Transportation,Norfolk Southern,1200,2.4,1.9,2.6,1.8,1.8,3.6,2.5,1

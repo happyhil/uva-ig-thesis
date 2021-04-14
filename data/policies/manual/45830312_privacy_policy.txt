@@ -1,0 +1,307 @@
+Privacy Notice:
+
+The StoneX Group Inc. group of entities (Group) is committed to protecting the privacy and security of your personal information.
+
+This privacy notice will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) and tell you about your privacy rights in accordance with applicable data protection law (Law).
+
+These arrangements are applicable to EU and UK nationals only. If you are not an EU or UK national, these provisions shall not be applicable to you, and our privacy policy with respect to your information is controlled by the privacy policy included in your account opening documents and/or the provisions of your contract with the specific entity of the Group.
+
+This privacy notice aims to give you information on how the Group collects and processes your personal data through your use of this website, including any data you may provide through your activities on this website as well as any ancillary activity including taking part in a competition.
+
+This website is not intended for children and we do not knowingly collect data relating to children.
+
+It is important that you read this privacy notice together with any other privacy notice or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This privacy notice supplements the other such notices and is not intended to override them.
+
+1. IMPORTANT INFORMATION AND WHO WE ARE
+
+The Group is made up of different legal entities across the globe. This privacy notice is issued on behalf of the Group so when we mention "StoneX” or “Group", "we", "us" or "our" in this privacy notice, we are referring to the Group and where relevant, the specific entity within the Group with whom you have a direct relationship pursuant to the processing of your personal data.
+
+2. THE DATA WE COLLECT ABOUT YOU
+
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (Anonymous Data).
+
+We may collect, use, store and transfer different kinds of personal data about you which we have grouped together as follows:
+
+i. Identity Data includes first name, maiden name, last name, username or similar identifier, marital status, title, date of birth and gender.
+
+ii. Contact Data includes email address and telephone numbers.
+
+iii. Financial Data includes financial information on your entity solely as it relates to the services we may provide to you.
+
+iv. Transaction Data includes details about payments to and from you and other details of products and services you have purchased from us.
+
+v. Technical Data includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.
+
+vi. Profile Data includes your username and password, transactional activity, your interests, preferences, feedback and survey responses.
+
+vii. Usage Data includes information about how you use our website, products and services.
+
+viii. Marketing and Communications Data includes your preferences in receiving marketing from us and our third parties and your communication preferences.
+
+We also collect, use and share Aggregated Data such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in Law as this data is anonymised and does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice.
+
+We do not collect any special categories of personal data about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.
+
+If you fail to provide personal data
+
+Where we need to collect personal data by Law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services). In this case, we may have to cancel the contract and corresponding service you have with us but we will notify you at the time if this is the case.
+
+Third Party links
+
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
+
+3. HOW IS YOUR PERSONAL DATA COLLECTED
+
+We use different methods to collect data from and about you including through:
+
+i. Direct interactions. You may give us your Identity, Contact and Financial Data by filling in forms or by corresponding with us by post, phone, e-mail or otherwise. This includes personal data you provide when you:
+
+- apply for our products or services;
+
+- create an account on our website;
+
+- subscribe to our service or publications;
+
+- request marketing to be sent to you;
+
+- enter a competition, promotion or survey; or
+
+- give us some feedback.
+
+ii. Automated technologies or interactions. As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies.
+
+iii. Third parties or publicly available sources. We may receive personal data about you from various third parties and public sources as set out below:
+
+a) Technical Data from the following parties:
+
+- analytics providers such as Google;
+
+- advertising networks; and
+
+- search information providers.
+
+b) Contact, Financial and Transaction Data from providers of technical, payment and delivery services.
+
+c) Identity and Contact Data from data brokers or aggregators.
+
+d) Identity and Contact Data from publicly availably sources such as corporate entity registers and the Electoral Register.
+
+4. HOW WE USE YOUR PERSONAL DATA
+
+We will only use your personal data when the Law allows us to. Most commonly, we will use your personal data in the following circumstances:
+
+a) Where we need to perform the contract we are about to enter into or have entered into with you.
+
+b) Where it is necessary for our legitimate interests and your interests and fundamental rights do not override those interests.
+
+c) Where we need to comply with a legal or regulatory obligation.
+
+Generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending third party direct marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by us using the contact details below.
+
+We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
+
+Note that we may process your personal data for more than one lawful basis depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific legal ground we are relying on to process your personal data where more than one basis has been set out in the table below.
+
+Purpose/Activity
+
+Type of data
+
+Lawful basis for processing
+
+To register you as a new customer
+
+(a) Identity
+
+(b) Contact
+
+a) Performance of a contract with you
+
+(b) Necessary to comply with a legal obligation
+
+(c) Necessary for our legitimate interests (Marketing and Communications)
+
+(d) Performance of a contract with you
+
+To process your transaction instructions:
+
+(a) Manage payments, fees and charges
+
+(b) Collect and recover money owed to us
+
+(a) Identity
+
+(b) Contact
+
+(c) Financial
+
+(d) Transaction
+
+(e) Marketing and Communications
+
+(a) Performance of a contract with you
+
+(b) Necessary for our legitimate interests (to recover debts due to us)
+
+(c) Necessary to comply with a legal obligation
+
+To manage our relationship with you which will include:
+
+(a) Notifying you about changes to our terms or privacy policy
+
+(b) Asking you to leave a review or take a survey
+
+(c) correspondence about your account and/or any changes to its management or procedures
+
+(a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Marketing and Communications
+
+(a) Performance of a contract with you
+
+(b) Necessary to comply with a legal obligation
+
+(c) Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)
+
+To enable you to partake in a prize draw, competition or complete a survey
+
+(a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Usage
+
+(e) Marketing and Communications
+
+(a) Performance of a contract with you
+
+(b) Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business)
+
+To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)
+
+(a) Identity
+
+(b) Contact
+
+(c) Technical
+
+(a) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)
+
+(b) Necessary to comply with a legal obligation
+
+To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you
+
+(a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Usage
+
+(e) Marketing and Communications
+
+(f) Technical
+
+Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)
+
+To use data analytics to improve our website, products/services, marketing, customer relationships and experiences
+
+(a) Technical
+
+(b) Usage
+
+Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)
+
+To make suggestions and recommendations to you about goods or services that may be of interest to you
+
+(a) Identity
+
+(b) Contact
+
+(c) Technical
+
+(d) Usage
+
+(e) Profile
+
+Necessary for our legitimate interests (to develop our products/services and grow our business)
+
+
+
+We will contact you if we need to engage in any use or processing of your data that requires your consent in compliance with applicable Law. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact us.
+
+Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by Law.
+
+5. MARKETING
+
+We may process your personal data in the manner described above on the legal basis of our legitimate business interests for the benefit of the services we provide to you.
+
+Such legitimate business interest may include, using your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you.
+
+You will receive communications from us if you have requested information from us or purchased engaged us for our services or if you provided us with your details when you entered a competition or registered for a promotion or provided your contact details to any employee of the Group (including but not limited to any members of our Sales and Trading teams) pursuant to general business dealings and, in each case, you have not opted out of receiving that marketing.
+
+We will share your personal data within our Group. However, we will get your express opt-in consent before we share your personal data with any company outside the Group of companies for marketing purposes.
+
+6. COOKIES
+
+This website uses cookies to enable a smooth user experience and to ensure the effective operation of the website. You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly.
+
+7. DISCLOSURES OF YOUR PERSONAL DATA
+
+Pursuant to the purpose outlined in this policy we may have to share your personal data with the parties set out below.
+
+- within the Group.
+
+- other third parties necessary to the fulfillment of the purposes outlined in this policy.
+
+- Regulatory authorities
+
+- Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.
+
+We require all third parties to respect the security of your personal data and to treat it in accordance with the Law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+International transfers
+
+Pursuant to the satisfaction of the purposes and legal basis for use and processing your personal data which are outlined in this policy, we will transfer your personal data outside your domestic jurisdiction.
+
+Particularly with regards to EU and UK nationals, please be advised that whenever we transfer your personal data out of the European Economic Area (EEA), we ensure a similar degree of protection expected in EEA is afforded to it by entering into contractual arrangements reflecting such requirements.
+
+8. DATA SECURITY
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+9. DATA RETENTION
+
+We will retain your personal data in accordance with the prescriptions of applicable law and pursuant to the satisfaction of the purposes outlined in this policy.
+
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+10. YOUR LEGAL RIGHTS
+
+In order to ensure that the personal data which we hold and process is correct at all times, please let us know if there are any changes to your personal data.
+
+We acknowledge the domestic law governing the processing and security of your personal data.
+
+With respect to EU and UK Nationals we note your particular rights to access, erase, restrict and object to our use and processing of your personal data. Please contact us using the contact information provided in this policy in the event that you wish to exercise such rights. Please note that we may require particular and additional information from you or your representative pursuant to the satisfaction of your request.
+
+11. CONTACT DETAILS
+
+We have appointed a data protection officer (DPO) who is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this privacy notice, including any requests to exercise your legal rights, please contact the DPO using the details set out below.
+
+Data Protection Officer
+
+Email address: DPO@stonex.com
+
+Postal address: StoneX, Moor House, 120 London Wall, EC2Y 5ET
+
+If you are an EU national and UK national we acknowledge that you have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
+
+A downloadable version of this privacy policy is available here. 
