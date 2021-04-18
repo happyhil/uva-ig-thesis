@@ -1,331 +1,331 @@
 "company","Sector","Industry","Current All-Star Rank","Previous All-Star Rank","Industry Rank","Previous Industry Rank","Overall Score","Website","Company Note","Innovation","People Management","Use of Corporate Assets","Social Responsibility","Quality of Management","Financial Soundness","Long-Term Investment Value","Quality of Products/Services","Global Competitiveness"
-"Amazon","Computers and Communication","Internet Services and Retailing","2","2","1","1","7.75","https://www.amazon.com","-","1","2","1","4","1","2","1","1","1"
-"Microsoft","Computers and Communication","Computer Software","3","6","1","1","8.30","https://www.microsoft.com","-","1","1","1","2","1","1","1","2","1"
-"Walt Disney","Media and Entertainment","Entertainment","4","4","1","1","8.49","https://www.thewaltdisneycompany.com","-","2","1","1","1","1","1","1","1","1"
-"Berkshire Hathaway","Financials","Insurance: Property and Casualty","5","3","1","1","7.64","https://www.berkshirehathaway.com","-","3","1","1","10","1","1","1","1","4"
-"Starbucks","Stores and Distributors","Food Services","6","5","1","1","7.92","https://www.starbucks.com","-","1","1","1","1","1","1","1","1","1"
-"Alphabet","Computers and Communication","Internet Services and Retailing","7","7","2","2","7.68","https://www.abc.xyz","-","2","1","4","2","2","1","2","2","2"
-"JPMorgan Chase","Financials","Megabanks","8","9","1","1","7.24","https://www.jpmorganchase.com","-","2","2","1","2","1","1","1","1","1"
-"Costco Wholesale","Stores and Distributors","General Merchandisers","9","12","2","4","7.33","https://www.costco.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Salesforce","Computers and Communication","Computer Software","10","14","2","3","7.53","https://www.salesforce.com","-","2","2","7","1","2","3","2","3","4"
-"Southwest Airlines","Transport","Airlines","11","11","7","2","5.29","https://www.southwest.com","-","11","4","3","6","3","3","2","12","11"
-"Coca-Cola","Consumer Products","Beverages","12","15","1*","2","7.13","https://www.coca-colacompany.com","*Tie in rank.","2","1","3","1","1","1","2","2","1"
-"Nike","Consumer Products","Apparel","13","13","1","1","7.91","https://www.nike.com","-","1","1","1","3","2","1","1","1","1"
-"American Express","Financials","Consumer Credit Card and Related Services","14","16","4","4","6.76","https://www.americanexpress.com","*Tie in All-Star Rank.","5","4","4","4","4","3","4","2","5"
-"FedEx","Transport","Delivery","14","10","2","2","6.08","https://www.fedex.com","*Tie in All-Star Rank.","2","2","2","2","2","2","2","2","2"
-"Netflix","Media and Entertainment","Entertainment","14","8","2","2","7.32","https://www.netflix.com","*Tie in All-Star Rank.","1","2","2","2","2","10","3","2","2"
-"Marriott International","Media and Entertainment","Hotels, Casinos, and Resorts","17","23","2","1","7.09","https://www.marriott.com","-","3","2","1","2","3","2","2","4","1"
-"Walmart","Stores and Distributors","General Merchandisers","18","25","3","3","7.00","https://www.stock.walmart.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Delta Air Lines","Transport","Airlines","19","28","1","1","6.89","https://www.delta.com","-","2","1","2","3","1","1","1","2","2"
-"Nordstrom","Stores and Distributors","General Merchandisers","20","20","4","2","6.46","https://investor.nordstrom.com/","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Home Depot","Stores and Distributors","Specialty Retailers","21","21","2","1","7.06","https://www.homedepot.com","-","2","2","2","3","2","1","2","2","2"
-"Target","Stores and Distributors","General Merchandisers","22","32","1","1","7.63","https://investors.target.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Procter & Gamble","Consumer Products","Soaps and Cosmetics","23","31","1","2*","7.34","https://www.pginvestor.com","*Tie in rank.","2","2","4","2","3","1","3","1","1"
-"USAA","Financials","Insurance: Property and Casualty","24","24","4","3","6.78","https://www.usaa.com","-","2","4","5","1","4","2","7","2","12"
-"BlackRock","Financials","Securities and Asset Management","25","22","1","1","7.71","https://www.blackrock.com","-","2","1","2","1","2","1","1","1","1"
-"Johnson & Johnson","Natural resources","Pharmaceuticals","26","17","1","1","7.55","https://www.jnj.com","-","2","1","1","2","1","1","1","2","1"
-"Goldman Sachs Group","Financials","Megabanks","27","26","3","3","6.70","https://www.goldmansachs.com","-","1","1","3","6","3","3","3","3","2"
-"Singapore Airlines","Transport","Airlines","28","18","2","3","6.88","https://www.singaporeair.com","-","1","2","1","2","2","2","3","1","1"
-"3M","Natural resources","Chemicals","29","27","1","1","7.04","https://www.3m.com","-","1","1","2","2","2","1","2","1","2"
-"Toyota Motor","Transport","Motor Vehicles","30","30","1","1","8.40","https://global.toyota/en","-","4","1","1","1","1","1","1","1","1"
-"Unilever","Consumer Products","Soaps and Cosmetics","31","39","4","2*","7.02","https://www.unilever.com","*Tie in rank.","4","5","7","1","5","5","4","6","2"
-"BMW","Transport","Motor Vehicles","32","29","2","2","7.48","https://www.bmwgroup.com/de.html","-","3","2","2","3","3","4","2","3","3"
-"UPS","Transport","Delivery","33","33","1","1","6.78","https://www.ups.com","-","1","1","1","1","1","1","1","1","1"
-"Accenture","Computers and Communication","Information Technology Services","34","36","1","1","7.40","https://www.accenture.com","-","1","1","1","2","1","1","1","1","1"
-"IBM","Computers and Communication","Information Technology Services","35","40","3","2","6.62","https://www.ibm.com","-","2","4","6","1","3","4","8","4","2"
-"Visa","Financials","Consumer Credit Card and Related Services","36","42","1","1","7.86","https://usa.visa.com","-","2","1","1","2","1","1","1","1","1"
-"Charles Schwab","Financials","Securities and Asset Management","37","49","2","2","7.13","https://www.schwab.com","-","1","2","1","2","1","2","2","2","2"
-"CVS Health","Contracted Services","Health Care: Pharmacy and Other Services","38","35","1","1","6.81","https://www.cvshealth.com","-","3","1","4","1","1","2","2","1","4"
-"Nestlé","Consumer Products","Consumer Food Products","39","47","1","1","7.70","https://www.nestle.com","-","2","2","1","1","2","2","2","1","1"
-"Adidas","Consumer Products","Apparel","40","38","4","4","7.13","https://www.adidas-group.com","-","2","5","6","5","6","4","5","5","2"
-"McDonald’s","Stores and Distributors","Food Services","41","37","3","3","6.75","https://corporate.mcdonalds.com","-","3","2","3","3","4","2","2","8","2"
-"Mastercard","Financials","Consumer Credit Card and Related Services","42","48","2","2","7.56","https://www.mastercard.com","-","3","3","2","1","2","2","2","3","2"
-"PepsiCo","Consumer Products","Consumer Food Products","43","41","2","2","7.65","https://www.pepsico.com","-","1","1","2","2","1","1","1","2","2"
-"Caterpillar","Transport","Construction and Farm Machinery","44","43","2","2","8.08","https://www.caterpillar.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"L’Oréal","Consumer Products","Soaps and Cosmetics","45","-","3","4","7.26","https://www.loreal.com","-","1","3","2","3","1","3","2","2","5"
-"Lockheed Martin","Transport","Aerospace and Defense","46","-","2","5","7.58","https://www.lockheedmartin.com","-","2","2","2","2","1","2","1","1","4"
-"Adobe","Computers and Communication","Computer Software","47","-","3","2","7.39","https://www.adobe.com","-","4","4","2","5","3","2","4","1","3"
-"Publix Super Markets","Stores and Distributors","Food and Drugstores","48","45","1","2","7.38","https://www.publix.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Merck","Natural resources","Pharmaceuticals","49","-","2","2","7.45","https://www.merck.com","-","1","2","2","1","2","2","2","1","3"
-"Exxon Mobil","Power","Petroleum Refining","50","50","-","-","-","https://www.exxonmobil.com","Due to insufficient response rates, industry score and ranks are not published. *Tie in Rank.","-","-","-","-","-","-","-","-","-"
-"ABB","Transport","Industrial Machinery","-","-","4","5","6.04","https://www.new.abb.com","-","2","8","10","3","6","4","5","4","2"
-"Abbott Laboratories","Precision","Medical Products and Equipment","-","-","1","1","7.18","https://www.abbott.com","-","1","1","1","1","2","1","1","1","1"
-"AbbVie","Natural resources","Pharmaceuticals","-","-","8","8","6.46","https://www.abbvie.com","-","10","8","8","6","8","6","8","6","9"
-"Activision Blizzard","Media and Entertainment","Entertainment","-","-","4","3","6.42","https://www.activisionblizzard.com","-","5","8","4","11","7","2","4","3","6"
-"Advanced Micro Devices (AMD)","Precision","Semiconductors","-","-","4","9","6.87","https://www.amd.com","-","2","4","5","4","1","11","7","2","3"
-"AECOM","Shelter","Engineering, Construction","-","-","2","2","6.26","https://www.aecom.com","-","2","2","3","2","2","3","3","2","2"
-"Aflac","Financials","Insurance: Life and Health","-","-","2","7","6.53","https://www.aflac.com","-","1","2","3","3","5","5","2","3","5"
-"Air France-KLM Group","Transport","Airlines","-","-","5*","4","5.61","https://www.airfranceklm.com","*Tie in rank.","6","8","5","1","4","11","7","4","5"
-"Airbus Group","Transport","Aerospace and Defense","-","-","5","7","6.78","https://www.airbus.com","-","5","4","8","6","6","5","8","3","2"
-"Alcoa","Natural resources","Metals","-","-","4","6","6.04","https://www.alcoa.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Allstate","Financials","Insurance: Property and Casualty","-","-","6","6","6.66","https://www.allstate.com","-","4","6","6","3","6","3","5","4","11"
-"América Móvil","Computers and Communication","Telecommunications","-","-","6","11","5.87","https://www.americamovil.com","-","8","5","7","11","5","6","6","10","5"
-"American Electric Power","Power","Electric and Gas Utilities","-","-","4","6","6.59","https://www.aep.com","-","6","6","3","5","3","2","3","4","8"
-"American Tower","Shelter","Real Estate","-","-","5","7","6.21","https://www.americantower.com","-","6","5","5","8","6","2","2","5","6"
-"AmerisourceBergen","Stores and Distributors","Wholesalers: Health Care","-","-","3","3","5.57","https://www.amerisourcebergen.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Amgen","Natural resources","Pharmaceuticals","-","-","5","5","6.66","https://www.amgen.com","-","5","5","5","10","4","5","5","5","13"
-"Anheuser-Busch InBev","Consumer Products","Beverages","-","-","5","3","6.30","https://www.ab-inbev.com","-","8","7","2","6","4","13","10","3","3"
-"Anthem","Contracted Services","Health Care: Insurance and Managed Care","-","-","3","5","6.69","https://www.antheminc.com","-","5","4","3","2","2","2","2","3","5"
-"Apache","Natural resources","Mining, Crude-Oil Production","-","-","4","7","6.14","https://www.apachecorp.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Applied Materials","Precision","Semiconductors","-","-","7","3","6.66","https://www.appliedmaterials.com","-","6","6","6","3","5","6","6","9","8"
-"Aramark","Contracted Services","Diversified Outsourcing Services","-","-","2","7","5.71","https://www.aramark.com","-","2","3","6","1","5","6","4","1","3"
-"ArcelorMittal","Natural resources","Metals","-","-","3","4","6.10","https://corporate.arcelormittal.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Archer Daniels Midland","Consumer Products","Food Production","-","-","2","2","6.37","https://www.adm.com","-","3","3","3","3","2","2","2","2","3"
-"Arrow Electronics","Stores and Distributors","Wholesalers: Electronics and Office Equipment","-","-","1","1","7.22","https://www.arrow.com","-","1","1","2","1","2","2","1","1","1"
-"Asustek Computer","Computers and Communication","Computers","-","-","6","5","5.72","https://www.asus.com","-","4","5","4","6","7","6","9","10","7"
-"AT&T","Computers and Communication","Telecommunications","-","-","1","1","7.26","https://www.att.com","-","1","1","2","1","2","1","1","1","1"
-"Autodesk","Computers and Communication","Computer Software","-","-","8","7","6.23","https://www.autodesk.com","-","7","7","6","7","8","9","9","7","7"
-"Automatic Data Processing","Financials","Financial Data Services","-","-","1","2","6.80","https://www.adp.com","-","6","8","1","3","1","1","1","1","2"
-"AutoNation","Stores and Distributors","Specialty Retailers","-","-","6","6","6.07","https://www.autonation.com","-","5","7","7","6","7","5","7","4","8"
-"Bank of America","Financials","Megabanks","-","-","2","2","6.92","https://www.bankofamerica.com","-","3","3","1","1","2","2","2","1","6"
-"Bank of New York Mellon","Financials","Superregional Banks","-","-","4","4*","6.84","https://www.bnymellon.com","*Tie in rank.","3","4","6","6","6","3","5","3","1"
-"BASF","Natural resources","Chemicals","-","-","4","5","6.33","https://www.basf.com","-","4","6","5","5","5","3","4","3","1"
-"Best Buy","Stores and Distributors","Specialty Retailers","-","-","1","8","7.39","https://www.bestbuy.com","-","1","1","1","1","1","2","1","1","3"
-"BHP Group","Natural resources","Mining, Crude-Oil Production","-","-","5","4","6.06","https://www.bhp.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published. Changed name from BHP Billiton.","-","-","-","-","-","-","-","-","-"
-"Boise Cascade","Stores and Distributors","Wholesalers: Diversified","-","-","4","5","5.74","https://www.bc.com","-","5","4","10","3","5","6","8","4","2"
-"Booking Holdings","Computers and Communication","Internet Services and Retailing","-","-","5*","3","6.22","https://www.bookingholdings.com","*Tie in rank.","9","7","3","5","5","6","7","5","3"
-"Booz Allen Hamilton Holding","Computers and Communication","Information Technology Services","-","-","2","4","6.63","https://www.boozallen.com","-","3","2","2","3","2","3","2","2","7"
-"Bosch","Transport","Motor Vehicle Parts","-","-","1","2","7.25","https://www.bosch.com","-","1","1","2","3","1","2","1","1","1"
-"Boston Scientific","Precision","Medical Products and Equipment","-","-","4","2","6.52","https://www.bostonscientific.com","-","2","2","5","5","1","8","5","2","9"
-"Bristol-Myers Squibb","Natural resources","Pharmaceuticals","-","-","6","6","6.63","https://www.bms.com","-","6","6","6","4","3","9","6","4","10"
-"Broadridge Financial Solutions","Financials","Financial Data Services","-","-","4","1","6.61","https://www.broadridge.com","-","1","3","4","5","2","5","3","2","6"
-"Bunge","Consumer Products","Food Production","-","-","5","6","5.31","https://www.bunge.com","-","8","7","6","6","5","5","6","5","5"
-"C.H. Robinson Worldwide","Transport","Trucking, Transportation, Logistics","-","-","5","2","6.36","https://www.chrobinson.com","-","6","4","3","7","2","2","7","3","4"
-"CACI International","Computers and Communication","Information Technology Services","-","-","7","6","5.84","https://www.caci.com","-","6","6","7","9","7","5","4","6","11"
-"Canon","Computers and Communication","Computers","-","-","5","4","5.80","https://global.canon","-","6","6","6","7","5","4","5","4","5"
-"Capital One Financial","Financials","Consumer Credit Card and Related Services","-","-","5","5","6.29","https://www.capitalone.com","-","4","5","5","6","5","6","5","5","7"
-"Cardinal Health","Stores and Distributors","Wholesalers: Health Care","-","-","4","4","5.16","https://www.cardinalhealth.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"CBRE Group","Shelter","Real Estate","-","-","1","1","6.91","https://www.cbre.com","-","1","1","1","2","1","1","1","1","1"
-"Centene","Contracted Services","Health Care: Insurance and Managed Care","-","-","2","2","6.72","https://www.centene.com","-","3","5","2","3","4","3","3","4","3"
-"Cerner","Contracted Services","Health Care: Pharmacy and Other Services","-","-","4","4","6.50","https://www.cerner.com","-","2","3","3","4","3","3","4","4","5"
-"Charles River Laboratories International","Contracted Services","Health Care: Pharmacy and Other Services","-","-","5","-","6.10","https://www.criver.com","-","6","5","6","8","6","7","5","6","2"
-"Chipotle Mexican Grill","Stores and Distributors","Food Services","-","-","4","6","6.29","https://www.chipotle.com","-","4","4","4","2","3","4","6","2","8"
-"Chubb","Financials","Insurance: Property and Casualty","-","-","2","2","6.97","https://www.chubb.com/us-en","-","6","5","3","5","3","6","3","3","2"
-"Ciena","Computers and Communication","Network and Other Communications Equipment","-","-","2","4","6.36","https://www.ciena.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Cintas","Contracted Services","Diversified Outsourcing Services","-","-","3","8","5.68","https://www.cintas.com","-","3","4","1","7","2","1","3","2","8"
-"Cisco Systems","Computers and Communication","Network and Other Communications Equipment","-","-","1","1","6.55","https://www.cisco.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Citigroup","Financials","Megabanks","-","-","5","5","6.12","https://www.citigroup.com","-","5","5","5","4","6","5","6","5","3"
-"Coca-Cola Consolidated","Consumer Products","Beverages","-","-","3","7","6.50","https://www.cokeconsolidated.com","-","5","3","4","3","3","3","4","6","6"
-"Cognizant Technology Solutions","Computers and Communication","Information Technology Services","-","-","5","5","6.04","https://www.cognizant.com","-","5","7","5","8","5","6","5","5","5"
-"Colgate-Palmolive","Consumer Products","Soaps and Cosmetics","-","-","5","5","6.96","https://www.colgatepalmolive.com","-","5","6","3","6","2","4","6","4","3"
-"Compass Group","Contracted Services","Diversified Outsourcing Services","-","-","1","4","5.76","https://www.compass-group.com","-","1","2","2","5","1","2","2","3","2"
-"ConocoPhillips","Natural resources","Mining, Crude-Oil Production","-","-","3","1","6.73","https://www.conocophillips.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Continental","Transport","Motor Vehicle Parts","-","-","4","5","6.69","https://www.continental-corporation.com","-","2","3","3","4","4","4","4","4","4"
-"D.R. Horton","Shelter","Homebuilders","-","-","4","6","6.09","https://www.drhorton.com","-","8","5","1","9","2","1","2","7","3"
-"Daimler","Transport","Motor Vehicles","-","-","3","3","7.43","https://www.daimler.com","-","2","3","4","2","4","2","3","2","2"
-"Danaher","Precision","Medical Products and Equipment","-","-","6","6","6.23","https://www.danaher.com","-","11","7","2","11","5","4","3","8","5"
-"Danone","Consumer Products","Consumer Food Products","-","-","5","3","6.35","https://www.danone.com","-","5","5","7","4","5","5","5","5","4"
-"DaVita","Contracted Services","Health Care: Medical Facilities","-","-","4","4","6.00","https://www.davita.com","-","5","2","4","6","3","4","5","5","2"
-"Deere","Transport","Construction and Farm Machinery","-","-","1","1","8.40","https://www.deere.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Dell Technologies","Computers and Communication","Computers","-","-","2","2","6.61","https://www.delltechnologies.com/en-us/index.htm","-","3","2","2","3","2","2","2","2","2"
-"Denso","Transport","Motor Vehicle Parts","-","-","7","6","6.06","https://www.denso.com/global/en/","-","8","9","8","8","7","5","5","9","9"
-"Deutsche Post DHL Group","Transport","Delivery","-","-","3","3","5.87","https://www.deutschepost.de","-","3","3","3","3","3","3","3","3","3"
-"Deutsche Telekom","Computers and Communication","Telecommunications","-","-","5","4","5.99","https://www.telekom.com","-","5","5","8","4","4","5","6","6","7"
-"Diageo","Consumer Products","Beverages","-","-","1*","1","7.13","https://www.diageo.com","*Tie in rank.","1","2","1","2","2","2","1","1","2"
-"Discovery","Media and Entertainment","Entertainment","-","-","6*","5","6.25","https://corporate.discovery.com","*Tie in rank.","7","7","5","3","5","8","8","6","4"
-"Dollar General","Stores and Distributors","Specialty Retailers","-","-","7*","12","5.63","https://www.dollargeneral.com","*Tie in rank.","9","6","6","8","5","8","6","11","14"
-"Dominion Energy","Power","Electric and Gas Utilities","-","-","3","3","6.63","https://www.dominionenergy.com","-","3","3","4","4","4","4","4","3","4"
-"Domino’s Pizza","Stores and Distributors","Food Services","-","-","2","2","6.78","https://www.dominos.com/index.intl.html","-","2","3","2","4","2","3","3","5","3"
-"Duke Energy","Power","Electric and Gas Utilities","-","-","5","5","6.46","https://www.duke-energy.com","-","4","4","5","8","5","5","5","5","5"
-"Eaton","Precision","Electronics","-","-","7","3","6.46","https://www.eaton.com","-","10","8","5","6","9","3","6","7","11"
-"Ecolab","Natural resources","Chemicals","-","-","2","2","6.75","https://investor.ecolab.com","-","2","2","1","1","1","2","1","2","4"
-"Electronic Arts","Media and Entertainment","Entertainment","-","-","3","4","6.53","https://www.ea.com","-","3","4","6","5","3","3","2","4","7"
-"Emerson Electric","Transport","Industrial Machinery","-","-","5","2","5.94","https://www.emerson.com","-","5","4","7","5","7","5","3","7","7"
-"EOG Resources","Natural resources","Mining, Crude-Oil Production","-","-","6","3","6.04","https://www.eogresources.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Estée Lauder Companies","Consumer Products","Soaps and Cosmetics","-","-","2","1","7.32","https://www.elcompanies.com","-","3","1","1","4","4","2","1","3","4"
-"Exelon","Power","Electric and Gas Utilities","-","-","7","4","6.20","https://www.exeloncorp.com","-","7","7","6","5","7","9","7","7","9"
-"Facebook","Computers and Communication","Internet Services and Retailing","-","-","4","5","6.30","https://investor.fb.com","-","5","3","8","10","6","3","5","7","4"
-"Fastenal","Stores and Distributors","Wholesalers: Diversified","-","-","3","3","6.80","https://www.fastenal.com","-","2","3","1","7","1","2","1","2","8"
-"Fiserv","Financials","Financial Data Services","-","-","2","3","6.70","https://www.fiserv.com","-","4","1","2","4","2","3","2","3","5"
-"Fortive","Transport","Industrial Machinery","-","-","6","7*","5.86","https://www.fortive.com","*Tie in rank.","4","5","4","10","5","6","7","6","10"
-"Fortune Brands Home & Security","Consumer Products","Home Equipment, Furnishings","-","-","4","2","6.48","https://www.fbhs.com","-","5","4","4","4","4","5","4","4","5"
-"Fresenius","Contracted Services","Health Care: Medical Facilities","-","-","3","3","6.24","https://www.fresenius.com","-","3","5","3","3","5","3","3","2","1"
-"Fujitsu","Computers and Communication","Information Technology Services","-","-","8","7","5.78","https://www.fujitsu.com","-","7","9","10","7","11","9","11","10","4"
-"Gartner","Computers and Communication","Information Technology Services","-","-","4","3","6.56","https://www.gartner.com","-","4","3","4","5","4","2","3","3","3"
-"General Dynamics","Transport","Aerospace and Defense","-","-","6","6","6.49","https://www.gd.com","-","7","7","5","8","5","6","7","6","11"
-"General Mills","Consumer Products","Consumer Food Products","-","-","4","5","6.41","https://www.generalmills.com","-","4","4","4","3","3","4","4","4","6"
-"General Motors","Transport","Motor Vehicles","-","-","4","4","6.70","https://www.gm.com","-","5","5","3","4","2","5","4","7","5"
-"Genuine Parts","Stores and Distributors","Wholesalers: Diversified","-","-","5*","7","5.67","https://www.genpt.com","*Tie in rank.","9","6","5","6","4","5","4","7","10"
-"Granite Construction","Shelter","Engineering, Construction","-","-","4","8","5.67","https://www.graniteconstruction.com","-","4","4","4","4","4","4","5","4","8"
-"Graphic Packaging Holding","Natural resources","Packaging, Containers","-","-","5","-","6.03","https://www.graphicpkg.com","-","6","6","5","4","3","6","4","6","8"
-"Graybar Electric","Stores and Distributors","Wholesalers: Diversified","-","-","2","2","6.83","https://www.graybar.com","-","3","2","3","2","2","3","2","3","4"
-"Haier Smart Home","Consumer Products","Home Equipment, Furnishings","-","-","5","6","6.43","https://www.haier.net","Changed name from Qingdao Haier.","2","5","5","6","5","6","5","5","3"
-"HCA Healthcare","Contracted Services","Health Care: Medical Facilities","-","-","1","1","6.83","https://www.hcahealthcare.com","-","1","1","1","1","1","1","1","1","4"
-"Heineken Holding","Consumer Products","Beverages","-","-","4","5","6.39","https://www.theheinekencompany.com","-","7","4","6","5","5","4","5","5","4"
-"Henry Schein","Stores and Distributors","Wholesalers: Health Care","-","-","1","1","7.64","https://www.henryschein.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Hewlett Packard Enterprise","Computers and Communication","Computers","-","-","4","7","5.97","https://www.hpe.com","-","5","4","5","4","4","5","4","6","4"
-"Hilton Worldwide Holdings","Media and Entertainment","Hotels, Casinos, and Resorts","-","-","1","2","7.16","https://www.hilton.com","-","1","1","1","3","1","1","1","3","2"
-"Honda Motor","Transport","Motor Vehicles","-","-","5","5","6.35","https://www.honda.co.jp","-","6","6","5","5","5","6","6","5","6"
-"Honeywell International","Precision","Electronics","-","-","2","1","7.30","https://www.honeywell.com","-","2","2","2","1","1","2","1","3","2"
-"Host Hotels & Resorts","Shelter","Real Estate","-","-","2","2","6.55","https://www.hosthotels.com","-","2","3","4","1","2","5","6","3","2"
-"HP","Computers and Communication","Computers","-","-","3","3","6.36","https://www.hp.com","-","2","3","3","2","3","3","3","3","3"
-"HSBC Holdings","Financials","Megabanks","-","-","8","7","5.40","https://www.hsbc.com","-","12","11","8","10","11","10","10","8","5"
-"Humana","Contracted Services","Health Care: Insurance and Managed Care","-","-","4","3","6.62","https://www.humana.com","-","2","2","4","5","3","4","4","2","6"
-"Hyatt Hotels","Media and Entertainment","Hotels, Casinos, and Resorts","-","-","3","3","7.04","https://www.hyatt.com","-","2","3","3","1","2","3","3","2","3"
-"Hyundai Motor","Transport","Motor Vehicles","-","-","7","7","5.59","https://www.hyundai.com/worldwide/en","-","9","8","9","8","7","9","9","8","7"
-"Illinois Tool Works","Transport","Industrial Machinery","-","-","2","4","6.28","https://www.itw.com","-","5","3","1","2","2","2","2","2","3"
-"Ingersoll-Rand","Transport","Industrial Machinery","-","-","3","3","6.25","https://www.company.ingersollrand.com","-","3","2","2","1","1","3","4","3","4"
-"Ingredion","Consumer Products","Food Production","-","-","4","4","5.87","https://www.ingredion.com","-","2","4","4","4","4","4","4","4","4"
-"Intel","Precision","Semiconductors","-","-","3","8","6.91","https://www.intel.com","-","7","2","7","1","9","1","3","6","1"
-"International Airlines Group","Transport","Airlines","-","-","4","13","5.63","https://www.iairgroup.com","-","3","5","4","7","5","4","4","8","6"
-"International Paper","Natural resources","Packaging, Containers","-","-","2","3","7.00","https://www.internationalpaper.com","-","5","1","2","2","6","2","3","1","1"
-"Intuit","Computers and Communication","Computer Software","-","-","6","6","6.57","https://www.intuit.com","-","6","6","8","3","6","5","6","5","12"
-"IQVIA Holdings","Contracted Services","Health Care: Pharmacy and Other Services","-","-","2","2","6.67","https://www.iqvia.com","-","1","3","2","3","4","5","1","3","1"
-"J.B. Hunt Transport Services","Transport","Trucking, Transportation, Logistics","-","-","6","6","6.04","https://www.jbhunt.com","-","3","7","10","8","5","6","5","4","10"
-"Jacobs Engineering Group","Shelter","Engineering, Construction","-","-","1","1","6.89","https://www.jacobs.com","-","1","1","1","1","1","1","1","1","1"
-"Japan Airlines","Transport","Airlines","-","-","8","12","5.07","https://www.jal.co.jp","-","8","7","7","9","10","9","9","7","8"
-"Jones Financial (Edward Jones)","Financials","Securities and Asset Management","-","-","6*","4","5.97","https://0","*Tie in rank.","9","4","4","3","3","3","4","7","10"
-"Jones Lang LaSalle (JLL)","Shelter","Real Estate","-","-","4","4","6.43","https://www.us.jll.com","-","5","2","2","4","5","3","4","4","2"
-"Juniper Networks","Computers and Communication","Network and Other Communications Equipment","-","-","4","2","6.14","https://www.juniper.net","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Kellogg","Consumer Products","Consumer Food Products","-","-","6","8","6.06","https://www.kelloggcompany.com","-","6","6","5","6","6","7","7","6","5"
-"Kering","Consumer Products","Apparel","-","-","3","3","7.25","https://www.kering.com","-","3","2","3","4","4","3","3","2","3"
-"Keurig Dr Pepper","Consumer Products","Beverages","-","-","8","6","5.84","https://www.keurigdrpepper.com","-","6","8","7","10","6","9","7","9","11"
-"Kimberly-Clark","Consumer Products","Soaps and Cosmetics","-","-","6","6","6.80","https://www.kimberly-clark.com","-","8","4","6","5","6","6","5","5","6"
-"Kohl’s","Stores and Distributors","General Merchandisers","-","-","5","5","5.61","https://www.Kohls.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Komatsu","Transport","Construction and Farm Machinery","-","-","5","4","6.48","https://www.komatsu.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Kroger","Stores and Distributors","Food and Drugstores","-","-","4","4","6.03","https://www.thekrogerco.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"L Brands","Stores and Distributors","Specialty Retailers","-","-","7*","7","5.63","https://www.lb.com","*Tie in rank.","8","8","10","7","10","11","11","7","4"
-"La Poste","Transport","Delivery","-","-","4","4","3.39","https://www.groupelaposte.com","-","4","4","4","4","5","5","4","4","4"
-"Lam Research","Precision","Semiconductors","-","-","5*","7","6.70","https://www.lamresearch.com","*Tie in rank.","5","3","3","10","8","5","1","3","11"
-"Las Vegas Sands","Media and Entertainment","Hotels, Casinos, and Resorts","-","-","4","6","6.32","https://www.sands.com","-","6","4","4","5","4","4","4","5","4"
-"Lear","Transport","Motor Vehicle Parts","-","-","6","3","6.17","https://www.lear.com","-","7","6","5","5","6","6","6","7","5"
-"Leggett & Platt","Consumer Products","Home Equipment, Furnishings","-","-","6","4","6.01","https://www.leggett.com","-","8","6","6","5","6","4","5","6","7"
-"Leidos Holdings","Computers and Communication","Information Technology Services","-","-","6","9","5.89","https://www.leidos.com","-","10","8","3","4","9","7","7","8","8"
-"Lennar","Shelter","Homebuilders","-","-","2","2","6.49","https://www.lennar.com","-","1","4","3","4","3","4","3","2","1"
-"Lenovo","Computers and Communication","Computers","-","-","8","6","5.38","https://www.lenovo.com","-","10","7","10","14","6","7","11","9","6"
-"Levi Strauss & Co.","Consumer Products","Apparel","-","-","5","6","7.06","https://www.levistrauss.com","-","5","4","4","2","3","7","4","6","5"
-"LG Electronics","Precision","Electronics","-","-","6","4","6.58","https://www.lg.com","-","3","6","8","8","5","5","7","12","5"
-"Liberty Media","Media and Entertainment","Entertainment","-","-","8","7","6.06","https://www.libertymedia.com","-","8","6","3","10","6","5","5","11","8"
-"Live Nation Entertainment","Media and Entertainment","Entertainment","-","-","5","6","6.35","https://www.livenationentertainment.com","-","6","3","7","4","4","6","6","7","3"
-"Lowe’s","Stores and Distributors","Specialty Retailers","-","-","3","3","6.83","https://www.lowes.com","-","3","3","3","2","3","3","3","3","5"
-"Lufthansa Group","Transport","Airlines","-","-","3","5","5.69","https://www.lufthansagroup.com","-","4","3","6","5","6","6","6","5","3"
-"LyondellBasell Industries","Natural resources","Chemicals","-","-","5","4","6.15","https://www.lyondellbasell.com","-","7","4","4","4","3","5","5","5","5"
-"M&T Bank Corp.","Financials","Superregional Banks","-","-","6","7","6.27","https://www.mtb.com","-","9","6","5","5","5","6","6","6","8"
-"Maersk Group","Transport","Trucking, Transportation, Logistics","-","-","3","5","6.53","https://www.maersk.com","-","4","5","5","4","4","5","4","7","1"
-"Magna International","Transport","Motor Vehicle Parts","-","-","8","8*","5.99","https://www.magna.com","*Tie in rank.","10","7","9","10","8","10","7","12","8"
-"Massachusetts Mutual Life","Financials","Insurance: Life and Health","-","-","7","5","6.17","https://www.massmutual.com","-","3","7","6","6","6","6","6","6","10"
-"MasTec","Shelter","Engineering, Construction","-","-","5","7","5.50","https://www.mastec.com","-","6","6","6","7","5","5","4","6","6"
-"McKesson","Stores and Distributors","Wholesalers: Health Care","-","-","2","2","6.38","https://www.mckesson.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Medtronic","Precision","Medical Products and Equipment","-","-","2*","9","6.55","https://www.medtronic.com","*Tie in rank.","3","4","6","2","7","2","6","4","3"
-"MetLife","Financials","Insurance: Life and Health","-","-","6","8","6.23","https://www.metlife.com","-","4","5","8","7","7","8","9","7","1"
-"MGM Resorts International","Media and Entertainment","Hotels, Casinos, and Resorts","-","-","5","5","6.05","https://www.mgmresorts.com","-","4","6","6","4","5","8","6","6","6"
-"Michelin","Transport","Motor Vehicle Parts","-","-","3","4","6.88","https://www.michelin.com","-","3","4","4","2","2","3","3","2","3"
-"Mitsubishi UFJ Financial Group","Financials","Megabanks","-","-","7","10","5.67","https://www.mufg.jp","-","10","7","6","8","7","6","8","6","8"
-"Mondelēz International","Consumer Products","Consumer Food Products","-","-","3","4","6.80","https://www.mondelezinternational.com","-","3","3","3","5","4","3","3","3","3"
-"Morgan Stanley","Financials","Megabanks","-","-","4","4","6.41","https://www.morganstanley.com","-","4","4","4","3","4","4","4","4","4"
-"Motorola Solutions","Computers and Communication","Network and Other Communications Equipment","-","-","3","3","6.28","https://www.motorolasolutions.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"New York Life Insurance","Financials","Insurance: Life and Health","-","-","4","2","6.40","https://www.newyorklife.com","-","6","4","4","4","4","3","5","4","8"
-"Newmont","Natural resources","Mining, Crude-Oil Production","-","-","2","12","7.13","https://www.newmont.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published. Changed name from Newmont Goldcorp.","-","-","-","-","-","-","-","-","-"
-"NextEra Energy","Power","Electric and Gas Utilities","-","-","1","1","7.55","https://www.nexteraenergy.com","-","1","1","1","1","1","1","1","1","1"
-"Nintendo","Media and Entertainment","Entertainment","-","-","6*","-","6.25","https://www.nintendo.co.jp","*Tie in rank.","4","5","8","9","9","4","7","5","5"
-"Norsk Hydro","Natural resources","Metals","-","-","6","8","5.62","https://www.hydro.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Northern Trust","Financials","Superregional Banks","-","-","3","3","6.98","https://www.northerntrust.com","-","5","3","3","4","3","4","3","4","3"
-"Northrop Grumman","Transport","Aerospace and Defense","-","-","4","3","7.07","https://www.northropgrumman.com","-","4","3","3","3","3","3","3","5","9"
-"Northwestern Mutual","Financials","Insurance: Life and Health","-","-","5","4","6.34","https://www.northwesternmutual.com","-","10","6","2","1","3","2","4","1","13"
-"Novartis","Natural resources","Pharmaceuticals","-","-","4","4","6.94","https://www.novartis.com","-","3","4","3","8","5","4","3","7","2"
-"NTT (Nippon Telegraph & Telephone)","Computers and Communication","Telecommunications","-","-","8","8","5.83","https://www.ntt.co.jp","-","7","12","5","7","9","3","5","3","11"
-"Nucor","Natural resources","Metals","-","-","1","2","6.67","https://www.nucor.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Nvidia","Precision","Semiconductors","-","-","1","1","6.97","https://www.nvidia.com","-","1","1","4","6","4","4","2","3","5"
-"Occidental Petroleum","Natural resources","Mining, Crude-Oil Production","-","-","1","2","7.33","https://www.oxy.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Paccar","Transport","Construction and Farm Machinery","-","-","4","6","6.62","https://www.paccar.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Packaging Corp. of America","Natural resources","Packaging, Containers","-","-","4","5","6.32","https://www.packagingcorp.com","-","7","4","4","5","1","3","2","3","10"
-"Palo Alto Networks","Computers and Communication","Network and Other Communications Equipment","-","-","5","-","5.98","https://www.paloaltonetworks.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Paychex","Financials","Financial Data Services","-","-","5","6","6.56","https://www.paychex.com","-","3","2","3","1","4","4","4","5","8"
-"PayPal Holdings","Financials","Consumer Credit Card and Related Services","-","-","3","3","7.21","https://www.paypal.com","-","1","2","3","3","3","4","3","4","3"
-"Penske Automotive Group","Stores and Distributors","Specialty Retailers","-","-","4","4*","6.41","https://www.penskeautomotive.com","*Tie in rank.","4","4","4","4","6","4","4","5","1"
-"Pernod Ricard","Consumer Products","Beverages","-","-","7","-","6.10","https://www.pernod-ricard.com","-","9","6","8","8","8","8","3","7","5"
-"Pfizer","Natural resources","Pharmaceuticals","-","-","7","7","6.52","https://www.pfizer.com","-","9","7","9","9","10","7","7","10","5"
-"Pioneer Natural Resources","Natural resources","Mining, Crude-Oil Production","-","-","7","-","5.83","https://www.pxd.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"PNC Financial Services Group","Financials","Superregional Banks","-","-","2","2","7.25","https://www.pnc.com","-","2","2","2","2","2","2","2","2","5"
-"PPG Industries","Natural resources","Chemicals","-","-","3","3","6.49","https://www.ppg.com","-","3","3","3","3","4","4","3","3","3"
-"Progressive","Financials","Insurance: Property and Casualty","-","-","5","7","6.68","https://www.progressive.com","-","1","3","2","11","2","7","2","5","13"
-"Prudential Financial (U.S.)","Financials","Insurance: Life and Health","-","-","1","1","6.57","https://www.prudential.com","-","2","1","5","5","1","7","3","5","2"
-"PulteGroup","Shelter","Homebuilders","-","-","5","4","6.08","https://www.pultegroupinc.com","-","4","3","5","5","5","5","5","4","4"
-"Qantas Airways","Transport","Airlines","-","-","5*","7","5.61","https://www.qantas.com","*Tie in rank.","5","6","8","4","7","7","5","6","4"
-"Qualcomm","Precision","Semiconductors","-","-","8","5*","6.53","https://www.qualcomm.com","*Tie in rank.","4","8","13","5","11","7","8","5","6"
-"Quanta Services","Shelter","Engineering, Construction","-","-","3","5","6.16","https://www.quantaservices.com","-","3","3","2","3","3","2","2","3","3"
-"Quest Diagnostics","Contracted Services","Health Care: Pharmacy and Other Services","-","-","3","3","6.58","https://www.questdiagnostics.com","-","4","2","1","2","2","1","3","2","7"
-"Raymond James Financial","Financials","Securities and Asset Management","-","-","3","5","6.35","https://www.raymondjames.com","-","4","3","3","5","4","4","3","3","8"
-"Raytheon","Transport","Aerospace and Defense","-","-","1","2","7.65","https://www.raytheon.com","-","1","1","1","1","2","1","2","1","1"
-"Reliance Steel & Aluminum","Natural resources","Metals","-","-","2","3","6.59","https://www.rsac.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Rio Tinto","Natural resources","Mining, Crude-Oil Production","-","-","8","5","5.65","https://www.riotinto.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Robert Half International","Contracted Services","Diversified Outsourcing Services","-","-","4*","1","5.63","https://www.roberthalf.com","*Tie in rank.","6","1","2","6","3","5","5","4","4"
-"Roche Group","Natural resources","Pharmaceuticals","-","-","3","3","6.97","https://www.roche.com","-","4","3","4","4","6","3","4","3","4"
-"Royal Ahold Delhaize","Stores and Distributors","Food and Drugstores","-","-","5","5","6.02","https://www.aholddelhaize.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Royal Bank of Canada","Financials","Megabanks","-","-","6","6","5.71","https://www.rbc.com","-","6","9","7","5","5","8","5","7","11"
-"Ryder System","Transport","Trucking, Transportation, Logistics","-","-","4","4","6.52","https://www.ryder.com","-","2","3","4","3","2","4","3","1","6"
-"S&P Global","Financials","Financial Data Services","-","-","3","4","6.66","https://www.spglobal.com","-","5","4","5","2","5","2","5","4","1"
-"SAFRAN","Transport","Aerospace and Defense","-","-","7","9","6.44","https://www.safran-group.com","-","9","8","6","9","7","7","6","7","5"
-"Samsung Electronics","Precision","Electronics","-","50","1","2","7.50","https://www.samsung.com","-","1","1","1","2","2","1","2","1","1"
-"SAP","Computers and Communication","Computer Software","-","-","7","4","6.54","https://www.sap.com","-","8","8","4","6","7","4","7","8","2"
-"ScanSource","Stores and Distributors","Wholesalers: Electronics and Office Equipment","-","-","4","3","6.33","https://www.scansource.com","-","4","3","4","3","3","4","4","4","6"
-"Schneider Electric","Precision","Electronics","-","-","4","5","6.79","https://www.se.com","-","5","5","5","3","3","7","5","3","4"
-"Sempra Energy","Power","Electric and Gas Utilities","-","-","8","7","6.01","https://www.sempra.com","-","10","8","8","7","9","10","10","9","3"
-"ServiceNow","Computers and Communication","Computer Software","-","-","4","-","6.88","https://www.servicenow.com","-","3","5","5","8","5","6","3","4","6"
-"Seven & I Holdings","Stores and Distributors","Food and Drugstores","-","-","6","6","5.95","https://www.7andi.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Sharp","Precision","Electronics","-","-","8","12","6.43","http://www.sharp-world.com","-","8","7","7","5","7","11","8","6","7"
-"Sherwin-Williams","Natural resources","Chemicals","-","-","6","8","5.71","https://www.sherwin-williams.com","-","9","5","6","8","7","6","6","6","12"
-"Siemens","Transport","Industrial Machinery","-","-","1","1","6.64","https://www.siemens.com","-","1","1","3","4","3","1","1","1","1"
-"Simon Property Group","Shelter","Real Estate","-","-","3","3","6.48","https://www.simon.com","-","4","4","3","3","3","4","3","1","4"
-"Sodexo","Contracted Services","Diversified Outsourcing Services","-","-","4*","2","5.63","https://www.sodexo.com","*Tie in rank.","4","6","6","2","6","2","6","6","1"
-"SoftBank Group","Computers and Communication","Telecommunications","-","-","3","5*","6.55","https://www.softbank.jp","*Tie in rank.","2","2","4","5","3","4","3","5","3"
-"Sonoco Products","Natural resources","Packaging, Containers","-","-","1","1","7.11","https://www.sonoco.com","-","1","3","1","3","2","1","1","2","2"
-"Sony","Precision","Electronics","-","-","3","7","6.94","https://www.sony.net","-","4","3","4","4","4","4","3","2","3"
-"Southern Company","Power","Electric and Gas Utilities","-","-","6","9","6.31","https://www.southerncompany.com","-","5","5","10","3","6","6","6","5","7"
-"Sprouts Farmers Market","Stores and Distributors","Food and Drugstores","-","-","3","3","6.78","https://www.sprouts.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Stanley Black & Decker","Consumer Products","Home Equipment, Furnishings","-","-","1","5","7.25","https://www.stanleyblackanddecker.com","-","1","1","1","1","1","1","1","3","1"
-"State Farm Insurance","Financials","Insurance: Property and Casualty","-","-","8","8","6.27","https://www.statefarm.com","-","10","8","7","2","7","4","9","8","14"
-"Steel Dynamics","Natural resources","Metals","-","-","5","1","5.86","https://www.steeldynamics.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Steelcase","Consumer Products","Home Equipment, Furnishings","-","-","2","1","6.97","https://www.steelcase.com","-","3","2","3","2","2","3","3","1","4"
-"Stryker","Precision","Medical Products and Equipment","-","-","5","3","6.44","https://www.stryker.com","-","5","3","4","8","3","5","4","3","8"
-"Suntory Holdings","Consumer Products","Beverages","-","-","6","4","6.24","https://www.suntory.com","-","3","5","5","4","6","5","6","4","7"
-"Swiss Re","Financials","Insurance: Property and Casualty","-","-","7","5","6.56","https://www.swissre.com","-","7","7","8","7","8","8","6","7","1"
-"Synnex","Stores and Distributors","Wholesalers: Electronics and Office Equipment","-","-","3","5","6.39","https://www.synnexcorp.com","-","3","4","3","5","4","3","3","5","4"
-"T. Rowe Price","Financials","Securities and Asset Management","-","-","5","3","5.99","https://www.troweprice.com","-","6","7","6","7","5","6","6","4","5"
-"Taiwan Semiconductor","Precision","Semiconductors","-","-","2","2","6.94","https://www.tsmc.com","-","3","5","1","7","2","3","3","1","4"
-"Taylor Morrison Home","Shelter","Homebuilders","-","-","3","3","6.13","https://www.taylormorrison.com","-","2","2","6","1","6","6","6","3","5"
-"TD Ameritrade","Financials","Securities and Asset Management","-","-","6*","10","5.97","https://www.amtd.com","*Tie in rank.","3","5","7","6","7","5","7","5","7"
-"TE Connectivity","Precision","Electronics","-","-","5","6","6.61","https://www.te.com","-","7","4","3","7","6","6","4","5","9"
-"Tech Data","Stores and Distributors","Wholesalers: Electronics and Office Equipment","-","-","2","2","7.00","https://www.techdata.com","-","2","2","1","2","1","1","2","2","2"
-"Telefónica","Computers and Communication","Telecommunications","-","-","4","3","6.47","https://www.telefonica.com","-","3","4","3","2","12","7","4","4","2"
-"Tencent Holdings","Computers and Communication","Internet Services and Retailing","-","-","5*","6","6.22","https://www.tencent.com","*Tie in rank.","4","5","5","8","4","4","4","4","9"
-"Tenet Healthcare","Contracted Services","Health Care: Medical Facilities","-","-","5","5","5.77","https://www.tenethealth.com","-","5","6","5","4","6","5","4","4","5"
-"Tesla","Transport","Motor Vehicles","-","-","8","11","5.50","https://www.tesla.com","-","1","4","14","6","10","15","10","6","13"
-"Texas Instruments","Precision","Semiconductors","-","-","5*","5*","6.70","https://www.ti.com","*Tie in rank.","9","6","2","2","3","2","5","8","7"
-"Thales Group","Transport","Aerospace and Defense","-","-","8","11","6.17","https://www.thalesgroup.com/en","-","8","9","7","5","8","8","10","9","6"
-"Thermo Fisher Scientific","Precision","Medical Products and Equipment","-","-","2*","4","6.55","https://www.thermofisher.com","*Tie in rank.","4","5","3","4","4","3","2","5","4"
-"TIAA","Financials","Insurance: Life and Health","-","-","3","3","6.52","https://www.tiaa-cref.org","-","5","3","1","2","2","1","1","2","9"
-"TJX","Stores and Distributors","Specialty Retailers","-","-","5","2","6.15","https://www.tjx.com","-","7","5","5","5","4","6","5","6","7"
-"Toll Brothers","Shelter","Homebuilders","-","-","1","1","6.59","https://www.tollbrothers.com","-","2","1","2","2","1","3","4","1","2"
-"Toyota Industries","Transport","Motor Vehicle Parts","-","-","2","1","6.97","https://www.toyota-industries.com","-","5","2","1","1","3","1","2","3","2"
-"Travelers Cos.","Financials","Insurance: Property and Casualty","-","-","3","4","6.83","https://www.travelers.com","-","5","2","4","4","5","5","4","6","7"
-"Truist Financial","Financials","Superregional Banks","-","-","5","6","6.50","https://www.bbt.com","Changed name from BB&T.","4","5","4","3","4","5","4","5","7"
-"Tyson Foods","Consumer Products","Food Production","-","-","1","1","7.61","https://www.tysonfoods.com","-","1","1","1","1","1","1","1","1","2"
-"U.S. Bancorp","Financials","Superregional Banks","-","-","1","1","7.63","https://www.usbank.com","-","1","1","1","1","1","1","1","1","4"
-"Union Pacific","Transport","Trucking, Transportation, Logistics","-","-","2","3","6.67","https://www.up.com","-","7","1","1","1","1","1","1","2","8"
-"United Technologies","Transport","Aerospace and Defense","-","-","3","4","7.08","https://www.utc.com","-","3","5","4","4","4","4","4","4","3"
-"UnitedHealth Group","Contracted Services","Health Care: Insurance and Managed Care","-","-","1","1","8.14","https://www.unitedhealthgroup.com","-","1","1","1","1","1","1","1","1","1"
-"Universal Health Services","Contracted Services","Health Care: Medical Facilities","-","-","2","2","6.40","https://www.uhsinc.com","-","2","3","2","2","2","2","2","3","3"
-"Verizon Communications","Computers and Communication","Telecommunications","-","-","2","2","6.81","https://www.verizon.com","-","4","2","1","3","1","2","2","2","4"
-"VF","Consumer Products","Apparel","-","-","2","2","7.45","https://www.vfc.com","-","4","3","2","1","1","2","2","4","4"
-"Vodafone Group","Computers and Communication","Telecommunications","-","-","7","5*","5.84","https://www.vodafone.com","*Tie in rank.","6","7","6","6","7","11","10","9","6"
-"Voestalpine","Natural resources","Metals","-","-","7","9","5.51","https://www.voestalpine.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Volkswagen","Transport","Motor Vehicles","-","-","6","10","6.17","https://www.volkswagenag.com","-","7","7","6","10","11","3","5","4","4"
-"Volvo","Transport","Construction and Farm Machinery","-","-","3","3","7.03","https://www.volvogroup.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Voya Financial","Financials","Securities and Asset Management","-","-","4","9","6.09","https://www.voya.com","-","5","6","5","4","5","7","5","6","4"
-"W.W. Grainger","Stores and Distributors","Wholesalers: Diversified","-","-","1","1","7.21","https://www.grainger.com","-","1","1","2","1","3","1","3","1","9"
-"Walgreens Boots Alliance","Stores and Distributors","Food and Drugstores","-","-","2","1","6.89","https://www.walgreensbootsalliance.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","-","-","-","-","-","-","-","-","-"
-"Waste Management","Contracted Services","Diversified Outsourcing Services","-","-","6","5","5.61","https://www.wm.com","-","4","5","4","3","4","2","1","5","10"
-"Wayfair","Computers and Communication","Internet Services and Retailing","-","-","3","4","6.73","https://www.wayfair.com","-","3","4","2","1","3","7","6","3","6"
-"WellCare Health Plans","Contracted Services","Health Care: Insurance and Managed Care","-","-","5","6","6.36","https://www.wellcare.com","-","4","3","5","4","5","5","5","5","4"
-"WESCO International","Stores and Distributors","Wholesalers: Diversified","-","-","5*","4","5.67","https://www.wesco.com","*Tie in rank.","6","5","4","5","8","4","6","6","7"
-"WestRock","Natural resources","Packaging, Containers","-","-","3","2","6.79","https://www.westrock.com","-","2","2","3","1","5","4","5","4","3"
-"Whirlpool","Consumer Products","Home Equipment, Furnishings","-","-","3","3","6.96","https://www.whirlpoolcorp.com","-","4","3","2","3","3","2","2","2","2"
-"Wilmar International","Consumer Products","Food Production","-","-","3","3","6.26","https://www.wilmar-international.com","-","4","2","2","2","3","3","3","3","1"
-"Workday","Computers and Communication","Computer Software","-","-","5","5","6.76","https://www.workday.com","-","5","3","3","4","4","8","5","5","8"
-"Wynn Resorts","Media and Entertainment","Hotels, Casinos, and Resorts","-","-","6","4","6.04","https://www.wynnresorts.com","-","5","4","8","6","8","5","5","1","5"
-"Xcel Energy","Power","Electric and Gas Utilities","-","-","2","2","6.88","https://www.xcelenergy.com","-","2","2","2","2","2","2","2","2","6"
-"Xerox","Computers and Communication","Computers","-","-","7","11","5.56","https://www.xerox.com","-","9","11","7","5","11","8","10","5","8"
-"XPO Logistics","Transport","Trucking, Transportation, Logistics","-","-","1","1","6.69","https://www.xpo.com","-","1","2","2","2","6","3","2","5","2"
-"Yum Brands","Stores and Distributors","Food Services","-","-","5","4","6.27","https://www.yum.com","-","6","6","5","5","5","6","5","6","4"
-"ZF Friedrichshafen","Transport","Motor Vehicle Parts","-","-","5","7","6.23","https://www.zf.com","-","4","5","7","6","5","7","9","5","6"
+"Apple","Computers and Communication","Computers",1,1,1,1,8.19,"https://www.apple.com","",1,1,1,1,1,1,1,1,1
+"Amazon","Computers and Communication","Internet Services and Retailing",2,2,1,1,7.75,"https://www.amazon.com","",1,2,1,4,1,2,1,1,1
+"Microsoft","Computers and Communication","Computer Software",3,6,1,1,8.3,"https://www.microsoft.com","",1,1,1,2,1,1,1,2,1
+"Walt Disney","Media and Entertainment","Entertainment",4,4,1,1,8.49,"https://www.thewaltdisneycompany.com","",2,1,1,1,1,1,1,1,1
+"Berkshire Hathaway","Financials","Insurance: Property and Casualty",5,3,1,1,7.64,"https://www.berkshirehathaway.com","",3,1,1,10,1,1,1,1,4
+"Starbucks","Stores and Distributors","Food Services",6,5,1,1,7.92,"https://www.starbucks.com","",1,1,1,1,1,1,1,1,1
+"Alphabet","Computers and Communication","Internet Services and Retailing",7,7,2,2,7.68,"https://www.abc.xyz","",2,1,4,2,2,1,2,2,2
+"JPMorgan Chase","Financials","Megabanks",8,9,1,1,7.24,"https://www.jpmorganchase.com","",2,2,1,2,1,1,1,1,1
+"Costco Wholesale","Stores and Distributors","General Merchandisers",9,12,2,4,7.33,"https://www.costco.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Salesforce","Computers and Communication","Computer Software",10,14,2,3,7.53,"https://www.salesforce.com","",2,2,7,1,2,3,2,3,4
+"Southwest Airlines","Transport","Airlines",11,11,7,2,5.29,"https://www.southwest.com","",11,4,3,6,3,3,2,12,11
+"Coca-Cola","Consumer Products","Beverages",12,15,1,2,7.13,"https://www.coca-colacompany.com","*Tie in rank.",2,1,3,1,1,1,2,2,1
+"Nike","Consumer Products","Apparel",13,13,1,1,7.91,"https://www.nike.com","",1,1,1,3,2,1,1,1,1
+"American Express","Financials","Consumer Credit Card and Related Services",14,16,4,4,6.76,"https://www.americanexpress.com","*Tie in All-Star Rank.",5,4,4,4,4,3,4,2,5
+"FedEx","Transport","Delivery",14,10,2,2,6.08,"https://www.fedex.com","*Tie in All-Star Rank.",2,2,2,2,2,2,2,2,2
+"Netflix","Media and Entertainment","Entertainment",14,8,2,2,7.32,"https://www.netflix.com","*Tie in All-Star Rank.",1,2,2,2,2,10,3,2,2
+"Marriott International","Media and Entertainment","Hotels, Casinos, and Resorts",17,23,2,1,7.09,"https://www.marriott.com","",3,2,1,2,3,2,2,4,1
+"Walmart","Stores and Distributors","General Merchandisers",18,25,3,3,7.0,"https://www.stock.walmart.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Delta Air Lines","Transport","Airlines",19,28,1,1,6.89,"https://www.delta.com","",2,1,2,3,1,1,1,2,2
+"Nordstrom","Stores and Distributors","General Merchandisers",20,20,4,2,6.46,"https://investor.nordstrom.com/","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Home Depot","Stores and Distributors","Specialty Retailers",21,21,2,1,7.06,"https://www.homedepot.com","",2,2,2,3,2,1,2,2,2
+"Target","Stores and Distributors","General Merchandisers",22,32,1,1,7.63,"https://investors.target.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Procter & Gamble","Consumer Products","Soaps and Cosmetics",23,31,1,2,7.34,"https://www.pginvestor.com","*Tie in rank.",2,2,4,2,3,1,3,1,1
+"USAA","Financials","Insurance: Property and Casualty",24,24,4,3,6.78,"https://www.usaa.com","",2,4,5,1,4,2,7,2,12
+"BlackRock","Financials","Securities and Asset Management",25,22,1,1,7.71,"https://www.blackrock.com","",2,1,2,1,2,1,1,1,1
+"Johnson & Johnson","Natural resources","Pharmaceuticals",26,17,1,1,7.55,"https://www.jnj.com","",2,1,1,2,1,1,1,2,1
+"Goldman Sachs Group","Financials","Megabanks",27,26,3,3,6.7,"https://www.goldmansachs.com","",1,1,3,6,3,3,3,3,2
+"Singapore Airlines","Transport","Airlines",28,18,2,3,6.88,"https://www.singaporeair.com","",1,2,1,2,2,2,3,1,1
+"3M","Natural resources","Chemicals",29,27,1,1,7.04,0.3,"",1,1,2,2,2,1,2,1,2
+"Toyota Motor","Transport","Motor Vehicles",30,30,1,1,8.4,"https://global.toyota/en","",4,1,1,1,1,1,1,1,1
+"Unilever","Consumer Products","Soaps and Cosmetics",31,39,4,2,7.02,"https://www.unilever.com","*Tie in rank.",4,5,7,1,5,5,4,6,2
+"BMW","Transport","Motor Vehicles",32,29,2,2,7.48,"https://www.bmwgroup.com/de.html","",3,2,2,3,3,4,2,3,3
+"UPS","Transport","Delivery",33,33,1,1,6.78,"https://www.ups.com","",1,1,1,1,1,1,1,1,1
+"Accenture","Computers and Communication","Information Technology Services",34,36,1,1,7.4,"https://www.accenture.com","",1,1,1,2,1,1,1,1,1
+"IBM","Computers and Communication","Information Technology Services",35,40,3,2,6.62,"https://www.ibm.com","",2,4,6,1,3,4,8,4,2
+"Visa","Financials","Consumer Credit Card and Related Services",36,42,1,1,7.86,"https://usa.visa.com","",2,1,1,2,1,1,1,1,1
+"Charles Schwab","Financials","Securities and Asset Management",37,49,2,2,7.13,"https://www.schwab.com","",1,2,1,2,1,2,2,2,2
+"CVS Health","Contracted Services","Health Care: Pharmacy and Other Services",38,35,1,1,6.81,"https://www.cvshealth.com","",3,1,4,1,1,2,2,1,4
+"Nestlé","Consumer Products","Consumer Food Products",39,47,1,1,7.7,"https://www.nestle.com","",2,2,1,1,2,2,2,1,1
+"Adidas","Consumer Products","Apparel",40,38,4,4,7.13,"https://www.adidas-group.com","",2,5,6,5,6,4,5,5,2
+"McDonald’s","Stores and Distributors","Food Services",41,37,3,3,6.75,"https://corporate.mcdonalds.com","",3,2,3,3,4,2,2,8,2
+"Mastercard","Financials","Consumer Credit Card and Related Services",42,48,2,2,7.56,"https://www.mastercard.com","",3,3,2,1,2,2,2,3,2
+"PepsiCo","Consumer Products","Consumer Food Products",43,41,2,2,7.65,"https://www.pepsico.com","",1,1,2,2,1,1,1,2,2
+"Caterpillar","Transport","Construction and Farm Machinery",44,43,2,2,8.08,"https://www.caterpillar.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"L’Oréal","Consumer Products","Soaps and Cosmetics",45,"",3,4,7.26,"https://www.loreal.com","",1,3,2,3,1,3,2,2,5
+"Lockheed Martin","Transport","Aerospace and Defense",46,"",2,5,7.58,"https://www.lockheedmartin.com","",2,2,2,2,1,2,1,1,4
+"Adobe","Computers and Communication","Computer Software",47,"",3,2,7.39,"https://www.adobe.com","",4,4,2,5,3,2,4,1,3
+"Publix Super Markets","Stores and Distributors","Food and Drugstores",48,45,1,2,7.38,"https://www.publix.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Merck","Natural resources","Pharmaceuticals",49,"",2,2,7.45,"https://www.merck.com","",1,2,2,1,2,2,2,1,3
+"ABB","Transport","Industrial Machinery","","",4,5,6.04,"https://www.new.abb.com","",2,8,10,3,6,4,5,4,2
+"Abbott Laboratories","Precision","Medical Products and Equipment","","",1,1,7.18,"https://www.abbott.com","",1,1,1,1,2,1,1,1,1
+"AbbVie","Natural resources","Pharmaceuticals","","",8,8,6.46,"https://www.abbvie.com","",10,8,8,6,8,6,8,6,9
+"Activision Blizzard","Media and Entertainment","Entertainment","","",4,3,6.42,"https://www.activisionblizzard.com","",5,8,4,11,7,2,4,3,6
+"Advanced Micro Devices (AMD)","Precision","Semiconductors","","",4,9,6.87,"https://www.amd.com","",2,4,5,4,1,11,7,2,3
+"AECOM","Shelter","Engineering, Construction","","",2,2,6.26,"https://www.aecom.com","",2,2,3,2,2,3,3,2,2
+"Aflac","Financials","Insurance: Life and Health","","",2,7,6.53,"https://www.aflac.com","",1,2,3,3,5,5,2,3,5
+"Air France-KLM Group","Transport","Airlines","","",5,4,5.61,"https://www.airfranceklm.com","*Tie in rank.",6,8,5,1,4,11,7,4,5
+"Airbus Group","Transport","Aerospace and Defense","","",5,7,6.78,"https://www.airbus.com","",5,4,8,6,6,5,8,3,2
+"Alcoa","Natural resources","Metals","","",4,6,6.04,"https://www.alcoa.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Allstate","Financials","Insurance: Property and Casualty","","",6,6,6.66,"https://www.allstate.com","",4,6,6,3,6,3,5,4,11
+"América Móvil","Computers and Communication","Telecommunications","","",6,11,5.87,"https://www.americamovil.com","",8,5,7,11,5,6,6,10,5
+"American Electric Power","Power","Electric and Gas Utilities","","",4,6,6.59,"https://www.aep.com","",6,6,3,5,3,2,3,4,8
+"American Tower","Shelter","Real Estate","","",5,7,6.21,"https://www.americantower.com","",6,5,5,8,6,2,2,5,6
+"AmerisourceBergen","Stores and Distributors","Wholesalers: Health Care","","",3,3,5.57,"https://www.amerisourcebergen.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Amgen","Natural resources","Pharmaceuticals","","",5,5,6.66,"https://www.amgen.com","",5,5,5,10,4,5,5,5,13
+"Anheuser-Busch InBev","Consumer Products","Beverages","","",5,3,6.3,"https://www.ab-inbev.com","",8,7,2,6,4,13,10,3,3
+"Anthem","Contracted Services","Health Care: Insurance and Managed Care","","",3,5,6.69,"https://www.antheminc.com","",5,4,3,2,2,2,2,3,5
+"Apache","Natural resources","Mining, Crude-Oil Production","","",4,7,6.14,"https://www.apachecorp.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Applied Materials","Precision","Semiconductors","","",7,3,6.66,"https://www.appliedmaterials.com","",6,6,6,3,5,6,6,9,8
+"Aramark","Contracted Services","Diversified Outsourcing Services","","",2,7,5.71,"https://www.aramark.com","",2,3,6,1,5,6,4,1,3
+"ArcelorMittal","Natural resources","Metals","","",3,4,6.1,"https://corporate.arcelormittal.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Archer Daniels Midland","Consumer Products","Food Production","","",2,2,6.37,"https://www.adm.com","",3,3,3,3,2,2,2,2,3
+"Arrow Electronics","Stores and Distributors","Wholesalers: Electronics and Office Equipment","","",1,1,7.22,"https://www.arrow.com","",1,1,2,1,2,2,1,1,1
+"Asustek Computer","Computers and Communication","Computers","","",6,5,5.72,"https://www.asus.com","",4,5,4,6,7,6,9,10,7
+"AT&T","Computers and Communication","Telecommunications","","",1,1,7.26,"https://www.att.com","",1,1,2,1,2,1,1,1,1
+"Autodesk","Computers and Communication","Computer Software","","",8,7,6.23,"https://www.autodesk.com","",7,7,6,7,8,9,9,7,7
+"Automatic Data Processing","Financials","Financial Data Services","","",1,2,6.8,"https://www.adp.com","",6,8,1,3,1,1,1,1,2
+"AutoNation","Stores and Distributors","Specialty Retailers","","",6,6,6.07,"https://www.autonation.com","",5,7,7,6,7,5,7,4,8
+"Bank of America","Financials","Megabanks","","",2,2,6.92,"https://www.bankofamerica.com","",3,3,1,1,2,2,2,1,6
+"Bank of New York Mellon","Financials","Superregional Banks","","",4,4,6.84,"https://www.bnymellon.com","*Tie in rank.",3,4,6,6,6,3,5,3,1
+"BASF","Natural resources","Chemicals","","",4,5,6.33,"https://www.basf.com","",4,6,5,5,5,3,4,3,1
+"Best Buy","Stores and Distributors","Specialty Retailers","","",1,8,7.39,"https://www.bestbuy.com","",1,1,1,1,1,2,1,1,3
+"BHP Group","Natural resources","Mining, Crude-Oil Production","","",5,4,6.06,"https://www.bhp.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published. Changed name from BHP Billiton.","","","","","","","","",""
+"Boise Cascade","Stores and Distributors","Wholesalers: Diversified","","",4,5,5.74,"https://www.bc.com","",5,4,10,3,5,6,8,4,2
+"Booking Holdings","Computers and Communication","Internet Services and Retailing","","",5,3,6.22,"https://www.bookingholdings.com","*Tie in rank.",9,7,3,5,5,6,7,5,3
+"Booz Allen Hamilton Holding","Computers and Communication","Information Technology Services","","",2,4,6.63,"https://www.boozallen.com","",3,2,2,3,2,3,2,2,7
+"Bosch","Transport","Motor Vehicle Parts","","",1,2,7.25,"https://www.bosch.com","",1,1,2,3,1,2,1,1,1
+"Boston Scientific","Precision","Medical Products and Equipment","","",4,2,6.52,"https://www.bostonscientific.com","",2,2,5,5,1,8,5,2,9
+"Bristol-Myers Squibb","Natural resources","Pharmaceuticals","","",6,6,6.63,"https://www.bms.com","",6,6,6,4,3,9,6,4,10
+"Broadridge Financial Solutions","Financials","Financial Data Services","","",4,1,6.61,"https://www.broadridge.com","",1,3,4,5,2,5,3,2,6
+"Bunge","Consumer Products","Food Production","","",5,6,5.31,"https://www.bunge.com","",8,7,6,6,5,5,6,5,5
+"C.H. Robinson Worldwide","Transport","Trucking, Transportation, Logistics","","",5,2,6.36,"https://www.chrobinson.com","",6,4,3,7,2,2,7,3,4
+"CACI International","Computers and Communication","Information Technology Services","","",7,6,5.84,"https://www.caci.com","",6,6,7,9,7,5,4,6,11
+"Canon","Computers and Communication","Computers","","",5,4,5.8,"https://global.canon","",6,6,6,7,5,4,5,4,5
+"Capital One Financial","Financials","Consumer Credit Card and Related Services","","",5,5,6.29,"https://www.capitalone.com","",4,5,5,6,5,6,5,5,7
+"Cardinal Health","Stores and Distributors","Wholesalers: Health Care","","",4,4,5.16,"https://www.cardinalhealth.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"CBRE Group","Shelter","Real Estate","","",1,1,6.91,"https://www.cbre.com","",1,1,1,2,1,1,1,1,1
+"Centene","Contracted Services","Health Care: Insurance and Managed Care","","",2,2,6.72,"https://www.centene.com","",3,5,2,3,4,3,3,4,3
+"Cerner","Contracted Services","Health Care: Pharmacy and Other Services","","",4,4,6.5,"https://www.cerner.com","",2,3,3,4,3,3,4,4,5
+"Charles River Laboratories International","Contracted Services","Health Care: Pharmacy and Other Services","","",5,"",6.1,"https://www.criver.com","",6,5,6,8,6,7,5,6,2
+"Chipotle Mexican Grill","Stores and Distributors","Food Services","","",4,6,6.29,"https://www.chipotle.com","",4,4,4,2,3,4,6,2,8
+"Chubb","Financials","Insurance: Property and Casualty","","",2,2,6.97,"https://www.chubb.com/us-en","",6,5,3,5,3,6,3,3,2
+"Ciena","Computers and Communication","Network and Other Communications Equipment","","",2,4,6.36,"https://www.ciena.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Cintas","Contracted Services","Diversified Outsourcing Services","","",3,8,5.68,"https://www.cintas.com","",3,4,1,7,2,1,3,2,8
+"Cisco Systems","Computers and Communication","Network and Other Communications Equipment","","",1,1,6.55,"https://www.cisco.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Citigroup","Financials","Megabanks","","",5,5,6.12,"https://www.citigroup.com","",5,5,5,4,6,5,6,5,3
+"Coca-Cola Consolidated","Consumer Products","Beverages","","",3,7,6.5,"https://www.cokeconsolidated.com","",5,3,4,3,3,3,4,6,6
+"Cognizant Technology Solutions","Computers and Communication","Information Technology Services","","",5,5,6.04,"https://www.cognizant.com","",5,7,5,8,5,6,5,5,5
+"Colgate-Palmolive","Consumer Products","Soaps and Cosmetics","","",5,5,6.96,"https://www.colgatepalmolive.com","",5,6,3,6,2,4,6,4,3
+"Compass Group","Contracted Services","Diversified Outsourcing Services","","",1,4,5.76,"https://www.compass-group.com","",1,2,2,5,1,2,2,3,2
+"ConocoPhillips","Natural resources","Mining, Crude-Oil Production","","",3,1,6.73,"https://www.conocophillips.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Continental","Transport","Motor Vehicle Parts","","",4,5,6.69,"https://www.continental-corporation.com","",2,3,3,4,4,4,4,4,4
+"D.R. Horton","Shelter","Homebuilders","","",4,6,6.09,"https://www.drhorton.com","",8,5,1,9,2,1,2,7,3
+"Daimler","Transport","Motor Vehicles","","",3,3,7.43,"https://www.daimler.com","",2,3,4,2,4,2,3,2,2
+"Danaher","Precision","Medical Products and Equipment","","",6,6,6.23,"https://www.danaher.com","",11,7,2,11,5,4,3,8,5
+"Danone","Consumer Products","Consumer Food Products","","",5,3,6.35,"https://www.danone.com","",5,5,7,4,5,5,5,5,4
+"DaVita","Contracted Services","Health Care: Medical Facilities","","",4,4,6.0,"https://www.davita.com","",5,2,4,6,3,4,5,5,2
+"Deere","Transport","Construction and Farm Machinery","","",1,1,8.4,"https://www.deere.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Dell Technologies","Computers and Communication","Computers","","",2,2,6.61,"https://www.delltechnologies.com/en-us/index.htm","",3,2,2,3,2,2,2,2,2
+"Denso","Transport","Motor Vehicle Parts","","",7,6,6.06,"https://www.denso.com/global/en/","",8,9,8,8,7,5,5,9,9
+"Deutsche Post DHL Group","Transport","Delivery","","",3,3,5.87,"https://www.deutschepost.de","",3,3,3,3,3,3,3,3,3
+"Deutsche Telekom","Computers and Communication","Telecommunications","","",5,4,5.99,"https://www.telekom.com","",5,5,8,4,4,5,6,6,7
+"Diageo","Consumer Products","Beverages","","",1,1,7.13,"https://www.diageo.com","*Tie in rank.",1,2,1,2,2,2,1,1,2
+"Discovery","Media and Entertainment","Entertainment","","",6,5,6.25,"https://corporate.discovery.com","*Tie in rank.",7,7,5,3,5,8,8,6,4
+"Dollar General","Stores and Distributors","Specialty Retailers","","",7,12,5.63,"https://www.dollargeneral.com","*Tie in rank.",9,6,6,8,5,8,6,11,14
+"Dominion Energy","Power","Electric and Gas Utilities","","",3,3,6.63,"https://www.dominionenergy.com","",3,3,4,4,4,4,4,3,4
+"Domino’s Pizza","Stores and Distributors","Food Services","","",2,2,6.78,"https://www.dominos.com/index.intl.html","",2,3,2,4,2,3,3,5,3
+"Duke Energy","Power","Electric and Gas Utilities","","",5,5,6.46,"https://www.duke-energy.com","",4,4,5,8,5,5,5,5,5
+"Eaton","Precision","Electronics","","",7,3,6.46,"https://www.eaton.com","",10,8,5,6,9,3,6,7,11
+"Ecolab","Natural resources","Chemicals","","",2,2,6.75,"https://investor.ecolab.com","",2,2,1,1,1,2,1,2,4
+"Electronic Arts","Media and Entertainment","Entertainment","","",3,4,6.53,"https://www.ea.com","",3,4,6,5,3,3,2,4,7
+"Emerson Electric","Transport","Industrial Machinery","","",5,2,5.94,"https://www.emerson.com","",5,4,7,5,7,5,3,7,7
+"EOG Resources","Natural resources","Mining, Crude-Oil Production","","",6,3,6.04,"https://www.eogresources.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Estée Lauder Companies","Consumer Products","Soaps and Cosmetics","","",2,1,7.32,"https://www.elcompanies.com","",3,1,1,4,4,2,1,3,4
+"Exelon","Power","Electric and Gas Utilities","","",7,4,6.2,"https://www.exeloncorp.com","",7,7,6,5,7,9,7,7,9
+"Facebook","Computers and Communication","Internet Services and Retailing","","",4,5,6.3,"https://investor.fb.com","",5,3,8,10,6,3,5,7,4
+"Fastenal","Stores and Distributors","Wholesalers: Diversified","","",3,3,6.8,"https://www.fastenal.com","",2,3,1,7,1,2,1,2,8
+"Fiserv","Financials","Financial Data Services","","",2,3,6.7,"https://www.fiserv.com","",4,1,2,4,2,3,2,3,5
+"Fortive","Transport","Industrial Machinery","","",6,7,5.86,"https://www.fortive.com","*Tie in rank.",4,5,4,10,5,6,7,6,10
+"Fortune Brands Home & Security","Consumer Products","Home Equipment, Furnishings","","",4,2,6.48,"https://www.fbhs.com","",5,4,4,4,4,5,4,4,5
+"Fresenius","Contracted Services","Health Care: Medical Facilities","","",3,3,6.24,"https://www.fresenius.com","",3,5,3,3,5,3,3,2,1
+"Fujitsu","Computers and Communication","Information Technology Services","","",8,7,5.78,"https://www.fujitsu.com","",7,9,10,7,11,9,11,10,4
+"Gartner","Computers and Communication","Information Technology Services","","",4,3,6.56,"https://www.gartner.com","",4,3,4,5,4,2,3,3,3
+"General Dynamics","Transport","Aerospace and Defense","","",6,6,6.49,"https://www.gd.com","",7,7,5,8,5,6,7,6,11
+"General Mills","Consumer Products","Consumer Food Products","","",4,5,6.41,"https://www.generalmills.com","",4,4,4,3,3,4,4,4,6
+"General Motors","Transport","Motor Vehicles","","",4,4,6.7,"https://www.gm.com","",5,5,3,4,2,5,4,7,5
+"Genuine Parts","Stores and Distributors","Wholesalers: Diversified","","",5,7,5.67,"https://www.genpt.com","*Tie in rank.",9,6,5,6,4,5,4,7,10
+"Granite Construction","Shelter","Engineering, Construction","","",4,8,5.67,"https://www.graniteconstruction.com","",4,4,4,4,4,4,5,4,8
+"Graphic Packaging Holding","Natural resources","Packaging, Containers","","",5,"",6.03,"https://www.graphicpkg.com","",6,6,5,4,3,6,4,6,8
+"Graybar Electric","Stores and Distributors","Wholesalers: Diversified","","",2,2,6.83,"https://www.graybar.com","",3,2,3,2,2,3,2,3,4
+"Haier Smart Home","Consumer Products","Home Equipment, Furnishings","","",5,6,6.43,"https://www.haier.net","Changed name from Qingdao Haier.",2,5,5,6,5,6,5,5,3
+"HCA Healthcare","Contracted Services","Health Care: Medical Facilities","","",1,1,6.83,"https://www.hcahealthcare.com","",1,1,1,1,1,1,1,1,4
+"Heineken Holding","Consumer Products","Beverages","","",4,5,6.39,"https://www.theheinekencompany.com","",7,4,6,5,5,4,5,5,4
+"Henry Schein","Stores and Distributors","Wholesalers: Health Care","","",1,1,7.64,"https://www.henryschein.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Hewlett Packard Enterprise","Computers and Communication","Computers","","",4,7,5.97,"https://www.hpe.com","",5,4,5,4,4,5,4,6,4
+"Hilton Worldwide Holdings","Media and Entertainment","Hotels, Casinos, and Resorts","","",1,2,7.16,"https://www.hilton.com","",1,1,1,3,1,1,1,3,2
+"Honda Motor","Transport","Motor Vehicles","","",5,5,6.35,"https://www.honda.co.jp","",6,6,5,5,5,6,6,5,6
+"Honeywell International","Precision","Electronics","","",2,1,7.3,"https://www.honeywell.com","",2,2,2,1,1,2,1,3,2
+"Host Hotels & Resorts","Shelter","Real Estate","","",2,2,6.55,"https://www.hosthotels.com","",2,3,4,1,2,5,6,3,2
+"HP","Computers and Communication","Computers","","",3,3,6.36,"https://www.hp.com","",2,3,3,2,3,3,3,3,3
+"HSBC Holdings","Financials","Megabanks","","",8,7,5.4,"https://www.hsbc.com","",12,11,8,10,11,10,10,8,5
+"Humana","Contracted Services","Health Care: Insurance and Managed Care","","",4,3,6.62,"https://www.humana.com","",2,2,4,5,3,4,4,2,6
+"Hyatt Hotels","Media and Entertainment","Hotels, Casinos, and Resorts","","",3,3,7.04,"https://www.hyatt.com","",2,3,3,1,2,3,3,2,3
+"Hyundai Motor","Transport","Motor Vehicles","","",7,7,5.59,"https://www.hyundai.com/worldwide/en","",9,8,9,8,7,9,9,8,7
+"Illinois Tool Works","Transport","Industrial Machinery","","",2,4,6.28,"https://www.itw.com","",5,3,1,2,2,2,2,2,3
+"Ingersoll-Rand","Transport","Industrial Machinery","","",3,3,6.25,"https://www.company.ingersollrand.com","",3,2,2,1,1,3,4,3,4
+"Ingredion","Consumer Products","Food Production","","",4,4,5.87,"https://www.ingredion.com","",2,4,4,4,4,4,4,4,4
+"Intel","Precision","Semiconductors","","",3,8,6.91,"https://www.intel.com","",7,2,7,1,9,1,3,6,1
+"International Airlines Group","Transport","Airlines","","",4,13,5.63,"https://www.iairgroup.com","",3,5,4,7,5,4,4,8,6
+"International Paper","Natural resources","Packaging, Containers","","",2,3,7.0,"https://www.internationalpaper.com","",5,1,2,2,6,2,3,1,1
+"Intuit","Computers and Communication","Computer Software","","",6,6,6.57,"https://www.intuit.com","",6,6,8,3,6,5,6,5,12
+"IQVIA Holdings","Contracted Services","Health Care: Pharmacy and Other Services","","",2,2,6.67,"https://www.iqvia.com","",1,3,2,3,4,5,1,3,1
+"J.B. Hunt Transport Services","Transport","Trucking, Transportation, Logistics","","",6,6,6.04,"https://www.jbhunt.com","",3,7,10,8,5,6,5,4,10
+"Jacobs Engineering Group","Shelter","Engineering, Construction","","",1,1,6.89,"https://www.jacobs.com","",1,1,1,1,1,1,1,1,1
+"Japan Airlines","Transport","Airlines","","",8,12,5.07,"https://www.jal.co.jp","",8,7,7,9,10,9,9,7,8
+"Jones Financial (Edward Jones)","Financials","Securities and Asset Management","","",6,4,5.97,0,"*Tie in rank.",9,4,4,3,3,3,4,7,10
+"Jones Lang LaSalle (JLL)","Shelter","Real Estate","","",4,4,6.43,"https://www.us.jll.com","",5,2,2,4,5,3,4,4,2
+"Juniper Networks","Computers and Communication","Network and Other Communications Equipment","","",4,2,6.14,"https://www.juniper.net","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Kellogg","Consumer Products","Consumer Food Products","","",6,8,6.06,"https://www.kelloggcompany.com","",6,6,5,6,6,7,7,6,5
+"Kering","Consumer Products","Apparel","","",3,3,7.25,"https://www.kering.com","",3,2,3,4,4,3,3,2,3
+"Keurig Dr Pepper","Consumer Products","Beverages","","",8,6,5.84,"https://www.keurigdrpepper.com","",6,8,7,10,6,9,7,9,11
+"Kimberly-Clark","Consumer Products","Soaps and Cosmetics","","",6,6,6.8,"https://www.kimberly-clark.com","",8,4,6,5,6,6,5,5,6
+"Kohl’s","Stores and Distributors","General Merchandisers","","",5,5,5.61,"https://www.Kohls.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Komatsu","Transport","Construction and Farm Machinery","","",5,4,6.48,"https://www.komatsu.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Kroger","Stores and Distributors","Food and Drugstores","","",4,4,6.03,"https://www.thekrogerco.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"L Brands","Stores and Distributors","Specialty Retailers","","",7,7,5.63,"https://www.lb.com","*Tie in rank.",8,8,10,7,10,11,11,7,4
+"La Poste","Transport","Delivery","","",4,4,3.39,"https://www.groupelaposte.com","",4,4,4,4,5,5,4,4,4
+"Lam Research","Precision","Semiconductors","","",5,7,6.7,"https://www.lamresearch.com","*Tie in rank.",5,3,3,10,8,5,1,3,11
+"Las Vegas Sands","Media and Entertainment","Hotels, Casinos, and Resorts","","",4,6,6.32,"https://www.sands.com","",6,4,4,5,4,4,4,5,4
+"Lear","Transport","Motor Vehicle Parts","","",6,3,6.17,"https://www.lear.com","",7,6,5,5,6,6,6,7,5
+"Leggett & Platt","Consumer Products","Home Equipment, Furnishings","","",6,4,6.01,"https://www.leggett.com","",8,6,6,5,6,4,5,6,7
+"Leidos Holdings","Computers and Communication","Information Technology Services","","",6,9,5.89,"https://www.leidos.com","",10,8,3,4,9,7,7,8,8
+"Lennar","Shelter","Homebuilders","","",2,2,6.49,"https://www.lennar.com","",1,4,3,4,3,4,3,2,1
+"Lenovo","Computers and Communication","Computers","","",8,6,5.38,"https://www.lenovo.com","",10,7,10,14,6,7,11,9,6
+"Levi Strauss & Co.","Consumer Products","Apparel","","",5,6,7.06,"https://www.levistrauss.com","",5,4,4,2,3,7,4,6,5
+"LG Electronics","Precision","Electronics","","",6,4,6.58,"https://www.lg.com","",3,6,8,8,5,5,7,12,5
+"Liberty Media","Media and Entertainment","Entertainment","","",8,7,6.06,"https://www.libertymedia.com","",8,6,3,10,6,5,5,11,8
+"Live Nation Entertainment","Media and Entertainment","Entertainment","","",5,6,6.35,"https://www.livenationentertainment.com","",6,3,7,4,4,6,6,7,3
+"Lowe’s","Stores and Distributors","Specialty Retailers","","",3,3,6.83,"https://www.lowes.com","",3,3,3,2,3,3,3,3,5
+"Lufthansa Group","Transport","Airlines","","",3,5,5.69,"https://www.lufthansagroup.com","",4,3,6,5,6,6,6,5,3
+"LyondellBasell Industries","Natural resources","Chemicals","","",5,4,6.15,"https://www.lyondellbasell.com","",7,4,4,4,3,5,5,5,5
+"M&T Bank Corp.","Financials","Superregional Banks","","",6,7,6.27,"https://www.mtb.com","",9,6,5,5,5,6,6,6,8
+"Maersk Group","Transport","Trucking, Transportation, Logistics","","",3,5,6.53,"https://www.maersk.com","",4,5,5,4,4,5,4,7,1
+"Magna International","Transport","Motor Vehicle Parts","","",8,8,5.99,"https://www.magna.com","*Tie in rank.",10,7,9,10,8,10,7,12,8
+"Massachusetts Mutual Life","Financials","Insurance: Life and Health","","",7,5,6.17,"https://www.massmutual.com","",3,7,6,6,6,6,6,6,10
+"MasTec","Shelter","Engineering, Construction","","",5,7,5.5,"https://www.mastec.com","",6,6,6,7,5,5,4,6,6
+"McKesson","Stores and Distributors","Wholesalers: Health Care","","",2,2,6.38,"https://www.mckesson.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Medtronic","Precision","Medical Products and Equipment","","",2,9,6.55,"https://www.medtronic.com","*Tie in rank.",3,4,6,2,7,2,6,4,3
+"MetLife","Financials","Insurance: Life and Health","","",6,8,6.23,"https://www.metlife.com","",4,5,8,7,7,8,9,7,1
+"MGM Resorts International","Media and Entertainment","Hotels, Casinos, and Resorts","","",5,5,6.05,"https://www.mgmresorts.com","",4,6,6,4,5,8,6,6,6
+"Michelin","Transport","Motor Vehicle Parts","","",3,4,6.88,"https://www.michelin.com","",3,4,4,2,2,3,3,2,3
+"Mitsubishi UFJ Financial Group","Financials","Megabanks","","",7,10,5.67,"https://www.mufg.jp","",10,7,6,8,7,6,8,6,8
+"Mondelēz International","Consumer Products","Consumer Food Products","","",3,4,6.8,"https://www.mondelezinternational.com","",3,3,3,5,4,3,3,3,3
+"Morgan Stanley","Financials","Megabanks","","",4,4,6.41,"https://www.morganstanley.com","",4,4,4,3,4,4,4,4,4
+"Motorola Solutions","Computers and Communication","Network and Other Communications Equipment","","",3,3,6.28,"https://www.motorolasolutions.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"New York Life Insurance","Financials","Insurance: Life and Health","","",4,2,6.4,"https://www.newyorklife.com","",6,4,4,4,4,3,5,4,8
+"Newmont","Natural resources","Mining, Crude-Oil Production","","",2,12,7.13,"https://www.newmont.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published. Changed name from Newmont Goldcorp.","","","","","","","","",""
+"NextEra Energy","Power","Electric and Gas Utilities","","",1,1,7.55,"https://www.nexteraenergy.com","",1,1,1,1,1,1,1,1,1
+"Nintendo","Media and Entertainment","Entertainment","","",6,"",6.25,"https://www.nintendo.co.jp","*Tie in rank.",4,5,8,9,9,4,7,5,5
+"Norsk Hydro","Natural resources","Metals","","",6,8,5.62,"https://www.hydro.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Northern Trust","Financials","Superregional Banks","","",3,3,6.98,"https://www.northerntrust.com","",5,3,3,4,3,4,3,4,3
+"Northrop Grumman","Transport","Aerospace and Defense","","",4,3,7.07,"https://www.northropgrumman.com","",4,3,3,3,3,3,3,5,9
+"Northwestern Mutual","Financials","Insurance: Life and Health","","",5,4,6.34,"https://www.northwesternmutual.com","",10,6,2,1,3,2,4,1,13
+"Novartis","Natural resources","Pharmaceuticals","","",4,4,6.94,"https://www.novartis.com","",3,4,3,8,5,4,3,7,2
+"NTT (Nippon Telegraph & Telephone)","Computers and Communication","Telecommunications","","",8,8,5.83,"https://www.ntt.co.jp","",7,12,5,7,9,3,5,3,11
+"Nucor","Natural resources","Metals","","",1,2,6.67,"https://www.nucor.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Nvidia","Precision","Semiconductors","","",1,1,6.97,"https://www.nvidia.com","",1,1,4,6,4,4,2,3,5
+"Occidental Petroleum","Natural resources","Mining, Crude-Oil Production","","",1,2,7.33,"https://www.oxy.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Paccar","Transport","Construction and Farm Machinery","","",4,6,6.62,"https://www.paccar.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Packaging Corp. of America","Natural resources","Packaging, Containers","","",4,5,6.32,"https://www.packagingcorp.com","",7,4,4,5,1,3,2,3,10
+"Palo Alto Networks","Computers and Communication","Network and Other Communications Equipment","","",5,"",5.98,"https://www.paloaltonetworks.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Paychex","Financials","Financial Data Services","","",5,6,6.56,"https://www.paychex.com","",3,2,3,1,4,4,4,5,8
+"PayPal Holdings","Financials","Consumer Credit Card and Related Services","","",3,3,7.21,"https://www.paypal.com","",1,2,3,3,3,4,3,4,3
+"Penske Automotive Group","Stores and Distributors","Specialty Retailers","","",4,4,6.41,"https://www.penskeautomotive.com","*Tie in rank.",4,4,4,4,6,4,4,5,1
+"Pernod Ricard","Consumer Products","Beverages","","",7,"",6.1,"https://www.pernod-ricard.com","",9,6,8,8,8,8,3,7,5
+"Pfizer","Natural resources","Pharmaceuticals","","",7,7,6.52,"https://www.pfizer.com","",9,7,9,9,10,7,7,10,5
+"Pioneer Natural Resources","Natural resources","Mining, Crude-Oil Production","","",7,"",5.83,"https://www.pxd.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"PNC Financial Services Group","Financials","Superregional Banks","","",2,2,7.25,"https://www.pnc.com","",2,2,2,2,2,2,2,2,5
+"PPG Industries","Natural resources","Chemicals","","",3,3,6.49,"https://www.ppg.com","",3,3,3,3,4,4,3,3,3
+"Progressive","Financials","Insurance: Property and Casualty","","",5,7,6.68,"https://www.progressive.com","",1,3,2,11,2,7,2,5,13
+"Prudential Financial (U.S.)","Financials","Insurance: Life and Health","","",1,1,6.57,"https://www.prudential.com","",2,1,5,5,1,7,3,5,2
+"PulteGroup","Shelter","Homebuilders","","",5,4,6.08,"https://www.pultegroupinc.com","",4,3,5,5,5,5,5,4,4
+"Qantas Airways","Transport","Airlines","","",5,7,5.61,"https://www.qantas.com","*Tie in rank.",5,6,8,4,7,7,5,6,4
+"Qualcomm","Precision","Semiconductors","","",8,5,6.53,"https://www.qualcomm.com","*Tie in rank.",4,8,13,5,11,7,8,5,6
+"Quanta Services","Shelter","Engineering, Construction","","",3,5,6.16,"https://www.quantaservices.com","",3,3,2,3,3,2,2,3,3
+"Quest Diagnostics","Contracted Services","Health Care: Pharmacy and Other Services","","",3,3,6.58,"https://www.questdiagnostics.com","",4,2,1,2,2,1,3,2,7
+"Raymond James Financial","Financials","Securities and Asset Management","","",3,5,6.35,"https://www.raymondjames.com","",4,3,3,5,4,4,3,3,8
+"Raytheon","Transport","Aerospace and Defense","","",1,2,7.65,"https://www.raytheon.com","",1,1,1,1,2,1,2,1,1
+"Reliance Steel & Aluminum","Natural resources","Metals","","",2,3,6.59,"https://www.rsac.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Rio Tinto","Natural resources","Mining, Crude-Oil Production","","",8,5,5.65,"https://www.riotinto.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Robert Half International","Contracted Services","Diversified Outsourcing Services","","",4,1,5.63,"https://www.roberthalf.com","*Tie in rank.",6,1,2,6,3,5,5,4,4
+"Roche Group","Natural resources","Pharmaceuticals","","",3,3,6.97,"https://www.roche.com","",4,3,4,4,6,3,4,3,4
+"Royal Ahold Delhaize","Stores and Distributors","Food and Drugstores","","",5,5,6.02,"https://www.aholddelhaize.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Royal Bank of Canada","Financials","Megabanks","","",6,6,5.71,"https://www.rbc.com","",6,9,7,5,5,8,5,7,11
+"Ryder System","Transport","Trucking, Transportation, Logistics","","",4,4,6.52,"https://www.ryder.com","",2,3,4,3,2,4,3,1,6
+"S&P Global","Financials","Financial Data Services","","",3,4,6.66,"https://www.spglobal.com","",5,4,5,2,5,2,5,4,1
+"SAFRAN","Transport","Aerospace and Defense","","",7,9,6.44,"https://www.safran-group.com","",9,8,6,9,7,7,6,7,5
+"Samsung Electronics","Precision","Electronics","",50,1,2,7.5,"https://www.samsung.com","",1,1,1,2,2,1,2,1,1
+"SAP","Computers and Communication","Computer Software","","",7,4,6.54,"https://www.sap.com","",8,8,4,6,7,4,7,8,2
+"ScanSource","Stores and Distributors","Wholesalers: Electronics and Office Equipment","","",4,3,6.33,"https://www.scansource.com","",4,3,4,3,3,4,4,4,6
+"Schneider Electric","Precision","Electronics","","",4,5,6.79,"https://www.se.com","",5,5,5,3,3,7,5,3,4
+"Sempra Energy","Power","Electric and Gas Utilities","","",8,7,6.01,"https://www.sempra.com","",10,8,8,7,9,10,10,9,3
+"ServiceNow","Computers and Communication","Computer Software","","",4,"",6.88,"https://www.servicenow.com","",3,5,5,8,5,6,3,4,6
+"Seven & I Holdings","Stores and Distributors","Food and Drugstores","","",6,6,5.95,0.7,"Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Sharp","Precision","Electronics","","",8,12,6.43,"http://www.sharp-world.com","",8,7,7,5,7,11,8,6,7
+"Sherwin-Williams","Natural resources","Chemicals","","",6,8,5.71,"https://www.sherwin-williams.com","",9,5,6,8,7,6,6,6,12
+"Siemens","Transport","Industrial Machinery","","",1,1,6.64,"https://www.siemens.com","",1,1,3,4,3,1,1,1,1
+"Simon Property Group","Shelter","Real Estate","","",3,3,6.48,"https://www.simon.com","",4,4,3,3,3,4,3,1,4
+"Sodexo","Contracted Services","Diversified Outsourcing Services","","",4,2,5.63,"https://www.sodexo.com","*Tie in rank.",4,6,6,2,6,2,6,6,1
+"SoftBank Group","Computers and Communication","Telecommunications","","",3,5,6.55,"https://www.softbank.jp","*Tie in rank.",2,2,4,5,3,4,3,5,3
+"Sonoco Products","Natural resources","Packaging, Containers","","",1,1,7.11,"https://www.sonoco.com","",1,3,1,3,2,1,1,2,2
+"Sony","Precision","Electronics","","",3,7,6.94,"https://www.sony.net","",4,3,4,4,4,4,3,2,3
+"Southern Company","Power","Electric and Gas Utilities","","",6,9,6.31,"https://www.southerncompany.com","",5,5,10,3,6,6,6,5,7
+"Sprouts Farmers Market","Stores and Distributors","Food and Drugstores","","",3,3,6.78,"https://www.sprouts.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Stanley Black & Decker","Consumer Products","Home Equipment, Furnishings","","",1,5,7.25,"https://www.stanleyblackanddecker.com","",1,1,1,1,1,1,1,3,1
+"State Farm Insurance","Financials","Insurance: Property and Casualty","","",8,8,6.27,"https://www.statefarm.com","",10,8,7,2,7,4,9,8,14
+"Steel Dynamics","Natural resources","Metals","","",5,1,5.86,"https://www.steeldynamics.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Steelcase","Consumer Products","Home Equipment, Furnishings","","",2,1,6.97,"https://www.steelcase.com","",3,2,3,2,2,3,3,1,4
+"Stryker","Precision","Medical Products and Equipment","","",5,3,6.44,"https://www.stryker.com","",5,3,4,8,3,5,4,3,8
+"Suntory Holdings","Consumer Products","Beverages","","",6,4,6.24,"https://www.suntory.com","",3,5,5,4,6,5,6,4,7
+"Swiss Re","Financials","Insurance: Property and Casualty","","",7,5,6.56,"https://www.swissre.com","",7,7,8,7,8,8,6,7,1
+"Synnex","Stores and Distributors","Wholesalers: Electronics and Office Equipment","","",3,5,6.39,"https://www.synnexcorp.com","",3,4,3,5,4,3,3,5,4
+"T. Rowe Price","Financials","Securities and Asset Management","","",5,3,5.99,"https://www.troweprice.com","",6,7,6,7,5,6,6,4,5
+"Taiwan Semiconductor","Precision","Semiconductors","","",2,2,6.94,"https://www.tsmc.com","",3,5,1,7,2,3,3,1,4
+"Taylor Morrison Home","Shelter","Homebuilders","","",3,3,6.13,"https://www.taylormorrison.com","",2,2,6,1,6,6,6,3,5
+"TD Ameritrade","Financials","Securities and Asset Management","","",6,10,5.97,"https://www.amtd.com","*Tie in rank.",3,5,7,6,7,5,7,5,7
+"TE Connectivity","Precision","Electronics","","",5,6,6.61,"https://www.te.com","",7,4,3,7,6,6,4,5,9
+"Tech Data","Stores and Distributors","Wholesalers: Electronics and Office Equipment","","",2,2,7.0,"https://www.techdata.com","",2,2,1,2,1,1,2,2,2
+"Telefónica","Computers and Communication","Telecommunications","","",4,3,6.47,"https://www.telefonica.com","",3,4,3,2,12,7,4,4,2
+"Tencent Holdings","Computers and Communication","Internet Services and Retailing","","",5,6,6.22,"https://www.tencent.com","*Tie in rank.",4,5,5,8,4,4,4,4,9
+"Tenet Healthcare","Contracted Services","Health Care: Medical Facilities","","",5,5,5.77,"https://www.tenethealth.com","",5,6,5,4,6,5,4,4,5
+"Tesla","Transport","Motor Vehicles","","",8,11,5.5,"https://www.tesla.com","",1,4,14,6,10,15,10,6,13
+"Texas Instruments","Precision","Semiconductors","","",5,5,6.7,"https://www.ti.com","*Tie in rank.",9,6,2,2,3,2,5,8,7
+"Thales Group","Transport","Aerospace and Defense","","",8,11,6.17,"https://www.thalesgroup.com/en","",8,9,7,5,8,8,10,9,6
+"Thermo Fisher Scientific","Precision","Medical Products and Equipment","","",2,4,6.55,"https://www.thermofisher.com","*Tie in rank.",4,5,3,4,4,3,2,5,4
+"TIAA","Financials","Insurance: Life and Health","","",3,3,6.52,"https://www.tiaa-cref.org","",5,3,1,2,2,1,1,2,9
+"TJX","Stores and Distributors","Specialty Retailers","","",5,2,6.15,"https://www.tjx.com","",7,5,5,5,4,6,5,6,7
+"Toll Brothers","Shelter","Homebuilders","","",1,1,6.59,"https://www.tollbrothers.com","",2,1,2,2,1,3,4,1,2
+"Toyota Industries","Transport","Motor Vehicle Parts","","",2,1,6.97,"https://www.toyota-industries.com","",5,2,1,1,3,1,2,3,2
+"Travelers Cos.","Financials","Insurance: Property and Casualty","","",3,4,6.83,"https://www.travelers.com","",5,2,4,4,5,5,4,6,7
+"Truist Financial","Financials","Superregional Banks","","",5,6,6.5,"https://www.bbt.com","Changed name from BB&T.",4,5,4,3,4,5,4,5,7
+"Tyson Foods","Consumer Products","Food Production","","",1,1,7.61,"https://www.tysonfoods.com","",1,1,1,1,1,1,1,1,2
+"U.S. Bancorp","Financials","Superregional Banks","","",1,1,7.63,"https://www.usbank.com","",1,1,1,1,1,1,1,1,4
+"Union Pacific","Transport","Trucking, Transportation, Logistics","","",2,3,6.67,"https://www.up.com","",7,1,1,1,1,1,1,2,8
+"United Technologies","Transport","Aerospace and Defense","","",3,4,7.08,"https://www.utc.com","",3,5,4,4,4,4,4,4,3
+"UnitedHealth Group","Contracted Services","Health Care: Insurance and Managed Care","","",1,1,8.14,"https://www.unitedhealthgroup.com","",1,1,1,1,1,1,1,1,1
+"Universal Health Services","Contracted Services","Health Care: Medical Facilities","","",2,2,6.4,"https://www.uhsinc.com","",2,3,2,2,2,2,2,3,3
+"Verizon Communications","Computers and Communication","Telecommunications","","",2,2,6.81,"https://www.verizon.com","",4,2,1,3,1,2,2,2,4
+"VF","Consumer Products","Apparel","","",2,2,7.45,"https://www.vfc.com","",4,3,2,1,1,2,2,4,4
+"Vodafone Group","Computers and Communication","Telecommunications","","",7,5,5.84,"https://www.vodafone.com","*Tie in rank.",6,7,6,6,7,11,10,9,6
+"Voestalpine","Natural resources","Metals","","",7,9,5.51,"https://www.voestalpine.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Volkswagen","Transport","Motor Vehicles","","",6,10,6.17,"https://www.volkswagenag.com","",7,7,6,10,11,3,5,4,4
+"Volvo","Transport","Construction and Farm Machinery","","",3,3,7.03,"https://www.volvogroup.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Voya Financial","Financials","Securities and Asset Management","","",4,9,6.09,"https://www.voya.com","",5,6,5,4,5,7,5,6,4
+"W.W. Grainger","Stores and Distributors","Wholesalers: Diversified","","",1,1,7.21,"https://www.grainger.com","",1,1,2,1,3,1,3,1,9
+"Walgreens Boots Alliance","Stores and Distributors","Food and Drugstores","","",2,1,6.89,"https://www.walgreensbootsalliance.com","Because of the weak distribution of responses, only the aggregate industry score and rank are published.","","","","","","","","",""
+"Waste Management","Contracted Services","Diversified Outsourcing Services","","",6,5,5.61,"https://www.wm.com","",4,5,4,3,4,2,1,5,10
+"Wayfair","Computers and Communication","Internet Services and Retailing","","",3,4,6.73,"https://www.wayfair.com","",3,4,2,1,3,7,6,3,6
+"WellCare Health Plans","Contracted Services","Health Care: Insurance and Managed Care","","",5,6,6.36,"https://www.wellcare.com","",4,3,5,4,5,5,5,5,4
+"WESCO International","Stores and Distributors","Wholesalers: Diversified","","",5,4,5.67,"https://www.wesco.com","*Tie in rank.",6,5,4,5,8,4,6,6,7
+"WestRock","Natural resources","Packaging, Containers","","",3,2,6.79,"https://www.westrock.com","",2,2,3,1,5,4,5,4,3
+"Whirlpool","Consumer Products","Home Equipment, Furnishings","","",3,3,6.96,"https://www.whirlpoolcorp.com","",4,3,2,3,3,2,2,2,2
+"Wilmar International","Consumer Products","Food Production","","",3,3,6.26,"https://www.wilmar-international.com","",4,2,2,2,3,3,3,3,1
+"Workday","Computers and Communication","Computer Software","","",5,5,6.76,"https://www.workday.com","",5,3,3,4,4,8,5,5,8
+"Wynn Resorts","Media and Entertainment","Hotels, Casinos, and Resorts","","",6,4,6.04,"https://www.wynnresorts.com","",5,4,8,6,8,5,5,1,5
+"Xcel Energy","Power","Electric and Gas Utilities","","",2,2,6.88,"https://www.xcelenergy.com","",2,2,2,2,2,2,2,2,6
+"Xerox","Computers and Communication","Computers","","",7,11,5.56,"https://www.xerox.com","",9,11,7,5,11,8,10,5,8
+"XPO Logistics","Transport","Trucking, Transportation, Logistics","","",1,1,6.69,"https://www.xpo.com","",1,2,2,2,6,3,2,5,2
+"Yum Brands","Stores and Distributors","Food Services","","",5,4,6.27,"https://www.yum.com","",6,6,5,5,5,6,5,6,4
+"ZF Friedrichshafen","Transport","Motor Vehicle Parts","","",5,7,6.23,"https://www.zf.com","",4,5,7,6,5,7,9,5,6

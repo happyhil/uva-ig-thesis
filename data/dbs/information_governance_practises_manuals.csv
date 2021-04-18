@@ -1,4 +1,4 @@
-Firm,Industry,Sector,Collector ,Privacy policy exists,Existence of a transparency report,Contact option ,Legislation complied with,Third party sharing,Existence of a Data Protection Officer,ISO type ,Comment,Privacy Policy ULR,Privacy Policy URL corrected
+Firm,Industry,Sector,Collector ,Privacy policy exists,Existence of a transparency report,Contact option,Legislation complied with,Third party sharing,Existence of a Data Protection Officer,ISO type,Comment,Privacy Policy URL,Privacy Policy URL corrected
 Visa,Consumer Credit Card and Related Services,Business Services,Simon,1,0,1,Standard,1,1,0,,https://usa.visa.com/dam/VCOM/global/support-legal/documents/privacy-notice.pdf,
 ManpowerGroup,Temporary Help,Business Services,Simon,1,0,0,Standard,1,1,1,,https://www.manpowergroup.com/privacy-policy,
 PayPal Holdings,Consumer Credit Card and Related Services,Business Services,Simon,1,0,1,Standard,0,1,0,,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,
@@ -56,8 +56,8 @@ Goldman Sachs Group,Megabanks,Financials,Beatriz,1,0,1,standard,1,1,1,,https://w
 Morgan Stanley,Megabanks,Financials,Beatriz,1,0,1,standard,1,1,1,"specifically state that do not sell data or the past 12monthhs, although there is no optout for sales",https://www.morganstanley.com/disclaimers/us-privacy-policy-and-notice,
 American International Group,Insurance: Property and Casualty (Stock),Financials,Beatriz,1,0,1,standard,1,1,0,,https://www.aig.com/privacy-policy,
 American Express,Consumer Credit Card and Related Services,Financials,Beatriz,1,0,1,standard,1,1,0,,https://www.americanexpress.com/us/company/privacy-center/online-privacy-disclosures/,
-Allstate,Insurance: Property and Casualty,Financials,Beatriz,1,0,1,standards,1,1,1,,https://www.allstate.com/about/privacy-statement-aic.aspx,
-New York Life Insurance,Insurance: Life and Health,Financials,Beatriz,1,0,0,1,1,1,1,,https://www.newyorklife.com/about/privacy-policy,
+Allstate,Insurance: Property and Casualty,Financials,Beatriz,1,0,1,standard,1,1,1,,https://www.allstate.com/about/privacy-statement-aic.aspx,
+New York Life Insurance,Insurance: Life and Health,Financials,Beatriz,1,0,0,standard,1,1,1,,https://www.newyorklife.com/about/privacy-policy,
 Nationwide,Insurance: Property and Casualty (Mutual),Financials,Beatriz,1,0,1,standard,1,1,0,,https://www.nationwide.com/personal/privacy-security/pages/privacy,
 Liberty Mutual Insurance Group,Insurance: Property and Casualty (Stock),Financials,Beatriz,1,0,1,standard,1,1,0,,https://www.libertymutualgroup.com/general/about-lm/corporate-information/website-and-data-privacy,
 TIAA,Insurance: Life and Health,Financials,Beatriz,1,0,1,standard,1,1,1,,https://www.tiaa.org/public/support/privacy/privacy-notice,

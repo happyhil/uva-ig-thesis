@@ -1,0 +1,333 @@
+Last updated March 19, 2020 
+
+
+Introduction
+
+Honeywell International Inc. (“Company”, “our”, “us”, or “we”), the "data controller" of the personal information we collect about you pursuant to this Privacy Statement, is committed to protecting your privacy. This Privacy Statement details the steps we take to protect your personal information when you visit any of our websites or applications that contain a link to this Privacy Statement (collectively, our “Sites”) or when you contact us. It describes how we process personal information relating to you, including the types of personal information that we collect, the purposes for which we use it, the types of third parties with which we share it, and any rights you may have with respect to such information. Personal information is information, or a combination of pieces of information, that allow you to be identified and which is subject to, or otherwise afforded protection under, a data protection law, statute, or regulation.
+
+ 
+
+This Privacy Statement applies only when you visit any of our Sites that link to this Privacy Statement or when you contact or engage with us, for example, with a comment, inquiry or customer support request. Personal information collected about you in connection with other Company websites, products, services or mobile applications (including those made available to you by our group companies) may be covered by different privacy statements. It is important that you read this Privacy Statement together with any other privacy statements or other notices we may provide to you on specific occasions when we are collecting or processing your personal information so that you are fully aware of how and why we are using your information. The Company strives to ensure that every person has access to information related to our products, services, and activities, including this Notice. Please contact us if you would like this Notice provided in an alternative format and we will undertake commercially reasonable measures to meet your special needs or disabilities.
+
+ 
+
+By using or accessing our Sites or contacting or, engaging with, us you agree that we may process your personal information in the manner described in this Privacy Statement. Your use of our Sites and any information you provide through them is subject at all times to this Privacy Statement and the applicable terms and conditions that apply to the Sites.
+
+ 
+
+IMPORTANT NOTICE FOR RESIDENTS OF THE EUROPEAN ECONOMIC AREA (EEA): EEA RESIDENTS MAY BE ENTITLED TO OBJECT TO CERTAIN TYPES OF PROCESSING ACTIVITIES INVOLVING YOUR PERSONAL INFORMATION DESCRIBED IN THIS PRIVACY STATEMENT, INCLUDING WHERE WE ARE RELYING ON A LEGITIMATE INTEREST TO PROCESS YOUR PERSONAL INFORMATION OR WHERE WE ARE PROCESSING YOUR PERSONAL INFORMATION FOR DIRECT MARKETING. IN SOME CASES, WE MAY DEMONSTRATE THAT WE HAVE COMPELLING LEGITIMATE GROUNDS TO CONTINUE TO PROCESS YOUR PERSONAL INFORMATION IN WHICH CASE WE ARE NOT OBLIGED TO COMPLY WITH YOUR REQUEST
+
+ 
+
+Click on one of the links below to jump to the section that interests you:
+
+ 
+
+1)    Our collection of information
+
+2)    Our use of information
+
+3)    The legal basis on which we process information
+
+4)    Anonymizing information
+
+5)    How long we keep information
+
+6)    Disclosure of information
+
+7)    International transfers
+
+8)    Security
+
+9)    Cookies
+
+10)  Do Not Track
+
+11)  Your rights and responsibilities
+
+12)  Children's information
+
+13)  Links to other websites
+
+14)  Contact us
+
+
+
+1) Our collection of information
+
+a) Information collected directly from you. When you visit our Sites, we may ask you for personal information to provide a service or carry out a transaction that you have requested. You may also provide personal information to us when you contact or engage with us (e.g., with a comment, inquiry or customer support request, site visitors) or register for an account to use our Sites.
+
+The personal information we collect from you when you use our Sites, or when you contact or engage with us, may include: 
+
+Identity data, such as your name, title, company/organization name, e-mail address, telephone and fax numbers and physical address (including street, city, state, postal code, and/or country);
+Registration data, such as information provided by you when you register for an account to use our Sites, including user names and passwords;
+
+Recruitment data, including information submitted in connection with a job application or inquiry (as described below);
+Business contact data, such as information related to other employees, owners, directors, officers, or contractors of a third-party organization (e.g., business, company, partnership, sole proprietorship, nonprofit, or government agency).
+Marketing and communications data, including your marketing preferences and your subscriptions to our publications;
+
+Financial information, including credit card or other financial account information for the purpose of enabling us to facilitate your purchase of Company products and services that may be available on our Sites;
+
+Export control information, such as your nationality, citizenship and country of residence, that allows us to determine your eligibility under export control regulations to receive information about certain technologies;
+
+Transaction data, including inquiries about and orders for our products and services and details of payments to and from you, including purchase order history and information needed to facilitate payment transactions;
+
+Event registration information, including information you provide when filling in e-registration forms; and
+
+Your feedback, including surveys, recommendations, or other feedback from you about our Sites as well as our products and services generally.
+
+When you do not provide requested information, we may not be able to provide you the requested service or complete your transaction.
+
+b) Information we collect about you. We collect certain information about your visit to our Sites, including:
+
+·       Usage data, including information about how you use our Sites, what pages you view, the number of bytes transferred, the links you click, the materials you access, the date and time you access the Site, the website from which you linked to one of our Sites and other actions taken within the Sites; and
+
+·       Technical data, such as your Internet Protocol (IP) address, your browser type and capabilities and language and your operating system.
+
+
+For information about the cookies we use on our Sites, please refer to the section entitled “Cookies” below.
+c) Geo-location information. For certain Sites, with your express consent, we may collect the precise, real-time location (i.e., geo-location) of your mobile device. This information will be used only for purposes of facilitating your use of the Sites. The geo-location of your mobile device may be disclosed to our service providers who may process this information in connection with providing services on our behalf. Once you have consented to the collection of the precise, real-time location of your mobile device, you may adjust this consent by managing your Location Services preferences through the settings of your mobile device.
+
+d) Information collected from third parties. In accordance with applicable law, we may collect personal information about you from third parties, such as social media websites/applications, which we may combine with the information we already hold about you in order to help us improve and customize our Sites to your preferences and for other purposes set forth in this Privacy Statement. We may also collect your business contact information from your employer or other third parties, which we will use to facilitate or otherwise engage in traditional business activities and similar administrative matters.
+
+ 
+
+ 
+
+2) Our use of information
+
+We may use the personal information collected via our Sites or when you contact us for purposes that include:
+
+Services and transactions. We may use your personal information to deliver services to you or carry out transactions you have requested, including, but not limited to, providing information on Company products or services you have purchased or otherwise use, registering purchased products, processing product orders, handling warranty claims, replacing product manuals, answering customer service requests and facilitating the use of our Sites.
+Administering and protecting our business and Sites. We may use your personal information to administer and protect our business and our Sites, including troubleshooting, system maintenance, support, reporting and hosting of data.
+
+Improving our business, Sites, products and services. We may use your personal information to perform business analyses or for other purposes that help us to develop and improve the quality of our business, Sites, products and services (including new products and services), for example, by customizing our Sites to your particular preferences or interests.
+
+Marketing. In accordance with applicable laws and regulations, we may use your personal information to inform you of products or services which may be of interest to you, and to otherwise communicate with you about offerings, events and news, surveys, special offers, and related topics. You are able to opt-out from marketing communications sent via e-mail at any time, free of charge by using the “unsubscribe” link in any e-mail marketing materials you receive from us, or by contacting us using the contact information listed in this Privacy Statement. Depending on your country of residence, you may also be able to opt out of other types of marketing communications; please contact us using the contact information listed in the Privacy Statement for more information. Some jurisdictions provide individuals (e.g., California residents) with the right to request certain information regarding our disclosure of personal information to third parties for the third party’s direct marketing purposes.  For more information on our data disclosure practices for marketing purposes, please contact us in accordance with the instructions listed below.
+Business Contact Data. The Company collects and uses business contact data to engage in communications or transactions, including for conducting due diligence regarding, or providing or receiving, a product or service. For example, the Company may collect and use this business contact data in order to facilitate and manage orders, contracts, warranties, maintenance, and similar business functions, for credit analysis and collection purposes, to assist with our own internal compliance and legal requirements, and (if necessary) to defend our interests and claims.
+Financial Incentive and Loyalty Programs. We collect and use personal information to maintain and administer our financial incentive and loyalty programs. We use the personal information you provide in these programs to offer unique rewards, track your program status, and to facilitate the exchange of program points for products, promotional materials, training workshops, and other items. To the extent permitted by law, we may also use any personal information that you provide in the context of a financial incentive program for any other purpose set forth in this Privacy Statement. Please review the terms and conditions of each financial incentive program in which you would like to register or participate as such terms and conditions may be narrowly tailored to the applicable program. If you consent to participate in these programs, you may withdrawal that consent at any time by contacting us using the contact details at the end of this Privacy Statement or in accordance with the instructions set forth in the applicable program’s terms and conditions.
+Employment applications. In connection with a job application or inquiry, you may provide us with information about yourself, such as a resume/curriculum vitae, professional references, information about education and job background, and information about professional training and certifications. We and members of our group may use this information for the purpose of employment consideration, background checks and employment eligibility, and as otherwise set forth in any separate privacy statement or other notice made available to in connection with your application. We may use a third party (e.g., job recruiter) or social media platform to solicit, collect, and retain employment applications.
+
+Research and analysis. We may use your personal information to conduct research and analysis to help us analyze your purchasing preferences, identify the products and services that best meet your requirements and measure the effectiveness of the advertising we serve you.
+
+Enforcement: We may use the personal information we collect in order to detect, prevent and respond to fraud, intellectual property infringement, violations of our terms and conditions, violations of law or other misuse of our Sites.
+ 
+
+Where permitted by law, we may combine the information that we collect via our Sites with other information we hold about you (such as information about your use of our products and services) in order to offer you an improved and consistent customer experience when interacting with us or for other purposes set forth in this Privacy Statement.
+
+ 
+
+ 
+
+3) The legal basis on which we process information
+
+Where required by law, we will ensure there is a legal basis for the processing of your personal information. In most cases the legal basis will be that:
+
+the processing is necessary for the performance of the services we provide to you, or in order to take steps (at your request) prior to, and anticipation of, performing, such services;
+the processing is necessary to comply with our legal obligations, including compliance with applicable laws, regulations, governmental and quasi-governmental requests, court orders or subpoenas;
+the processing is based on your consent to the processing of your personal information for one or more specified purposes (e.g. marketing); or
+
+the processing is necessary to meet our legitimate interests, for example to develop and improve our Sites, products and/or services for the benefit of our customers.
+ 
+
+4) Anonymizing information
+
+In accordance with applicable law, we may anonymize your personal information so that it can no longer be used to identify you. Anonymized information is not considered personal information and is therefore not subject to this Privacy Statement. We may collect, use, aggregate,  and share anonymized information for any purpose.
+
+ 
+
+5) How long we keep information
+
+The period during which we store your personal information varies depending on the purpose for the processing. For example, we store personal information needed to provide you with products and services, or to facilitate transactions you have requested, for so long as you are a customer of the Company. We store your personal information for marketing purposes until you have opted out of receiving further direct marketing communications in accordance with applicable law. If you submit an employment application via our Sites, we will retain details of your application as set forth in the privacy statement or other notice made available to you in connection with your application or as otherwise required by law. In all other cases, we store your personal information for as long as is needed to fulfill the purposes outlined in this Privacy Statement, following which time it is either anonymized (where permitted by applicable law), deleted or destroyed.
+
+ 
+
+6) Disclosure of information
+
+We may share your personal information with selected third parties in accordance with applicable law, including as set out below.
+
+Our group companies. We may share your personal information with our affiliates and group companies as reasonably necessary for the purposes set out in this Privacy Statement.
+
+Service providers. We may share your personal information with companies with which we have contracted to provide services on our behalf, such as hosting websites, conducting surveys, processing transactions, analyzing our Sites and performing analyses to improve the quality of our business, Sites, products and services. We require these service providers to protect the confidentiality of your personal information.
+
+Distributors and other trusted business partners. We may share your personal information with third parties that distribute our products and other trusted business partners for purposes that include allowing those third parties to send marketing communications to you. Such sharing of personal information for marketing purposes will be performed in accordance with applicable laws and regulations.
+
+Disclosure in connection with transactions. In connection with certain transactions, we may disclose some or all of your personal information to financial institutions, government entities and shipping companies or postal services involved in fulfillment of the transaction.
+
+Disclosures in connection with acquisitions or divestitures. Circumstances may arise where for strategic or other business reasons the Company decides to sell, buy, divest, merge or otherwise reorganize businesses in some countries. We may disclose information we maintain about you to the extent reasonably necessary to proceed with the negotiation or completion of a merger, acquisition, divestiture or sale of all or a portion of the Company’s assets.
+
+Disclosure for other reasons. We may disclose personal information if required or authorized to do so by law or in the good-faith belief that such action is necessary to comply with legal requirements or with legal process served on us, to protect and defend our rights or property or, in urgent circumstances, to protect the personal safety of any individual.
+ 
+
+In the event that you facilitate a transaction with the Company, request information, a product, or services from the Company, or otherwise engage with us, and such activities require the Company to share your personal information with a service provider or other third party, you hereby direct the Company to intentionally disclose your personal information to the service provider or third party as described herein, provided the service provider or third party does not, in its reasonable judgment, sell the personal information, unless that disclosure would be consistent with the law.
+
+ 
+
+7) International transfers
+
+We are a global company. By using or accessing our Sites or contacting us and giving your information to us, you acknowledge and agree that your personal information may be collected in, transferred to and accessed by the Company, our group companies, suppliers, distributors and other business partners and/or agents located in countries outside of your country or residence, including, but not limited to, the United States, Mexico and India, in accordance with applicable law. Please be aware that the privacy protections and legal requirements, including the rights of authorities to access your personal information, in some of these countries may not be equivalent to those in your country of residence. However, we will take reasonable steps to protect your privacy and to provide a level of protection of personal information that is comparable to that of your country of residence.
+
+ 
+
+Users Located in the European Economic Area (EEA)
+
+ 
+
+Where required, we have put in place appropriate safeguards with our group companies, service providers, contractors, distributors and other business partners and agents to ensure that transfers of personal information outside the EEA are adequately protected. These safeguards typically comprise the EU Standard Contractual Clauses in accordance with Article 46(2) of the EU General Data Protection Regulation. For more information on the appropriate safeguards in place to protect your personal information, please contact us using the details at the end of this Privacy Statement.
+
+ 
+
+8) Security
+
+We are committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure, including implementation of such security measures as may be required by applicable law. However, no information system can be 100% secure, so we cannot guarantee the absolute security of your personal information. Moreover, we are not responsible for the security of information you transmit to the Sites over networks that we do not control, including the Internet and wireless networks. The safety and security of your personal information also depends on you. Where we have given you (or where you have chosen) a User ID and password to access the Sites, you are responsible for keeping those log-on credentials confidential and not revealing them to others.
+
+ 
+
+9) Cookies and similar technologies; web analytics
+
+What is a cookie? 
+Cookies are text files containing small amounts of information which are downloaded to your hard disk or to your browser's memory when you visit one of our Sites. Cookies are useful because they help arrange the content and layout of our Sites and allow us to recognize those computers or other devices that have been to our Sites before. Cookies do many different jobs, such as allowing our Sites to remember your preference settings and helping us to enhance the usability and performance of our Sites and your experience using them.
+
+Our Sites also may contain electronic images known as web beacons – sometimes called single-pixel gifs – that allow us to count the number of users who have visited specific pages. We may also include web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
+
+Categories of cookies and similar technologies that we use 
+The type of cookie or similar technology that may be used on our Sites can be put into 1 of 4 categories: Strictly Necessary, Performance, Functionality & Profile and Advertising.
+
+ 
+
+1. Strictly Necessary Cookies
+These cookies are essential for basic functionalities of the Site, and they enable you to move around our Sites and use their features, particularly in connection with information searches and order placement. Without these cookies, services you have asked for cannot be provided. These cookies do not gather information about you that could be used for marketing or remembering where you have been on the internet. Examples of strictly necessary cookies are a shopping basket cookie, which is used to remember the products that you wish to purchase when you add products to your shopping basket or proceed to checkout, a login/ authentication cookie which allows and manages your login to the Site and identifies you after logging in for a single session, a session cookie which is required to carry out the data transmission and provide the Site to you, a security cookie that detects repeat failed login attempts or similar abuses of the Sites. These types of cookies are regularly stored only as long as required for their purpose.
+
+2. Performance Cookies
+These cookies collect information about how you use our Sites, for example which pages you go to most often and if you get any error messages from certain pages. These cookies collect information that is used to improve how our Sites work. Without these cookies we cannot learn how our Sites are performing and make relevant improvements that could better your browsing experience. Examples of performance cookies that our Sites use include cookies from Google and Adobe Analytics (see further discussion below).
+
+3. Functionality & Profile Cookies
+These cookies allow our Sites to store information that you provide, such as preferences, and to store technical information useful for your interactions with our Sites. For instance, they remember your user ID and elements of your user profile. They also ensure that your experience using the Sites is relevant to you. They may also be used to provide services you have asked for such as watching a video or commenting on a blog (without being a cookie that is strictly necessary for the Site to function, see category 1). These cookies will not be used to track your browsing activity on other websites.
+
+Without these cookies, a website cannot remember choices you have previously made or personalize your browsing experience. For example, we use a cookie to store your language preferences, which allows us to present you with product search results in the correct language, and we use a cookie to store your choice about the appearance of the cookie information banner that we display on our Sites. This cookie will help us remember your choice about the appearance of the cookie information banner when you subsequently visit the same site where you made your choice about the banner and any other Company sites with the same domain or the same top-level domain.
+
+4. Advertising Cookies and Similar Technologies
+These cookies or similar technologies may be used to deliver advertisements that are more relevant to you and your interests. They may also be used to limit the times you see an advertisement as well as help to measure the effectiveness of the advertising campaign. These cookies may track your visits to other websites. Without these cookies or other technologies, online advertisements you encounter will be less relevant to you and your interests.
+
+We permit third-party advertising partners (see below) to use cookies and other technologies to collect information about your browsing activities over time and across different websites when you use our Sites, including products that you browse or purchase and your location. Examples of advertising cookies or similar technologies that we use include Google AdWords and Facebook Pixels.
+
+Setting your cookie preference
+
+You can usually modify your browser settings to decline cookies and you can withdraw your consent at any time by modifying the settings of your browser to reject or disable cookies or by opting out of specific cookies through the opt-out options shared below. If you choose to decline cookies altogether, you may not be able to fully experience the features of the Sites that you visit.
+
+
+Our use of web analytics
+
+We use industry standard web analytics to track visits to our sites (“Web Analytics Providers”).  The information generated by the cookie about your use of our Sites (including your IP address) will be transmitted to and stored by our Web Analytic Providers on their servers. The Web Analytics Providers will use this information for the purpose of evaluating your use of our Sites, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage (as specified below). The Web Analytics Providers may also transfer this information to third parties where required to do so by law, or where such third parties process the information on their behalf.
+
+We use different analytic tools which serve the purpose of measuring, analyzing and optimizing our marketing measures and provide you with customized advertisements that could be of particular interest to you. In particular, we use the following tools:
+
+Twitter Advertising, service of Twitter, Inc. ("Twitter"). Twitter collects information directly from the usage of the Sites by integrating its advertising technology. This information includes browser cookie IDs, mobile device IDs, hashed email addresses, demographic or interest data, and content viewed or actions taken on the Sites. You can opt out of Twitter Advertising by following the link below:
+Twitter Advertising Opt Out Link
+
+Google Analytics and DoubleClick Floodlight, both services of Google Inc. ("Google"): Google Analytics uses cookies which enable an analysis of your use of the Sites. The information collected (IP address, browsing activities and other data linked to your usage of the Sites, e.g. referring site details, tape of web browser and operating system, clicks on external links, interaction with site specific widgets) is usually transferred to a Google server in the USA and stored there. However, because of the IP anonymisation which we have activated on the portal, Google will reduce your IP address within Member States of the European Union/ European Economic Area beforehand (if you are browsing the Site in the EU/ EEA). Only in exceptional cases will the full IP address be transmitted to a Google server in the USA and shortened there. According to Google, the IP address transmitted by your browser within the framework of Google Analytics will not be merged with other Google data. You can opt out of Google Analytics by following the link below:
+ Google Analytics Opt Out Link
+
+DoubleClick is a tool to manage digital advertising. Floodlight captures and reports on conversions – activities of website users after they have seen or clicked on an advertisement – and sets up target audiences to optimize marketing measures and campaigns. You can opt out by changing your browser settings as described above.
+
+Furthermore, our Sites use the Google Tag Manager by Google, which helps to manage website tags through a single interface. The tool itself (implementing the tags) triggers other tags that may themselves collect (personal) data. However, Google Tag Manager does not access this data.
+
+Session Cam – our sites use SessionCam to create recordings of website visitor navigation to identify usability issues for our visitors. The visitor information collected by SessionCam and is anonymous and does not included any PII (personally identifiable information). As part of this, SessionCam records mouse movements, clicks, mobile gestures, form input, scrolling. To find out more about how Session Cam uses cookies, view SessionCam's privacy policy. As an individual user, you can choose so that all your anonymous website activity is not recorded by SessionCam. This can be done by clicking here: https://sessioncam.com/choose-not-to-be-recorded/.  You will be taken to a page on the SessionCam website where you can switch off recording by SessionCam by clicking a single button. If you choose to do this, a cookie is set on your browser which is then used by SessionCam to indicate that any visits from your device will not be recorded. Data collected by this service is used to improve our website usability. The information collected is stored and used for aggregated and statistical reporting and evaluated to improve the functionality of our websites for our visitors. 
+Session Cam Opt Out Link
+
+Rollworks by NextRoll - When visitors come to our site, the site uses third party tools (such as RollWorks) and may place cookies on visitor browsers for targeted advertising purposes. We use this data to provide advertising relevant to the browsing experience on our site. Data collected can include website activity, IP Addresses, and cookie identifiers. Please note you will still see ads even if you opt out, but they will not be personalized by RollWorks. For more information please see the Rollworks privacy notice here.
+Rollworks Opt Out Link
+
+The Sites also use services by Adobe Inc. ("Adobe"), in particular the Adobe Audience Manager, a data management platform that helps us building unique audience profiles so we can identify our most valuable segments, and Adobe Analytics, which allows us to analyze the use of our website in order to optimize its design and usability and better adapt it to the needs of our website visitors. For this purpose, Adobe Analytics will collect personal information such as your IP address and other identifiers, usage information, email address and location data. You may opt out of the Adobe Analytics services by following the link below:
+Adobe Analytics Opt Out Link
+
+The Sites uses Facebook Custom Audience, a service provided by Facebook Inc., 1601 Willow Road Menlo Park, CA 94025, USA, a remarketing service that allows us to address visitors to our Sites via Facebook with advertising placed by us. The display of personalized advertising is based on an analysis of the use of our Sites using cookies and comparable technologies, such as tracking pixels, which enables us to identify customers that eventually convert to a lead from a Facebook.com campaign. This helps us prove the effectiveness of our marketing campaigns. Furthermore, the service allows us to monitor website activity to build audiences so that we can further re-target communications to them based on their visit to the Sites. We will not know any personal information in this context until you opt in to provide them by either filling out a form or contacting us in another way. You can find out more about the privacy settings by Facebook and your options to change them under the following link:
+Facebook Privacy Settings Link (you must be logged into your Facebook account).
+
+The Sites also use online marketing and tracking services offered by LinkedIn, Corp., in particular LinkedIn Ads and LinkedIn Analytics. Both services collect and process usage and interaction data, contact information, IP address and location data. We are using LinkedIn Ads to direct traffic to the Sites by serving online advertisements on LinkedIn.com that may eventually lead users to the Sites.  We use LinkedIn Analytics to measure the success of our advertising campaigns so that we can see which users eventually convert into a lead on the Sites. We will not know any personal information in this context until you opt in to provide them by either filling out a form or contacting us in another way. You can opt out from LinkedIn targeting cookies by clicking on the following opt out link:
+Linkedin Opt Out Link
+
+Our Sites also use the marketing service AddThis, provided by Oracle America, Inc. and the user engagement measuring tool Marketo, offered by Marketo Inc. AddThis is a social sharing tool used on the Sites within our news articles and. may collect data on the Sites using a cookie to perform targeting service which we use to improve our services and provide personalized advertisements. The data processed by AddThis include unique IDs (e.g. cookie ID), IP address, geographic location, device information such as browser and device type, operating system, and preferred language, the date and time you visited our Sites, the referring URL.
+You can opt out from AddThis by clicking on the following link:
+
+AddThis Opt Out Link
+
+Marketo cookies are used to measure user engagement with our Sites, online events, advertisements and online content such as white paper downloads. The cookie allows linking a user to the recipient of an email marketing campaign to measure campaign effectiveness. The personal information collected may include the following: time of visit, pages visited, referring site details, type of web browser and operating system, interactions on site, network location, IP address, document downloads, clicks on links leading to external websites. We use the feature of IP anonymization in the service provided by Marketo. 
+
+10) Do Not Track
+
+Some web browsers may transmit “do-not-track” signals to the Sites with which the user communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. We currently do not take action in response to these signals.
+
+ 
+
+11) Your rights and responsibilities
+
+You are permitted, and hereby agree, to only disclose or otherwise provide any and all personal information (including personal on yourself or a third party) to the Company if such personal information is accurate, reliable, and relevant to our relationship, and only to the extent such disclosure or provision will not violate any applicable data protection law, statute, or regulation, or infringe upon any person’s data privacy rights or privileges.
+
+You may have certain rights under applicable data protection law with respect to personal information about you that is collected through the Sites or when you contact or otherwise engage with us. If you are a resident of the EEA, Switzerland, or California (United States) the rights described below may, in full or in part, apply to you. For other users, the rights that apply to you will depend on the laws of your country of residence. We will facilitate your exercise of the rights that apply to you in accordance with applicable law. However, even if your personal information is not afforded protection under, or otherwise subject to, a data protection law, we may seek to accommodate any request or inquiry you may have with regard to our data processing activities. For more information about your rights, please contact us using the contact details at the end of this Privacy Statement or clicking on the link at the end of this section to submit a data rights request.
+Access and Rectification: You may have the right to know about, access, and/or correct the personal information we have collected about you, including the categories and specific pieces of personal information we have collected; the categories of sources from which the personal information is collected; the business or commercial purpose for collecting the personal information; and, the categories of third parties with whom we have shared, disclosed, or sold personal information and the purpose for doing so. In some cases, you can access your personal information by going to the webpage on which you provided the information. You can help us to maintain the accuracy of your information by notifying us of any change to your mailing address, phone number or e-mail address.
+
+Object : You may be entitled to object to certain types of processing activities involving your personal information, including where we are relying on a legitimate interest to process your personal information or where we are processing your personal information for direct marketing. In some cases, we may demonstrate that we have compelling legitimate grounds to continue to process your personal information in which case we are not obliged to comply with your request.
+
+Erasure : You may be entitled to request the erasure of your personal information, for example, where the information is no longer necessary for the purposes for which they were collected.
+
+Restriction : You may be entitled to request that we restrict our processing of your personal information, for example, where the accuracy of the information is contested by you.
+
+Data portability : You may be entitled to receive and reuse your personal information for your own purposes. This is known as the right to data portability and, where applicable, requires us to move, copy or transfer your personal information from our systems to you or (where technically feasible) a third party chosen by you without affecting its usability.
+
+Consent: If you have provided your consent to the processing of your personal information, you may have the right to withdraw your consent at any time by contacting us using the contact details at the end of this Privacy Statement or, in the case of email marketing, by using the “unsubscribe” link in any of our marketing emails. If you consent to participate in our financial incentive or loyalty programs, you may withdrawal that consent at any time by contacting us using the contact details at the end of this Privacy Statement or in accordance with the instructions set forth in the applicable program’s terms and conditions. The withdrawal of your consent for any purpose will not affect the lawfulness of any processing up to that point.
+
+The Sale of Personal Information: Certain data protection laws provide individuals with the right to opt-out of the sale of their personal information. The Company does not sell your personal information to third parties for profit. However, we do share or otherwise disclose your personal information to third parties in accordance with this Privacy Statement. For example, we engage with third parties to distribute our products, provide you with technical assistance, operate website analytical tools and features, and engage in marketing and sales of our products and services. Such activities may involve the disclosure of your personal information to third parties and may be considered a “sale” of data under certain (but not all) data protection laws. Our Sites are not directed to, and should not be used by, minors under the age of sixteen (16) and therefore the Company does not knowingly collect, use, or sell the personal information of minors under sixteen (16) years of age without affirmative authorization.
+
+We will respond to any requests from you (or your authorized agent) to exercise your rights within the timeframes required by law. We may charge a fee to facilitate your request where permitted by law. To exercise any of your rights, please contact us (or have your authorized agent contact us) using the contact details set out at the end of this Privacy Statement or click on the link at the end of this section to submit a data rights request. In the event you submit, or your authorized agent submits on your behalf, a data request, you (and your authorized agent) hereby acknowledge and agree, under penalty of perjury, that you are (or the authorized agent of) the individual whose personal information is the subject of the request. If you make, or an authorized agent on your behalf makes, any request related to your personal information, we will ascertain your identity, or the identify of your authorized agent, to the degree of certainty required under the law before addressing your request. For example, the Company may be required you to match at least two or three pieces of personal information that we have previously collected from you before granting you access to, or erasing, specific pieces, or categories of, personal information, or otherwise responding to your data request. We may also request that the authorized agent provides written documentation that demonstrates his/her authorization to act on your behalf. The data privacy rights afforded under data protection laws are not absolute, and the Company may be permitted to refrain from undertaking any action or changing its data processing activities, in response to a data request you submit to us.
+
+If you believe our processing of your personal information does not comply with data protection law, you may be permitted to submit a complaint to the supervisory or regulatory authority responsible for overseeing compliance with data protection law in your jurisdiction.  For example, individuals in the EEA have the right to lodge a complaint with the competent Data Protection Authority, a list of which can be accessed at: https://edpb.europa.eu/about-edpb/board/members_en.  We would however appreciate the chance to address your concerns, so please feel free to contact us regarding any complaint you may have. Some data protection laws provide that organizations are prohibited from discriminating against individuals for exercising their data privacy rights.  The Company does not, under any circumstances, intend or otherwise seek to discriminate individuals for any reason, including for exercising a data privacy right.
+ 
+
+If you have questions about your rights or wish to exercise your rights, you can submit privacy questions via our interactive webform at the following link:
+
+https://honeywellhub.secure.force.com/
+
+ 
+
+12) Children's information
+
+Our Sites are not directed to, and should not be used by, children or other minors under the age of sixteen (16) and we do not knowingly collect information from such individuals. You are prohibited, without our prior written consent, from providing the Company with any personal information on children or other minors under the age of sixteen (16), unless such disclosure of personal information is necessary to facilitate an applicable business transaction or otherwise related to our services, and you have the lawful to make such a disclosure to the Company. The meaning of “children” is subject to the laws and regulations in the jurisdiction in which you are located.
+
+ 
+
+13) Links to other websites
+
+Our Sites may contain links to third-party websites, products and services. We have no liability or responsibility for those websites, products and services, their policies, or their collection or other processing of your personal information. The practices of those third parties with respect to information collected through their websites, products or services is governed by their own privacy policies. We encourage you to learn about the privacy policies of those third parties.
+
+ 
+
+14) Contact us
+
+If you have questions regarding this Privacy Statement or our handling of your personal information, would like to lodge a complaint, or wish to contact our Data Protection Officer, please contact us using the contact information listed below. We will promptly address your concern and strive to reach a satisfactory resolution. 
+
+
+
+Interactive Webform : 
+https://honeywellhub.secure.force.com 
+
+Email : 
+HoneywellPrivacy@honeywell.com
+
+Mailing Address : 
+
+Honeywell Privacy 
+4D5 
+115 Tabor Road 
+Morris Plains, NJ 07950
+
+Toll-Free Number : 
+844 774 8634 
+
+
+
+15) Changes to this Privacy Statement
+
+We may occasionally update this Privacy Statement. When we do, we will revise the "last updated" date at the top and bottom of the Privacy Statement and take such additional steps as may be required by law.
+
+Last updated March 19, 2020
