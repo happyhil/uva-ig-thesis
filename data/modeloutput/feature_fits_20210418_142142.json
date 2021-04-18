@@ -1,0 +1,1 @@
+{"0": {"rsquared_adj": 0.04340479122001761, "n_significant": 2, "features": ["revenue_in_millions"]}, "1": {"rsquared_adj": 0.19771352567717237, "n_significant": 2, "features": ["profits_in_millions"]}, "2": {"rsquared_adj": 0.19027718265588134, "n_significant": 2, "features": ["revenue_in_millions", "profits_in_millions"]}}
