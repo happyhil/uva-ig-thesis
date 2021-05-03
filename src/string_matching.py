@@ -5,8 +5,8 @@ from src import common
 
 
 def name_similarity(name_a, name_b, token_frequency):
-    """"""
-    
+    """Calculates name similarity score."""
+
     a_tokens = set(name_a)
     b_tokens = set(name_b)
     a_uniq = sequence_uniqueness(name_a, token_frequency)
@@ -16,17 +16,16 @@ def name_similarity(name_a, name_b, token_frequency):
     else:
         return sequence_uniqueness(a_tokens.intersection(b_tokens), token_frequency) / (a_uniq * b_uniq) ** 0.5
 
-    
+
 def build_token_frequency_table(token_lists):
-    """"""
-    
+    """Generates token frequency table in dictionary"""
+
     tokens = [str(token) for s in token_lists for token in s]
     return Counter(tokens)
 
 
-
 def match_firm_hash(dfbase, dfmatch, min_score=0.5, verbose=True):
-    """"""
+    """Pandas dataframe merge based on name similarity."""
 
     base_firm_names = list(dfbase['firm'].values)
     base_firm_hashed = list(dfbase['firmhash'].values)
@@ -49,7 +48,7 @@ def match_firm_hash(dfbase, dfmatch, min_score=0.5, verbose=True):
     all_companies_tokenized = [*[v['tokens'] for v in firm_hash_dict.values()], *match_firms_tokenized]
 
     token_frequency = build_token_frequency_table(all_companies_tokenized)
-    
+
     no_match = 0
     for mk, mv in match_firm_dict.items():
         match_scores = []
@@ -85,6 +84,6 @@ def match_firm_hash(dfbase, dfmatch, min_score=0.5, verbose=True):
     return dfmatch.drop(columns=['firm']), no_match, token_frequency
 
 def sequence_uniqueness(tokens, token_frequency_dict):
-    """"""
-    
+    """Generate seq uniqueness."""
+
     return sum(1 / token_frequency_dict[t] ** 0.5 for t in tokens)

@@ -6,13 +6,13 @@ from datetime import datetime
 
 
 def __hash(value, n=8):
-    """"""
+    """String hashing to integer"""
 
     return int(hashlib.sha256(value.encode('utf-8')).hexdigest(), 16) % 10**n
 
 
 def to_clean_tokens(firmname):
-    """"""
+    """String to tokens - filtered out spaces, puncts and to lower cases"""
 
     full_punctuation = string.punctuation + '’'
     translator = str.maketrans(full_punctuation, ' '*len(full_punctuation))
@@ -26,7 +26,7 @@ def to_clean_tokens(firmname):
 
 
 def to_clean_string(firmname):
-    """"""
+    """String to clean string - filtered out spaces, puncts and to lower cases"""
 
     full_punctuation = string.punctuation + '’'
     translator = str.maketrans(full_punctuation, ' '*len(full_punctuation))
@@ -36,7 +36,7 @@ def to_clean_string(firmname):
 
 
 def double_to_single_spaces(string):
-    """"""
+    """Replace double spaces to single space"""
 
     decrease = 1
     while decrease > 0:
@@ -47,7 +47,7 @@ def double_to_single_spaces(string):
 
 
 def column_to_date(dataf, column):
-    """"""
+    """Convert to datetime string"""
 
     raw_dates = dataf[column].values
 
@@ -76,7 +76,7 @@ def column_to_date(dataf, column):
 
 
 def _filter_out_nulls(dataf, filterlist):
-    """"""
+    """listwise empty and zero values excluded"""
 
     for c in filterlist:
         n_rows_before = len(dataf)
@@ -89,31 +89,13 @@ def _filter_out_nulls(dataf, filterlist):
 
 
 def _filter_on_mins(dataf, filterdict):
-    """"""
+    """listwise values excluded based on min value required"""
 
     for k, v in filterdict.items():
         n_rows_before = len(dataf)
         dataf = dataf.loc[lambda x: ~x[k].isnull()]
-        dataf = dataf.loc[lambda x: x[k]>v]
+        dataf = dataf.loc[lambda x: x[k]>=v]
         n_rows_filtered = n_rows_before - len(dataf)
         print(f'{k}: {n_rows_filtered} rows are filtered out')
 
     return dataf
-
-
-def create_dummies(dataf, columns):
-    """"""
-
-    for c in columns:
-        for d in dataf[c].unique():
-            dataf[f'dummy_{c}_{d}'] = 0
-            dataf.loc[lambda x: x[c].isnull(), f'dummy_{c}_{d}'] = None
-            dataf.loc[lambda x: x[c]==d, f'dummy_{c}_{d}'] = 1
-
-    return dataf
-
-
-def normalize(values):
-    """"""
-
-    return [(x-min(values))/(max(values)-min(values)) for x in values]
