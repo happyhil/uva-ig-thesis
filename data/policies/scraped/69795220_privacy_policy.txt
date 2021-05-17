@@ -1,13 +1,14 @@
-MenuToggle Ancillary NavigationPrivacy NoticeEffective date: Jan 1, 2021This Privacy Notice explains how AbbVie Inc., 1 North
-  Waukegan Rd., North Chicago, IL 60064 (“AbbVie”) may process Personal
-  Data about you through your online and off-line interactions with us
-  through AbbVie services, products, communications, and digital
-  properties (including websites and mobile applications) that refer to
-  this Privacy Notice and where AbbVie may obtain and control your
-  Personal Data from a third party (collectively, “AbbVie Relationships”).Your Personal Data We May CollectThis section describes the general
-  categories of Personal Data that we may collect for the purposes
-  described in this Privacy Notice. You can find additional information
-  on the types of Personal Data we collect for,,, andby clicking on the relevant links.Personal Data we collect from you or from other sourcesAbbVie may collect Personal Data from you directly, for example as
+Global•AfricaAsia PacificEuropeBelgium|Switzerland|Latin America / CaribbeanMiddle EastNorth AmericaCanada|South AmericaMenuToggle Ancillary NavigationPrivacy NoticeEffective date: Jan 1, 2021This Privacy Notice explains
+  how AbbVie Inc., 1 North Waukegan Rd., North Chicago, IL 60064
+  (“AbbVie”) may process Personal Data about you through your online and
+  off-line interactions with us through AbbVie services, products,
+  communications, and digital properties (including websites and mobile
+  applications) that refer to this Privacy Notice and where AbbVie may
+  obtain and control your Personal Data from a third party
+  (collectively, “AbbVie Relationships”).Your Personal Data We May CollectThis section describes the general categories of Personal Data
+  that we may collect for the purposes described in this Privacy Notice.
+  You can find additional information on the types of Personal Data we
+  collect for,,, andby clicking on the relevant links.Personal Data we collect from you or from other sourcesAbbVie may collect Personal Data from you directly, for example as
   part of a registration or in response to a questionnaire. AbbVie may
   also obtain Personal Data indirectly, such as from publicly available
   sources (e.g., websites or publicly accessible databases), third-party
@@ -26,8 +27,8 @@ MenuToggle Ancillary NavigationPrivacy NoticeEffective date: Jan 1, 2021This Pri
   purposes relating to your AbbVie Relationships, communicating with
   you, improving AbbVie Relationships and our products and services, and
   for other internal business purposes.  You can find additional
-  information on how we use Personal Data for,,, andby clicking on the relevant links.Administering programs, services, and other interactions with youWe may use your Personal Data for everyday business purposes, such as
-  payment processing and financial account management, contract
+  information on how we use Personal Data for,,, andby clicking on the relevant links.Administering programs, services, and other interactions with youWe may use your Personal Data for everyday business purposes, such
+  as payment processing and financial account management, contract
   management, website administration, fulfilment, corporate governance,
   and reporting obligations.  We may also use your Personal Data to
   provide you with the programs or services that you requested, or to
@@ -104,34 +105,34 @@ MenuToggle Ancillary NavigationPrivacy NoticeEffective date: Jan 1, 2021This Pri
   collection, use and disclosure of Personal Data practices described
   separately in this Privacy Notice.This section also describes how we use cookies and other
   data-collection technologies and how you can manage cookies that are
-  not required to operate our websites and mobile applications.Personal Data that may be collected automatically through our websites
-and mobile applicationsWe may collect the following additional categories of Personal Data
+  not required to operate our websites and mobile applications.Personal Data that may be collected automatically through our
+  websites and mobile applicationsWe may collect the following additional categories of Personal Data
   through your usage of our websites and mobile applications.IP addressWe may record the Internet Protocol (“IP”) address of your computer
   or other electronic device when you visit our website. An IP address
   identifies the electronic device you use to access websites, which
-  allows us to maintain communication with your device and to customize content.Cookies and other data-collection technologiesWe collect information automatically through your online interactions
-  with us through tracking and data-collection technologies such as
-  cookies, web beacons and pixels, APIs, web services, scripts, browser
-  analysis tools, and server logs.   A “cookie” is a unique numeric code
-  that is transferred to your computer to track your interests and
-  preferences and to recognize you as a return visitor. A “Web beacon”
-  (also known as a pixel tag) is a transparent graphic image placed on a
-  website, email, or advertisement that enables the monitoring of things
-  such as user activity and site traffic, including the collection of
-  data about the website and mobile application you were visiting before
-  and after you came to our website or mobile application. To learn more
-  about cookies and other data-collection technologies, please visit.We classify our cookies into the following categories:Required Cookies: These cookies are necessary for core
-    features of a site to operate properly.Functional Cookies: These cookies allow us to
-    analyze site usage to evaluate and improve its performance. They are
-    also used to provide a better user experience on the site, such as
-    measuring interactions with particular content or remembering
-  settings.Advertising Cookies: These cookies are used to show you ads that are
-      more relevant to you. We may share this information with
-      advertisers or use it to better understand your interests. For
-      example, advertising cookies may be used to share data with
-      advertisers so that the ads you see are more relevant to you,
-      allow you to share certain pages with social networks, or allow
-      you to post comments on our site.If you would like to see a detailed list of the cookies we use on
+  allows us to maintain communication with your device and to customize content.Cookies and other data-collection technologiesWe collect information automatically through your online
+  interactions with us through tracking and data-collection technologies
+  such as cookies, web beacons and pixels, APIs, web services, scripts,
+  browser analysis tools, and server logs.   A “cookie” is a unique
+  numeric code that is transferred to your computer to track your
+  interests and preferences and to recognize you as a return visitor. A
+  “Web beacon” (also known as a pixel tag) is a transparent graphic
+  image placed on a website, email, or advertisement that enables the
+  monitoring of things such as user activity and site traffic, including
+  the collection of data about the website and mobile application you
+  were visiting before and after you came to our website or mobile
+  application. To learn more about cookies and other data-collection
+  technologies, please visit.We classify our cookies into the following categories:Required Cookies: These cookies are necessary for core
+    features of a site to operate properly.Functional Cookies: These cookies allow us to analyze site
+    usage to evaluate and improve its performance. They are also used to
+    provide a better user experience on the site, such as measuring
+    interactions with particular content or remembering settings.Advertising Cookies: These cookies are used to show you ads
+    that are more relevant to you. We may share this information with
+    advertisers or use it to better understand your interests. For
+    example, advertising cookies may be used to share data with
+    advertisers so that the ads you see are more relevant to you, allow
+    you to share certain pages with social networks, or allow you to
+    post comments on our site.If you would like to see a detailed list of the cookies we use on
   our websites, including the third parties that place cookies on our
   websites, the specific cookie, and cookie lifespan, please click
   on cookie settings at the footer of this page. If the cookie lifespan
@@ -143,12 +144,12 @@ and mobile applicationsWe may collect the following additional categories of Per
   browser will reduce the site’s functionality.If you want to use your browser instead of our cookie settings
   feature to opt-out of the Google Analytics or Adobe Analytics tracking
   cookies, you can install the, and you
-  can.Mobile trackingSome AbbVie Relationships are available as either mobile applications
-  or mobile sites that you can use on your mobile device. If you use a
-  mobile device to access and use the AbbVie Relationships, we may
-  collect the following mobile-specific information in addition to the
-  other information described above: device or advertising ID, device
-  type, hardware type, media access control (“MAC”) address,
+    can.Mobile trackingSome AbbVie Relationships are available as either mobile
+  applications or mobile sites that you can use on your mobile device.
+  If you use a mobile device to access and use the AbbVie Relationships,
+  we may collect the following mobile-specific information in addition
+  to the other information described above: device or advertising ID,
+  device type, hardware type, media access control (“MAC”) address,
   international mobile equipment identity (“IMEI”), the version of your
   mobile operating system, the platform used to access or download the
   AbbVie sites and applications (e.g., Apple, Google, Amazon, Windows),
@@ -179,8 +180,8 @@ and mobile applicationsWe may collect the following additional categories of Per
   beacons or similar tracking technology in emails to create aggregated
   statistics and reports to analyze the effectiveness of and improve our
   marketing campaigns.We collect this information for our legitimate business interests of
-  security, improvement, analytics and optimization of AbbVie RelationshipsSocial Media AnalysisWe may also analyze public sources, such as websites and social media
-  channels, to monitor, analyze and improve our understanding of
+  security, improvement, analytics and optimization of AbbVie RelationshipsSocial Media AnalysisWe may also analyze public sources, such as websites and social
+  media channels, to monitor, analyze and improve our understanding of
   interactions with and views of our products, services, and events.
   AbbVie and its service providers will respect the privacy notices and
   terms of use applicable to such sources in performing such activities.Tell-A-Friend FunctionsWe may offer “tell-a-friend” functionality on our sites.  If you
@@ -191,13 +192,13 @@ and mobile applicationsWe may collect the following additional categories of Per
   “tell-a-friend” functionality for the sole purposes of sending this
   one-time email.How your Personal Data may be shared through online interactionsIn addition to the types of disclosures of Personal Data described
   separately in this Privacy Notice, we may share Personal Data online
-  for the additional purposes as described in this section.Third-party advertising and online behavioral advertisingWe may provide you with online advertisements for AbbVie products and
-  services on third-party websites and mobile services that are tailored
-  to you, which may be based on the Personal Data that you provide to us
-  or to a third-party website that you are visiting, or on your browsing
-  activity, purchases, or interests. We may share some of your device
-  information with our advertising service providers that we have
-  obtained from cookies and other data-collection and tracking
+  for the additional purposes as described in this section.Third-party advertising and online behavioral advertisingWe may provide you with online advertisements for AbbVie products
+  and services on third-party websites and mobile services that are
+  tailored to you, which may be based on the Personal Data that you
+  provide to us or to a third-party website that you are visiting, or on
+  your browsing activity, purchases, or interests. We may share some of
+  your device information with our advertising service providers that we
+  have obtained from cookies and other data-collection and tracking
   technologies based on your AbbVie Relationships.Some AbbVie Relationships participate in online behavioral
   advertising (this is also sometimes called targeted advertising or
   interest-based advertising). You can identify these sites by the
@@ -216,7 +217,8 @@ and mobile applicationsWe may collect the following additional categories of Per
   In some cases, data may still be collected about your browsing
   activity by these third-party advertisers, but they will not use this
   data to deliver advertisements that are based on your past online
-  browsing behavior. You can also opt-out now by clicking.You may also opt out of certain online behavioral advertising on the, and the.Some web browsers may transmit “do-not-track” signals to web
+  browsing behavior. You can also opt-out now by clicking.You may also opt out of certain online behavioral advertising on
+    the, and the.Some web browsers may transmit “do-not-track” signals to web
   services with which your browser communicates. As of the effective
   date of this Privacy Notice, an industry standard has not yet been
   established on how to respond to these signals; therefore, AbbVie does
@@ -229,19 +231,20 @@ and mobile applicationsWe may collect the following additional categories of Per
   review the privacy statements provided by all third parties prior to
   providing them with Personal Data.AbbVie Relationships may use social media plug-ins (e.g., the
   Facebook “Like” button and the “Share to Twitter” button) to enable
-  you to easily share information with others.When you visit our sites as
-  part of an AbbVie Relationship, the operator of the social plug-in and
-  integrated social media platforms can place a cookie on your device
-  that enables that operator to receive your Personal Data that allow
-  the operator to recognize individuals who have previously visited our
-  sites.  If you are logged into the social media site (e.g., Facebook,
-  Twitter) while browsing on our site, the social media plug-in allows
-  that social media site to receive information that you have visited
-  our site. The social media plug-in also allows the social media site
-  to share information about your activities on our site with other
-  users of that social media site. These sharing settings are managed by
-  the social media site, and you should refer to those sites’ privacy
-  policies for information about their privacy and data-sharing practices.Additional information for California residentsIf you are a California resident, you have certain rights with
+  you to easily share information with others.When
+  you visit our sites as part of an AbbVie Relationship, the operator of
+  the social plug-in and integrated social media platforms can place a
+  cookie on your device that enables that operator to receive your
+  Personal Data that allow the operator to recognize individuals who
+  have previously visited our sites.  If you are logged into the social
+  media site (e.g., Facebook, Twitter) while browsing on our site, the
+  social media plug-in allows that social media site to receive
+  information that you have visited our site. The social media plug-in
+  also allows the social media site to share information about your
+  activities on our site with other users of that social media site.
+  These sharing settings are managed by the social media site, and you
+  should refer to those sites’ privacy policies for information about
+  their privacy and data-sharing practices.Additional information for California residentsIf you are a California resident, you have certain rights with
   respect to AbbVie’s use and disclosure of your Personal Data. Those
   California-specific privacy requirements not addressed in other
   Privacy Notice sections are described here.Consistent with the collection practices described in this Privacy
@@ -280,16 +283,16 @@ and mobile applicationsWe may collect the following additional categories of Per
   Personal Data to perform the service.Please see thesection if you or your authorized representative
   have questions or would like to make a request to exercise any of your
   rights described in this section. After you make your request, we will
-  use the information we have to verify your identify (and if
-  applicable, your authorized agent’s identify), and to match the
+  use the information we have to verify your identity (and if
+  applicable, your authorized agent’s identity), and to match the
   Personal Data we have collected about you, if any, to your verified
-  identify.  Our verification process may include a request for
-  additional information to confirm your identify or your authorized
-  agent’s identify, or to obtain proof that you have given your
+  identity. Our verification process may include a request for
+  additional information to confirm your identity or your authorized
+  agent’s identity, or to obtain proof that you have given your
   authorized agent permission to act on your behalf. If our verification
   process is successful, we will respond to your request within the time
   and in the manner required by applicable law. If we cannot validate
-  the identify of you and/or your authorized agent or obtain proof that
+  the identity of you and/or your authorized agent or obtain proof that
   you have given your authorized agent permission to act on your behalf,
   we will attempt to contact you to inform you.Additional information for job applicantsIf you have applied for employment with AbbVie, the Personal Data
   submitted with your job application may include your resume; previous
@@ -365,7 +368,8 @@ and mobile applicationsWe may collect the following additional categories of Per
     number (where required or permitted by law), contributions to costs
     of educational events (such as registrations fees, travel and
     accommodation expenses) and fees for services, including consultancy
-  servicesAdditional uses and disclosures of health care professional Personal DataWe use and disclose Personal Data of health care professionals for
+  servicesAdditional uses and disclosures of health care professional
+  Personal DataWe use and disclose Personal Data of health care professionals for
   the following additional purposes.For the performance of our contract with you if you or your
     institution entered into a consulting, professional services, or
     other type of agreement with us.Based on our legitimate
@@ -405,7 +409,8 @@ and mobile applicationsWe may collect the following additional categories of Per
   purposes described in this section. The categories of Personal Data
   collected and the purposes of use and disclosure described in this
   section are in addition any other collection, use and disclosure of
-  Personal Data practices described separately in this Privacy Notice.Additional Personal Data that AbbVie collects for Patient and Customer ProgramsIf you are a participant in a patient or customer program, we may
+  Personal Data practices described separately in this Privacy Notice.Additional Personal Data that AbbVie collects for Patient and
+  Customer ProgramsIf you are a participant in a patient or customer program, we may
   process the following additional categories of Personal Data about
   you, which we received from you directly, or from your health care
   professionals, health care insurers, and related third parties:contact data such as address, phone number and other contact
@@ -442,8 +447,8 @@ and mobile applicationsWe may collect the following additional categories of Per
   Protection Officer, at any time, using the contact information below
   if you have questions about this Privacy Notice or have any other
   privacy request or inquiry. You can also opt-out or unsubscribe from
-  any of our programs or services.Please submit your privacy requests or inquiries. You
-  can also contact us by clicking on this “” link,
+  any of our programs or services.Please submit your privacy requests or inquiries. You can also contact us by clicking on this
+    “” link,
   by using the contact information feature on our mobile application, by
   emailing us at,or
   by calling us toll-free at 1-800-255-5162. Alternatively, you may send
@@ -501,18 +506,19 @@ and mobile applicationsWe may collect the following additional categories of Per
   Data with your consent, to perform a contract between you and us, to
   comply with legal obligations, or where we have a legitimate interest.
   These legitimate interests include administrative activities and
-  complying with your requests.Changes to our Privacy NoticeWe will use Personal Data only in the manner described in the Privacy
-  Notice in effect when the Personal Data was collected. However, and
-  subject to any applicable consent requirements, we reserve the right
-  to change the terms of this Privacy Notice at any time. Any changes to
-  this Privacy Notice will be promptly posted to this page and
-  accompanied by a new effective date at the top of this page. We
-  encourage you to review this Privacy Notice regularly for any changes.
-  Any Personal Data collected upon your continued use of AbbVie
+  complying with your requests.Changes to our Privacy NoticeWe will use Personal Data only in the manner described in the
+  Privacy Notice in effect when the Personal Data was collected.
+  However, and subject to any applicable consent requirements, we
+  reserve the right to change the terms of this Privacy Notice at any
+  time. Any changes to this Privacy Notice will be promptly posted to
+  this page and accompanied by a new effective date at the top of this
+  page. We encourage you to review this Privacy Notice regularly for any
+  changes. Any Personal Data collected upon your continued use of AbbVie
   Relationships will be handled in accordance with the currently posted
-  Privacy Notice.Other countries:Egypt Privacy Policy (|)Cookie SettingsCopyright © 2021 AbbVie Inc. North Chicago, Illinois, U.S.A.Unless otherwise specified, all product names appearing in this
-  internet site are trademarks owned by or licensed to AbbVie Inc., its
-  subsidiaries or affiliates. No use of any AbbVie trademark, trade
-  name, or trade dress in this site may be made without the prior
-  written authorization of AbbVie Inc., except to identify the product
-  or services of the company.×You are about to leave the AbbVie websiteThe product-specific site Internet site that you have requested is intended for the residents of a particular country or countries, as noted on that site. As a result, the site may contain information on pharmaceuticals that are not approved in other countries or region. If you are a resident of a country other than those to which the site is directed, please return to AbbVie.com or contact your local AbbVie affiliate to obtain the appropriate product information for your country of residence. The Internet site that you have requested may not be optimized to your screen size. Do you wish to continue to this product-specific site?YesNoI disagree×You are about to leave for a 3rd party websiteThe link below will take you out of the AbbVie family of websites. Links which take you out of the AbbVie worldwide websites are not under the control of AbbVie, and AbbVie is not responsible for the contents of any such site or any further links from such site. AbbVie is providing these links to you only as a convenience and the inclusion of any link does not imply endorsement of the linked site by AbbVie. The Internet site that you have requested may not be optimized to your screen size. Do you wish to leave this site?YesNoDefault Reject DescriptionLearn MoreDefault TitleDefault DescriptionAcceptDefault Accept DescriptionRejectDefault Reject Description×You are about to leave the AbbVie websiteThe product-specific site Internet site that you have requested is intended for the residents of a particular country or countries, as noted on that site. As a result, the site may contain information on pharmaceuticals that are not approved in other countries or region. If you are a resident of a country other than those to which the site is directed, please return to AbbVie.com or contact your local AbbVie affiliate to obtain the appropriate product information for your country of residence. The Internet site that you have requested may not be optimized to your screen size. Do you wish to continue to this product-specific site?YesNoI disagree
+  Privacy Notice.Other countries:Egypt Privacy Policy (|)Cookies SettingsCopyright © 2021 AbbVie Inc. North
+  Chicago, Illinois, U.S.A.Unless otherwise specified, all product
+  names appearing in this internet site are trademarks owned by or
+  licensed to AbbVie Inc., its subsidiaries or affiliates. No use of any
+  AbbVie trademark, trade name, or trade dress in this site may be made
+  without the prior written authorization of AbbVie Inc., except to
+  identify the product or services of the company.×You are about to leave the AbbVie websiteThe product-specific site Internet site that you have requested is intended for the residents of a particular country or countries, as noted on that site. As a result, the site may contain information on pharmaceuticals that are not approved in other countries or region. If you are a resident of a country other than those to which the site is directed, please return to AbbVie.com or contact your local AbbVie affiliate to obtain the appropriate product information for your country of residence. The Internet site that you have requested may not be optimized to your screen size. Do you wish to continue to this product-specific site?YesNoI disagree×You are about to leave for a 3rd party websiteThe link below will take you out of the AbbVie family of websites. Links which take you out of the AbbVie worldwide websites are not under the control of AbbVie, and AbbVie is not responsible for the contents of any such site or any further links from such site. AbbVie is providing these links to you only as a convenience and the inclusion of any link does not imply endorsement of the linked site by AbbVie. The Internet site that you have requested may not be optimized to your screen size. Do you wish to leave this site?YesNoLearn More×You are about to leave the AbbVie websiteThe product-specific site Internet site that you have requested is intended for the residents of a particular country or countries, as noted on that site. As a result, the site may contain information on pharmaceuticals that are not approved in other countries or region. If you are a resident of a country other than those to which the site is directed, please return to AbbVie.com or contact your local AbbVie affiliate to obtain the appropriate product information for your country of residence. The Internet site that you have requested may not be optimized to your screen size. Do you wish to continue to this product-specific site?YesNoI disagreeDisclaimer Notice - ImportantRecommended Offer for Allergan plc (“Allergan”) by AbbVie Inc. (“AbbVie”) (the “Acquisition”) by means of a scheme of arrangement under Irish law (the “Scheme”). You are attempting to enter the section of this website that is designated for the publication of documents and information in connection with the offer by AbbVie for Allergan announced on June 25, 2019 (the “Offer”). ACCESS TO THIS SECTION OF THE WEBSITE MAY BE RESTRICTED UNDER SECURITIES LAWS IN CERTAIN JURISDICTIONS. THIS NOTICE REQUIRES YOU TO CONFIRM CERTAIN MATTERS (INCLUDING THAT YOU ARE NOT RESIDENT IN SUCH A JURISDICTION), BEFORE YOU MAY OBTAIN ACCESS TO THE INFORMATION. THE INFORMATION IS NOT DIRECTED AT, AND IS NOT INTENDED TO BE ACCESSIBLE BY, PERSONS RESIDENT IN ANY JURISDICTION WHERE TO DO SO WOULD CONSTITUTE A VIOLATION OF THE RELEVANT LAWS OF THAT JURISDICTION. IF YOU ARE NOT PERMITTED TO VIEW THE INFORMATION, OR VIEWING THE INFORMATION WOULD RESULT IN A BREACH OF THE ABOVE, OR YOU ARE IN ANY DOUBT AS TO WHETHER YOU ARE PERMITTED TO VIEW THE INFORMATION, PLEASE EXIT THIS WEBPAGE. THIS SECTION OF THE WEBSITE CONTAINS ANNOUNCEMENTS, DOCUMENTS AND INFORMATION (TOGETHER THE &quot;INFORMATION&quot;) RELATING TO THE OFFER IN COMPLIANCE WITH THE IRISH TAKEOVER PANEL ACT, 1997, TAKEOVER RULES 2013 (THE &quot;IRISH TAKEOVER RULES&quot;). THE INFORMATION IS BEING MADE AVAILABLE IN GOOD FAITH AND FOR INFORMATION PURPOSES ONLY, AND ITS AVAILABILITY IS SUBJECT TO THE TERMS AND CONDITIONS SET OUT BELOW. THE INFORMATION IS NOT INTENDED TO, AND DOES NOT, CONSTITUTE OR FORM ANY PART OF AN OFFER TO SELL OR OTHERWISE DISPOSE OF OR AN INVITATION OR THE SOLICITATION OF AN OFFER TO PURCHASE OR OTHERWISE ACQUIRE ANY SECURITIES, OR THE SOLICITATION OF A VOTE OR APPROVAL PURSUANT TO THE INFORMATION OR OTHERWISE. ANY PERSON SEEKING ACCESS TO THIS SECTION OF ABBVIE’S WEBSITE REPRESENTS AND WARRANTS TO ABBVIE THAT THEY ARE DOING SO FOR INFORMATION PURPOSES ONLY. BASIS OF ACCESS TO INFORMATION Please read this notice carefully before clicking &quot;I agree&quot; or &quot;I disagree&quot; below. This notice applies to all persons who view this section of the website and, depending on where you live, it may affect your rights. This notice may be amended or updated by AbbVie from time to time and it should be read carefully in full each time you wish to view the website. In addition, the content of the website, and its accessibility by certain persons, may be amended at any time in whole or in part at the sole discretion of AbbVie. The Information speaks only at the date of the relevant document or announcement and AbbVie has, and accepts, no responsibility or duty to update any Information (other than to the extent such duty arises as a matter of law or regulation).Accept and continueReturn to AbbVie.com Home

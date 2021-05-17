@@ -1,0 +1,2290 @@
+ 
+1
+ 
+| 
+Page
+ 
+ 
+T. Rowe Price Privacy Notice
+ 
+(U
+.S. & Canada)
+ 
+ 
+References to "our", "us", "we"
+,
+ 
+or "T. Rowe Price" within this Privacy Notice are to the T. Rowe Price family of 
+companies
+,
+ 
+and
+ 
+to the
+ 
+T.
+ 
+Rowe Price 
+mutual f
+unds
+ 
+and other commingled investment vehicles
+,
+ 
+that provide services 
+or operate in the United States
+,
+ 
+and to the T.
+ 
+Rowe Price fam
+ily of companies that provide services or operate in 
+Canada. This Privacy Notice addresses the collection and use of personal information by T.
+ 
+Rowe Price in relation to 
+individuals outside of T.
+ 
+
+Privacy 
+N
+otice), unless you are interacting 
+with us in relation to a product, service, or digital property for which a separate Privacy Policy or Privacy Notice 
+applies. 
+We may obtain your personal information in a variety of ways, both online and offline. Examples
+ 
+include 
+interactions involving a product or service you obtain from us
+;
+ 
+when you visit our websites
+;
+ 
+or when you are a 
+representative of 
+or are associated with 
+another person or entity, such as when you are an employee of a company 
+that is our client, 
+a 
+service provider, 
+a counterparty, 
+or 
+other financial services firm
+. 
+ 
+ 
+This Privacy Notice explains the types of personal information we collect
+,
+ 
+how we use it
+,
+ 
+wh
+o we share it with
+,
+ 
+how we 
+protect it
+,
+ 
+and your legal rights. Please read the following carefully as it explains our views and practices regarding 
+
+
+ 
+means information that (either in iso
+lation or in 
+combination with other available information) enables you to be identified as an individual or recognized directly or 
+indirectly
+.
+ 
+It would not include 
+aggregate or deidentified information or 
+various types of 
+publicly available 
+information.
+ 
+ 
+In the table below, we summarize the categories of personal information we may collect and examples of data within 
+each category. We may collect personal information directly from you
+,
+ 
+or it may be supplied to us by another party, 
+such as you
+r employer. We may also collect personal information from other publicly or commercially available 
+sources. We may create personal information about you, such as notes of interactions with you or records of your 
+transactions. We may use cookies and other t
+echnologies to collect personal information with our digital content
+, 
+such 
+as our websites, mobile applications, or emails
+. To learn more about how we use cookies and how you can control 
+your digital experiences, 
+please see 
+our 
+Cookie Policy
+.
+ 
+We process all data we obtain from you
+ 
+or
+ 
+other sources or 
+that we create in accordance with this Privacy Notice.
+ 
+ 
+In some cases, you may provide personal inform
+ation to us about another person. In such cases, you should only do 
+so if you have the authorization of such person to provide us with this information and for us to use this information as 
+explained in this Privacy Notice.
+ 
+ 
+Categories of Personal Informat
+ion
+ 
+ 
+Category of 
+Personal 
+Information
+ 
+Representative Data Elements 
+ 
+Purpose for Collecting and Sharing the 
+Personal Information
+ 
+Contact 
+Information
+ 
+ 
+ 
+
+ 
+Full name, nicknames, and previous names 
+(such as maiden names)
+ 
+
+ 
+Honorifics and titles 
+ 
+
+ 
+Mailing address
+ 
+
+ 
+Email address
+ 
+
+ 
+Telephone, mobile, and fax numbers
+ 
+
+ 
+Contact information for related persons, 
+such as authorized users of your account 
+ 
+ 
+We use this type of information to identify you and 
+communicate with you, including:
+ 
+ 
+
+ 
+To send transactional messages (such as 
+account statements, confirmations, responses to 
+your inquiries, 
+and 
+notifications
+ 
+about changes to 
+our products or services) 
+ 
+
+ 
+To personalize our communications and provide 
+client service
+ 
+
+ 
+To send marketing communica
+tions, surveys
+,
+ 
+and invitations
+ 
+
+ 
+To keep an up
+-
+to
+-
+date suppression list where 
+you have asked not to be contacted, in order for 
+us to not inadvertently re
+-
+contact you. If you opt 
+out of marketing communications, we may still 
+send important information relati
+ng to accounts 
+held with us to comply with laws or contractual 
+obligations
+ 
+
+ 
+For our Everyday Business Purposes
+*
+ 
+Government
+-
+I
+ssued 
+I
+dentification 
+N
+umbers
+ 
+ 
+
+ 
+Social 
+S
+ecurity number 
+ 
+
+ 
+
+ 
+
+ 
+Passport number
+ 
+
+ 
+Other 
+government
+-
+issued identifiers as may 
+be needed for compliance
+ 
+We use this type of information:
+ 
+
+ 
+To identify you 
+ 
+
+ 
+To maintain the integrity of our records
+ 
+
+ 
+For client verification
+ 
+and
+ 
+credit and reference 
+checks 
+ 
+
+ 
+2
+ 
+| 
+Page
+ 
+ 
+Category of 
+Personal 
+Information
+ 
+Representative Data Elements 
+ 
+Purpose for Collecting and Sharing the 
+Personal Information
+ 
+
+ 
+For security and risk management, fraud 
+prevention
+,
+ 
+and similar purposes
+ 
+ 
+
+ 
+F
+or our Everyday Business Purposes
+*
+ 
+Biometric 
+I
+dentifiers 
+ 
+ 
+
+ 
+Voiceprint
+ 
+We use this type of information:
+ 
+
+ 
+To identify and 
+authenticate you
+ 
+
+ 
+For security and risk management, fraud 
+prevention
+,
+ 
+and similar purposes
+ 
+
+ 
+For our Everyday Business Purposes*
+ 
+ 
+Other Unique 
+Identifiers
+ 
+ 
+ 
+
+ 
+T. Rowe Price unique identification 
+numbers (e.g., client number, account 
+number)
+ 
+
+ 
+System identifiers (e.g., 
+user
+ 
+names
+ 
+or 
+online credentials) 
+ 
+
+ 
+Device identifier 
+ 
+
+ 
+Advertising identifier
+ 
+
+ 
+Other unique identification numbers 
+assigned by 
+us or 
+other entities 
+ 
+We use this type of information:
+ 
+
+ 
+To identify you or your device, including to 
+associate you with different devices that you 
+may use
+ 
+
+ 
+For 
+recordkeeping and reporting, including for 
+data matching
+ 
+
+ 
+For metrics and analytics
+ 
+
+ 
+To track your use of products, services, 
+and 
+digital 
+content
+, including for ad delivery and 
+personalization 
+ 
+
+ 
+For our Everyday Business Purposes
+*
+ 
+ 
+Relationship 
+Information
+ 
+ 
+
+ 
+Personal characteristic
+s
+ 
+and preferences, 
+such as your age range, date of birth, 
+gender, 
+marita
+l
+ 
+and family status,
+ 
+and
+ 
+language preferences
+ 
+
+ 
+Communication and marketing preferences
+ 
+
+ 
+Beneficiary information
+ 
+
+ 
+Demographic data
+ 
+
+ 
+Household demographic data, including 
+from real estate records and census data 
+ 
+
+ 
+Data from social media profiles, such as 
+Facebook, Twitter, LinkedIn
+,
+ 
+and similar 
+platforms
+ 
+
+ 
+Education information
+ 
+
+ 
+Professional information 
+ 
+
+ 
+Hobbies and interests 
+ 
+
+ 
+Propensity sc
+ores obtained from third 
+parties, such as likelihood that you may be 
+interested in certain purchases or 
+experiencing life events
+ 
+
+ 
+Travel preferences
+ 
+
+ 
+Market research and survey data, as well as 
+views you have shared with us
+ 
+We use this type of 
+information:
+ 
+
+ 
+To better understand you and to understand our 
+clients generally
+ 
+
+ 
+To fulfill our business relationship with you
+ 
+or the 
+person or entity you are associated with
+, 
+including client service
+ 
+
+ 
+To design and improve our products, services
+,
+ 
+and programs
+ 
+that benefit our clients
+ 
+ 
+
+ 
+To facilitate event registration and management 
+for online and in
+-
+person events
+ 
+
+ 
+For recordkeeping and compliance, including 
+dispute resolution 
+ 
+
+ 
+To identify prospective clients
+ 
+ 
+
+ 
+For our Everyday Business Purposes
+*
+ 
+ 
+Transaction 
+and 
+I
+nteraction 
+Information
+ 
+ 
+ 
+
+ 
+Client account information, qualification 
+data, transaction history, instructions, and 
+related records 
+ 
+
+ 
+Client service records
+ 
+
+ 
+Data collected by T. Rowe Price in 
+connection with 
+our
+ 
+activities as a service 
+provider
+ 
+ 
+
+ 
+Data collected by T.
+ 
+Rowe Price in 
+connection with 
+our
+ 
+activities with suppliers, 
+counterparties
+,
+ 
+or other financial services 
+providers
+ 
+
+ 
+Non
+-
+biometric data collected for 
+authentication 
+or authorization 
+(passwords, 
+signatures, account security questions, d
+ata 
+collected by premises
+-
+monitoring devices)
+ 
+We use this type of 
+information:
+ 
+
+ 
+To fulfill our business relationship with you
+ 
+or the 
+person or entity you 
+are associated with
+, 
+including client service
+ 
+
+ 
+For recordkeeping and compliance, including 
+dispute resolution 
+ 
+
+ 
+For risk management, fraud prevention
+,
+ 
+and 
+similar purpose
+s
+ 
+
+ 
+For our Everyday Business Purposes
+*
+ 
+ 
+
+ 
+3
+ 
+| 
+Page
+ 
+ 
+Category of 
+Personal 
+Information
+ 
+Representative Data Elements 
+ 
+Purpose for Collecting and Sharing the 
+Personal Information
+ 
+
+ 
+Records related to downloads of 
+applications, including website and app 
+usage 
+ 
+
+ 
+Visitor logs
+ 
+
+ 
+Communications with us by email or other 
+methods
+ 
+
+ 
+Notes of calls or meetings held or planned
+ 
+Inferred and 
+Derived 
+Information 
+ 
+ 
+
+ 
+Propensities, attributes
+,
+ 
+and/or scores 
+generated by internal analytics programs
+ 
+
+ 
+Your household or device based on your 
+interactions with us and on our digital 
+content
+ 
+ 
+We use 
+this type of information:
+ 
+
+ 
+To better understand you and to understand our 
+clients generally 
+ 
+
+ 
+To design and improve our products, services
+,
+ 
+and programs that benefit our clients
+ 
+
+ 
+To identify prospective clients
+ 
+ 
+
+ 
+For marketing purposes 
+ 
+
+ 
+For 
+information security and anti
+-
+fraud purposes
+ 
+
+ 
+For our Everyday Business Purposes
+*
+ 
+Online and 
+Technical 
+Information
+ 
+ 
+
+ 
+Internet protocol (IP) 
+a
+ddress
+ 
+
+ 
+MAC 
+a
+ddress, 
+SSIDs
+,
+ 
+and 
+other device or 
+persistent identifiers
+ 
+
+ 
+Online user ID
+ 
+
+ 
+Password
+ 
+
+ 
+Device characteristics (such as browser 
+information) 
+ 
+
+ 
+Web 
+s
+erver 
+l
+ogs
+ 
+
+ 
+Application 
+l
+ogs
+ 
+
+ 
+Browsing 
+d
+ata
+ 
+
+ 
+First
+-
+p
+arty 
+c
+ookies
+ 
+
+ 
+Third
+-
+p
+arty 
+c
+ookies
+ 
+
+ 
+Web beacons, clear 
+GIFs,
+ 
+and pixel tags
+ 
+We use this type of information:
+ 
+
+ 
+For system administration
+ 
+and
+ 
+technology
+ 
+management, including optimizing our websites 
+and applications
+ 
+
+ 
+For information security and cybersecurity 
+purposes, including detecting threats 
+ 
+
+ 
+For recordkeeping, including logs and records 
+that 
+are 
+maintained as part of 
+t
+ransaction 
+i
+nformation
+ 
+ 
+
+ 
+To better understand our clients and prospective 
+clients and to enhance our 
+r
+elationship 
+i
+nformation, including by associating you with 
+different devices and browsers that 
+you 
+may use
+ 
+
+ 
+For online targeting and advertising purposes
+ 
+
+ 
+For our Everyday Business 
+Purposes
+*
+ 
+ 
+Audio Visual 
+Information
+ 
+ 
+ 
+ 
+
+ 
+Photographs
+ 
+
+ 
+Video images
+ 
+
+ 
+Audio recordings
+ 
+
+ 
+Closed
+-
+circuit television (CCTV) recordings 
+ 
+
+ 
+Call center recordings and call monitoring 
+records 
+ 
+
+ 
+Voicemails
+ 
+ 
+We use this type of information:
+ 
+
+ 
+For relationship 
+purposes, such as use of 
+photos and videos for publication purposes
+ 
+
+ 
+For premises security purposes and loss 
+prevention
+ 
+
+ 
+For our Everyday Business Purposes
+*
+ 
+ 
+Financial 
+I
+nformation
+ 
+ 
+ 
+
+ 
+Bank account number and details
+ 
+
+ 
+P
+ayment card information 
+ 
+
+ 
+Credit reports
+ 
+and
+ 
+credit scores
+ 
+ 
+
+ 
+Nonpublic financial information subject to the 
+Gramm
+-
+Leach
+-
+Bliley Act (GLBA)
+ 
+ 
+We use this type of information
+:
+ 
+
+ 
+To fulfill our business relationship with you, 
+including processing 
+subscriptions, red
+emptions, 
+and other 
+payments
+ 
+
+ 
+For recordkeeping and compliance, including 
+dispute resolution 
+ 
+
+ 
+For risk management, fraud prevention
+,
+ 
+and 
+similar purpose
+s
+ 
+
+ 
+For our Everyday Business Purposes
+*
+ 
+Health 
+Information 
+ 
+ 
+ 
+
+ 
+Information about physical or mental 
+health, 
+disability status, medical treatment or 
+diagnosis, or information on payment for 
+health
+ 
+care services that you have provided 
+in relation to client service (e.g., hardship 
+forms, investment planning questionnaires)
+ 
+
+ 
+Information needed to accommodate 
+disabilities
+ 
+
+ 
+Information about workplace accidents and 
+occupational safety
+ 
+We use this type of information
+:
+ 
+
+ 
+To fulfill our business relationship with you, 
+including client service
+ 
+
+ 
+For recordkeeping and compliance, including 
+dispute resolution 
+ 
+
+ 
+For risk management, fraud prevention
+,
+ 
+and 
+similar purpose
+s
+ 
+
+ 
+For our Everyday Business Purposes
+*
+ 
+
+ 
+4
+ 
+| 
+Page
+ 
+ 
+Category of 
+Personal 
+Information
+ 
+Representative Data Elements 
+ 
+Purpose for Collecting and Sharing the 
+Personal Information
+ 
+Internet of 
+Things (IoT) 
+I
+nformation
+ 
+ 
+
+ 
+IoT and smart device records, such as data 
+
+
+consumer
+-
+activated devices
+ 
+ 
+We use this type of information:
+ 
+
+ 
+To enable application functionality 
+ 
+
+ 
+For relationship purposes, including analytics 
+regarding product usage
+ 
+ 
+
+ 
+For our Everyday Business Purposes
+*
+ 
+ 
+ 
+Geolocation 
+I
+nformation
+ 
+ 
+
+ 
+Approximate location or region you are in 
+when you interact with our digital content or
+ 
+for telephone calls
+ 
+
+ 
+Precise location
+ 
+when you visit our 
+premises
+ 
+(
+e.g., 
+from
+ 
+mob
+ile devices or 
+CCTV
+)
+ 
+We use this type of 
+information:
+ 
+
+ 
+To p
+rovide the information or services 
+requested
+ 
+ 
+
+ 
+For information security and fraud prevention
+ 
+
+ 
+For our Everyday Business Purposes
+*
+ 
+ 
+ 
+
+I
+nformation
+ 
+ 
+ 
+ 
+
+ 
+Information about children listed as 
+beneficiaries of account(s)
+ 
+
+ 
+Information about children provided by you 
+in relation to client service (e.g., included in 
+investment planning questionnaires)
+ 
+
+ 
+Data collected from mobile games, apps, 
+and websites
+ 
+ 
+We use this type of information:
+ 
+
+ 
+To p
+rovide the information, 
+products
+,
+ 
+or 
+services requested 
+ 
+
+ 
+For our Everyday Business Purposes
+*
+ 
+ 
+ 
+Compliance 
+I
+nformation
+ 
+ 
+
+ 
+Compliance program data, including client 
+screening records, individual rights requests, 
+consents, and other records maintained to 
+demonstrate 
+compliance with applicable 
+laws, such as tax laws, Know Your 
+Customer (KYC), Office of Foreign Assets 
+Control (OFAC), anti
+-
+money laundering 
+(AML), Foreign Corrupt Practices Act 
+(FCPA)
+ 
+
+ 
+Occupational and environmental safety 
+records
+ 
+
+ 
+Records 
+maintained in conjunction with legal 
+matters
+ 
+or 
+litigation or 
+that are 
+subject to 
+legal holds
+ 
+
+ 
+Records relating to complaints and internal 
+investigations, including compliance hotline 
+reports
+ 
+
+ 
+Records of privacy and security incidents, 
+including any security
+ 
+breach notifications
+ 
+We use this type of information:
+ 
+
+ 
+To comply with and demonstrate compliance 
+with applicable laws
+ 
+
+ 
+For legal matters, including litigation and 
+regulatory matters, including for use in 
+connection with civil, criminal, administrative, or 
+arbitral proceedings, or before regulatory or 
+self
+-
+regulatory bodies, including service of 
+process, investigations in a
+nticipation of 
+litigation, 
+or 
+execution or enforcement of 
+judgments and orders
+ 
+
+ 
+For our Everyday Business Purposes
+*
+ 
+ 
+ 
+*
+Everyday Business Purposes
+ 
+encompasses 
+purposes
+ 
+for
+ 
+which personal information may 
+be 
+used:
+ 
+
+ 
+To provide the information, product
+,
+ 
+or service requested by the individual or as reasonably expected given the context in which the personal 
+information was collected (such as client credentialing, providing client service, personalization and preference management,
+ 
+providing product 
+update
+s, bug fixes, and dispute resolution)
+ 
+
+ 
+For identity and credential management, including identity verification and authentication, system and technology administrat
+ion
+ 
+ 
+
+ 
+To protect the security and integrity of systems, networks, applications
+,
+ 
+and data, incl
+uding debugging activities to identify and repair errors
+;
+ 
+detecting, analyzing
+,
+ 
+and resolving security threats and incidents
+;
+ 
+and collaborating with cybersecurity centers, consortia
+,
+ 
+and law enforcement 
+regarding the same 
+ 
+
+ 
+For fraud detection and prevention, including protecting against malicious, deceptive, fraudulent
+,
+ 
+or illegal activity, and collaborating with law 
+enforcement and anti
+-
+fraud industry groups regarding the same 
+ 
+
+ 
+For auditing related to interactions with an individual and concurrent transactions, including counting ad impressions to uni
+que visitors, 
+verif
+ying positioning and quality of ad impressions, and auditing compliance with specifications and standards
+ 
+
+ 
+To perform services on behalf of us or a service provider, including maintaining or servicing accounts, providing customer se
+rvice, processing 
+or fulf
+illing requests, processing payments, providing advertising or marketing services, providing analytic services, or providing 
+similar 
+services on behalf of us or a service provider
+ 
+
+ 
+For short
+-
+term, transient use, subject to restrictions as may apply under ap
+plicable law
+ 
+
+ 
+For legal and regulatory compliance, including all uses and disclosures of personal information that are required or permitte
+d by law 
+or
+ 
+reasonably needed for compliance with company policies and procedures, such as anti
+-
+money laundering progr
+ams, security and incident 
+response programs, intellectual property protection programs, and corporate ethics and compliance hotlines 
+ 
+
+ 
+For internal business purposes, such as service provider management, finance, security, information technology and physic
+al infrastructure, 
+record retention, corporate audit, analysis, training, quality assurance
+,
+ 
+and reporting 
+ 
+
+ 
+To enforce our contracts and to protect against injury, theft, legal liability, fraud
+,
+ 
+or abuse
+ 
+or
+ 
+to protect people or property, including physical
+ 
+security programs
+ 
+
+ 
+5
+ 
+| 
+Page
+ 
+ 
+
+ 
+To undertake internal research and activities to verify and maintain products or services and to develop changes to, or new, 
+products and 
+services
+ 
+
+ 
+To de
+-
+identify personal information or create aggregated datasets, such as for consolidati
+ng reporting, research
+,
+ 
+or analytics
+ 
+
+ 
+To make back
+-
+up copies for business continuity and disaster recovery purposes
+ 
+
+ 
+For corporate governance, including mergers
+, 
+corporate reorganization
+, 
+acquisitions
+,
+ 
+and divestitures
+ 
+ 
+ 
+With whom do we share 
+personal information
+ 
+ 
+Your personal 
+information 
+is intended for T. Rowe Price and may be shared with T. Rowe Price affiliates and 
+subsidiaries and in certain circumstances with
+ 
+service providers and other
+ 
+third
+ 
+parties, including 
+to third parties 
+as 
+direct
+ed by you.
+ 
+We do not sell personal information
+,
+ 
+and we do not disclose it to 
+service providers and other 
+third 
+parties unless necessary to process a transaction, service an account, or as otherwise permitted by law.
+ 
+ 
+ 
+When we are acting as a service provider to an outside entity (such as for 
+c
+ollege 
+s
+avings 
+p
+lan (529) accounts or 
+when we are serving as recordkeeper for the employer
+-
+sponsored retirement plan in which you participate
+ 
+or a
+re 
+associated with
+), we handle you
+r personal information in accordance with 
+this Privacy Notice and 
+the requirements of 
+the 
+program or plan
+. For such relationships, in addition to the types of 
+sharing described below, your personal 
+information may be shared with the outside entity 
+that engaged us as well as others 
+as authorized by your program or 
+plan sponsor.
+ 
+ 
+We may share your personal information with: 
+ 
+
+ 
+T. Rowe Price
+
+s family of companies. 
+We may share your personal information among our family of 
+companies, including our subsidiaries and affiliates, in order to administer our services and products, provide 
+you with client support, understand your preferences, send you information about prod
+ucts and services that 
+may be of interest to you (with your consent when required), and conduct the other activities described in this 
+Privacy Notice. 
+ 
+ 
+
+ 
+O
+ur service providers. 
+We use other companies or contractors (
+s
+ervice 
+p
+roviders) to perform services on 
+our behalf or to assist us with the provision of the T. Rowe Price products or services to you. 
+While we may 
+use a 
+s
+ervice 
+p
+rovider to 
+assist in 
+relation to any of the purposes for which we 
+may collect personal 
+information,
+ 
+they generally fit within one or more of
+ 
+the following categories of 
+s
+ervice 
+p
+roviders: 
+ 
+o
+ 
+External auditors, accountants, and legal and other professional advisors
+;
+ 
+o
+ 
+Infrastructure and technology service providers; 
+ 
+o
+ 
+Marketing, advertising, analysis, research, event
+,
+ 
+and communications providers; 
+or
+ 
+o
+ 
+Providers of administrative services for T. Rowe Price products or services, such as transfer 
+agencies, custodians, and se
+
+ 
+ 
+In the course of providing such services, these 
+s
+ervice 
+p
+roviders may have access to your personal 
+information. However, we will only provide our 
+s
+ervice 
+p
+roviders with the information that is necessary for 
+them to perform th
+e services, they will act under our instructions
+,
+ 
+and we instruct them not to use your 
+personal information for any other purpose. We will always use our best efforts to ensure that the 
+s
+ervice 
+p
+roviders we work with will keep your personal information sec
+ure. 
+ 
+ 
+
+ 
+Third parties permitted by law. 
+In certain circumstances, we may disclose or share your personal 
+information
+, such as when we need to 
+comply with a legal or regulatory obligation (for example, we may be 
+required to disclose personal 
+information to the police, regulators, government agencies
+,
+ 
+or judicial or 
+administrative authorities)
+ 
+or 
+to perform transactions (for example, we may disclose personal in
+formation to a 
+custodian or other third party in connection with the purchase or sale
+ 
+of securi
+ties you have requested)
+. We 
+may also disclose your personal information to third parties where disclosure is both legally permissible and 
+necessary to protect or defend our rights, matters of national security, law enforcement, to enforce our 
+agreements
+,
+ 
+or 
+to 
+protect your rights or those of the public. 
+ 
+ 
+
+ 
+Your company or agents and other third parties. 
+We may transfer your personal information to your 
+company or other agent, such as when you are included on an email with others or to confirm yo
+ur details or 
+role. We also may transfer your information to third parties connected with your company or an account or in 
+relation to business transactions we have with you or your company. 
+ 
+ 
+
+ 
+Third parties connected with business transfers. 
+We may transfe
+r your personal information to third 
+parties (including existing or newly
+ 
+formed companies in the T. Rowe Price family of companies) in connection 
+with a reorganization, restructuring, merger, acquisition
+,
+ 
+or transfer of assets, provided that the receiving
+ 
+party 
+agrees to treat your personal information in a manner consistent with this Privacy Notice. 
+ 
+
+ 
+6
+ 
+| 
+Page
+ 
+ 
+ 
+Security
+ 
+and Location of Personal Information
+ 
+ 
+ 
+We have implemented technical and organi
+z
+ational security measures in an effort to safeguard personal 
+information i
+n 
+our custody and control. Such measures we have implemented include limiting access to personal 
+information 
+only to 
+employees, contractors
+,
+ 
+and authori
+z
+ed 
+s
+ervice 
+p
+roviders who need
+ 
+to know such information for the purposes 
+described in this Privacy Notice
+;
+ 
+training for our employees and contractors
+; and
+ 
+other technical, administrative
+,
+ 
+and 
+physical safeguards. While we 
+endeavor
+ 
+to always protect our systems, sites, operations
+,
+ 
+and i
+nformation against 
+unauthorized
+ 
+access, use, modification
+,
+ 
+and disclosure, due to the inherent nature of the 
+i
+nternet as an open global 
+communications vehicle and other risk factors, we cannot guarantee that any information, during transmission or 
+while 
+stored on our systems, will be absolutely safe from intrusion by others, such as hackers.
+ 
+For more information about 
+our security measures and technologies we make available to you, see 
+the
+ 
+Security Measures
+ 
+section of our
+ 
+webs
+ite.
+ 
+ 
+T
+he personal information that we collect may be 
+accessed 
+from 
+or stored in the United States. 
+Due to the nature of 
+our business and the technologies 
+used
+, personal information may be 
+accessed from, 
+or 
+transferred 
+to 
+and 
+stored 
+in
+, 
+other jurisdictions. 
+Regardless of location, 
+we will put into place 
+appropriate protection to help keep personal 
+inform
+ation secure 
+and in compliance with applicable 
+privacy/data protection laws
+.
+ 
+ 
+How You Can Manage Your Digital Communication Preferences 
+W
+ith 
+T. Rowe Price 
+ 
+ 
+If we send you an email with information on additional products and services that may be of 
+interest to you, the email 
+will include instructions and links for unsubscribing from these types of mailings in the future. If you have online 
+account access with us, you can change your email preferences with us (including subscriptions) by logging in an
+d 
+then updating your email preferences
+ 
+within your profile
+. 
+While we will take your preferences into account when 
+possible, please note that if you are a participant in an employer
+-
+sponsored retirement plan, we may, at the plan 
+
+e to send you emails regarding the retirement plan and related matters.
+ 
+If you do not want 
+us to use your email address to help in providing online advertising messages through social media channels and 
+other third parties, 
+you can reach us via 
+methods des
+cribed in the
+ 
+
+ 
+below
+ 
+or email us directly at 
+info@troweprice.com
+.
+ 
+ 
+
+ 
+ 
+W
+e do not knowingly collect any personal information directly from children under 13 years of age. Certain 
+W
+eb
+ 
+pages 
+and areas of one or more of our 
+s
+ites may have content 
+that an adult may wish to share with a child
+. For example, 
+certain pages on our Money
+ 
+Confident Kids
+®
+ 
+site
+, which is directed to adults to help them engage 
+with children on 
+financial concepts,
+ 
+may contain information 
+that is 
+suitable for children. However, we do not collect or ask children to 
+submit any personal information on these 
+pages. We do not target any advertising to children under
+ 
+13. If you are a 
+parent and believe we have collected personal information directly from your child who is under 13 years old, you may 
+email
+ 
+info@trowepric
+e.com
+ 
+to report this. We will investigate your report
+,
+ 
+and if we discover that we have in fact 
+collected such information, we will delete
+ 
+it.
+ 
+ 
+T. Rowe Price Privacy Policy for U
+.
+S
+.
+ 
+Consumer Products and Services 
+ 
+The following information is provided, in addition to the other information in 
+this
+ 
+Privacy Notice, for the consumer 
+customers of the following T. Rowe Price companies
+ 
+that provide services or operate in the United States
+: T. Rowe 
+Price Associates, Inc.; T
+. Rowe Price Advisory Services, Inc.; T. Rowe Price Investment Services, Inc.; T. Rowe Price 
+Trust Company; and the 
+T. Rowe Price mutual funds and other commingled investment vehicles
+.
+ 
+In the course of doing business with T. Rowe Price, you share personal 
+and financial information with us. We treat this 
+information as confidential and recognize the importance of protecting access to it.
+ 
+You may provide information when communicating or transacting with us in writing, electronically, or by phone. For 
+instanc
+e, information may come from applications, requests for forms or literature, and your transactions and account 
+positions with us. On occasion, such information may come from consumer reporting agencies and those providing 
+services to us.
+ 
+We do not sell inf
+ormation about current or former customers to any third parties, and we do not disclose it to third 
+parties unless necessary to process a transaction, service an account, or as otherwise permitted by law.
+ 
+We may 
+share information within the T. Rowe Price f
+amily of companies in the course of providing or offering products and 
+services to best meet your investing needs. We may also share that information with companies that perform 
+administrative or marketing services for T. Rowe Price
+;
+ 
+with a research firm w
+e have hired
+;
+ 
+or with a business partner, 
+such as a bank or insurance company, with 
+which
+ 
+we are developing or offering investment products. When we enter 
+
+ 
+7
+ 
+| 
+Page
+ 
+ 
+into such a relationship, our contracts restrict the companies
+
+ 
+use of our customer information, proh
+ibiting them from 
+sharing or using it for any purposes other than those for which they were hired.
+ 
+We maintain physical, electronic, and procedural safeguards to protect your personal information. Within T. Rowe 
+Price, access to such information is limited
+ 
+to those who need it to perform their jobs, such as servicing your accounts, 
+resolving problems, or informing you of new products or services. Our Code of Ethics, which applies to all employees, 
+restricts the use of customer information and requires that 
+it be held in strict confidence
+ 
+ 
+Additional Information for California Residents 
+ 
+ 
+This 
+section
+ 
+supplements the information contained in the 
+other sections of this Privacy 
+Notice and applies solely to 
+clients, 
+visitors, users, and others who reside in the 
+s
+
+ 
+and for whom we have 
+data that 
+are
+ 
+subject to 
+the California Consumer Privacy Act of 2018 
+as may be amended or supplemented from time 
+to time 
+(CCPA).
+ 
+This
+ 
+Privacy Notice, including this additional information, is provided to comply with the CCPA and 
+other California privacy laws. 
+Any terms defined in the CCPA have the same meaning when used in 
+this 
+section
+.
+ 
+ 
+It is important to note, however, that the CCPA does not apply to all
+ 
+entities
+, nor does it apply to personal 
+information maintained by financial services firms that 
+are 
+covered under certain exemptions described in the 
+CCPA, and as such, the CCPA may not apply to 
+personal information 
+T. Rowe Price 
+maintains about you
+.
+ 
+ 
+ 
+Depending u
+pon how you interact with us, you may have various rights in connection with our processing of your 
+personal information, each of which is explained below. 
+ 
+ 
+
+ 
+Access
+. 
+You may have the right to confirm with us whether your personal information is 
+processed and
+,
+ 
+if it 
+is, to request access to that personal information
+,
+ 
+including the categories of personal information processed, 
+the purpose of the processing
+,
+ 
+and the recipients or categories of recipients. We do have to 
+consider
+ 
+the 
+interests of othe
+rs though, so this is not an absolute right
+ 
+and there are additional exceptions under the 
+CCPA
+. 
+Also, 
+we are not obligated to respond to more than two access request
+s
+ 
+for the same individual
+
+s 
+personal information 
+within a 12
+-
+month period.
+ 
+
+ 
+Deletion
+. 
+You 
+may have the right to ask us to erase personal information concerning you, except we are not 
+obligated to do so if we need to retain such data in order to comply with a legal obligation or to establish, 
+exercise
+,
+ 
+or defend legal claims
+ 
+or under other excep
+tions under the CCPA
+. 
+ 
+ 
+If your request is for data relating to you that is de
+-
+identified or aggregated so that it is no longer personal information, 
+we are not required to re
+-
+identify the data to respond to your request.
+ 
+ 
+You have a right to receive nondi
+scriminatory treatment for the exercise of the privacy rights conferred by the CCPA.
+ 
+ 
+ 
+Making 
+your own privacy rights request
+: 
+To exercise 
+one or more of these
+ 
+rights
+,
+ 
+please contact us 
+as explained 
+below. 
+Please note that we may need to verify your 
+identity before we can fulfill your request.
+ 
+
+ 
+If you have an 
+online 
+account with us
+, 
+then 
+after logging in 
+you 
+may 
+submit your request 
+via the 
+online 
+form 
+at 
+troweprice.com/CCPA
+.
+ 
+If you sub
+mit
+ 
+your form 
+without logging in first, we will 
+deny your request.
+ 
+When you 
+submit your request after logging in, 
+we should not need further information from you to verify your identity, 
+but we will let you know if we do.
+ 
+Or, you can submit your request by calling us at (844) 256
+-
+4465. Calling and 
+having your account inf
+ormation available so that we can validate your identity will help us more efficiently 
+handle your request.
+ 
+
+ 
+If you have an account
+ 
+with us
+ 
+but have not previously activated online access, you 
+can submit your request 
+by calling us at (8
+44) 256
+-
+4465. 
+Calling and having your account information available so that we can validate 
+your identity will 
+help us more efficiently handle your request.
+ 
+Or, you can 
+submit your request via the form at 
+t
+roweprice.com/CCPA
+, and we will contact you as needed to verify your identity
+ 
+so that we can process the 
+request
+.
+ 
+
+ 
+If you do not have an account with us, v
+erification 
+can 
+involve 
+matching 
+up to three
+ 
+pieces of your personal 
+data (
+as 
+provided on your request) with our internal records.
+ 
+You can submit your request via the online form 
+at 
+troweprice.com/CCPA
+ 
+or by calling us at (844) 256
+-
+4465.
+ 
+ 
+Authorized 
+a
+gent requests
+: A
+n a
+ccess 
+and/or 
+deletion request also may be made by someone 
+else 
+you authorize 
+specifically to make 
+such a 
+request under the CCPA or by someone you have named as your agent under a 
+p
+ower of 
+a
+ttorney that is valid under the California Probate Code.
+ 
+Click here
+ 
+for 
+a
+uthorized 
+a
+gent 
+instructions
+ 
+and appropriate 
+forms
+.
+ 
+ 
+ 
+Handling requests we receive
+: If
+ 
+we need additional information to verify your identity
+,
+ 
+we will let you know
+.
+ 
+We will 
+endeavor to respond to a verified request within 45 days, unless there are grounds for extending our response 
+timeframe by up to an additional 45 days. In the event of 
+an extension, we will explain to you why the extension is 
+
+ 
+8
+ 
+| 
+Page
+ 
+ 
+necessary.
+ 
+In some cases, your ability to access or delete your personal information will be limited, as required or 
+permitted by applicable law
+, even when the CCPA applies to the personal informati
+on we have for you
+. 
+If we cannot 
+fulfil
+l
+ 
+your request 
+because 
+we cannot verify you
+r identity
+ 
+or 
+due to exceptions under the CCPA (or when the CCPA 
+does not apply to the personal information), we'll let you know in our response.
+ 
+ 
+Additional Information for 
+Canada 
+Residents 
+ 
+ 
+This section supplements the information contained in the other sections of this Privacy Notice and applies solely to 
+clients, visitors, users, and others who reside in 
+Canada 
+and 
+interact with a T.
+ 
+Rowe Price 
+company providing services 
+or operating in Canada. Depending on the province you reside in, 
+you 
+may 
+have various rights in connection with our 
+processing of your personal 
+information.
+ 
+For example, if you 
+reside in 
+the province of Quebec, you 
+may 
+have 
+v
+ario
+us 
+privacy rights under the Civil Code of Quebec and the Act respecting the protection of personal information in the 
+private sector that may apply to the personal 
+information 
+we have about you, including access to your personal 
+information
+, rectification 
+of inaccurate or incomplete personal 
+information
+, and deletion of inaccurate or obsolete 
+personal 
+information
+. 
+Residents 
+in other provinces may have similar rights under any applicable provincial privacy 
+legislation or the federal Personal Information Prot
+ection and Electronic Documents Act.
+ 
+Under applicable law, 
+however, personal information 
+does not include your business title, business address
+,
+ 
+or business telephone number 
+in your capacity as an employee of an organization.
+ 
+ 
+If you wish to exercise one or more of your rights, please contact us as stated 
+
+, and 
+include your name, email
+,
+ 
+and postal address, as well as your specific request and any other information we may 
+need in order to process 
+your request.
+ 
+ 
+Effective Date and Additional Changes 
+ 
+ 
+The effective date of this Privacy Notice
+ 
+i
+s 
+November 24, 2020
+. 
+From time to time, we may change its terms. When 
+the terms are revised or materially changed, we will update the effective date. You 
+can determine whether there have 
+been any material changes since the last time you reviewed them by simply checking the effective date. If we make a 
+change that we are required by law to inform you of in other ways (such as by mail), we will do
+ 
+so.
+ 
+ 
+Contac
+t Us
+ 
+ 
+T.
+ 
+Rowe
+ 
+Price offers several options for accessing and, if necessary, correcting your account information. You can 
+review your information using your statements or online services. You also may call or write us. 
+Your account 
+statement will contain co
+ntact information you can use
+. I
+f you do not have an account, visit a T. Rowe Price website 
+and look under the "About" and/or "Contact Us" links for details on how to contact us
+.
+ 
+You also can contact us through 
+any of these methods if you have 
+questions or comments about this page or our privacy practices
+ 
+generally.
+ 
+
