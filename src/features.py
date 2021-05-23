@@ -1,4 +1,5 @@
 import numpy as np
+import math
 import string
 import statistics
 from scipy import stats
@@ -151,8 +152,15 @@ def zscore_standardization(values):
     stdev = statistics.stdev(values)
     return [(x - mean) / stdev for x in values]
 
+def sigmoid_transform(values):
+    """"""
 
-def log_transform(values, lowest_value_before_transform=None):
+    valuesmax = float(max(values))
+    values = [i/valuesmax for i in values]
+    return [1/(1+math.exp(-i)) for i in values]
+
+
+def log_transform(values, lowest_value_before_transform=None, add_constant=None):
     """Log transformation on given values."""
 
     if lowest_value_before_transform != None:
@@ -162,10 +170,25 @@ def log_transform(values, lowest_value_before_transform=None):
         else:
             return [np.log(v) for v in values]
 
+    if lowest_value_before_transform == None and add_constant != None:
+        values = [v+add_constant for v in values]
+        return [np.log(v) for v in values]
+
     return [np.log(v) for v in values]
 
 
-def sqrt_transform(values):
+def sqrt_transform(values, lowest_value_before_transform=None, add_constant=None):
     """Square root transformation on given values."""
+
+    if lowest_value_before_transform != None:
+        if min(values) < lowest_value_before_transform:
+            diff = lowest_value_before_transform - min(values)
+            return [np.sqrt(v+diff) for v in values]
+        else:
+            return [np.sqrt(v) for v in values]
+
+    if add_constant != None:
+        values = [v+add_constant for v in values]
+        return [np.sqrt(v) for v in values]
 
     return [np.sqrt(v) for v in values]
